@@ -1,0 +1,5002 @@
+[
+  {
+    "id": 1,
+    "autor": "Charles Chaplin",
+    "frase": "A persistência é o caminho do êxito."
+  },
+  {
+    "id": 2,
+    "autor": "José de Alencar",
+    "frase": "O sucesso nasce do querer, da determinação e persistência em se chegar a um objetivo. Mesmo não atingindo o alvo, quem busca e vence obstáculos, no mínimo fará coisas admiráveis."
+  },
+  {
+    "id": 3,
+    "autor": "Dalai Lama",
+    "frase": "Determinação, coragem e autoconfiança são fatores decisivos para o sucesso. Se estamos possuídos por uma inabalável determinação, conseguiremos superá-los. Independentemente das circunstâncias, devemos ser sempre humildes, recatados e despidos de orgulho."
+  },
+  {
+    "id": 4,
+    "autor": "Tumblr",
+    "frase": "Lute. Acredite. Conquiste. Perca. Deseje. Espere. Alcance. Invada. Caia. Seja tudo o quiser ser, mas, acima de tudo, seja você sempre."
+  },
+  {
+    "id": 5,
+    "autor": "Fernando Pessoa",
+    "frase": "Agir, eis a inteligência verdadeira. Serei o que quiser. Mas tenho que querer o que for. O êxito está em ter êxito, e não em ter condições de êxito. Condições de palácio tem qualquer terra larga, mas onde estará o palácio se não o fizerem ali?"
+  },
+  {
+    "id": 6,
+    "autor": "Cristopher Morley",
+    "frase": "Só existe um êxito: a capacidade de levar a vida que se quer."
+  },
+  {
+    "id": 7,
+    "autor": "F. Scott Fitzgerald",
+    "frase": "A vitalidade é demonstrada não apenas pela persistência, mas pela capacidade de começar de novo."
+  },
+  {
+    "id": 8,
+    "autor": "Desconhecido",
+    "frase": "A coragem não é ausência do medo; é a persistência apesar do medo."
+  },
+  {
+    "id": 9,
+    "autor": "Friedrich Nietzsche",
+    "frase": "Só se pode alcançar um grande êxito quando nos mantemos fiéis a nós mesmos."
+  },
+  {
+    "id": 10,
+    "autor": "Max Weber",
+    "frase": "O homem não teria alcançado o possível se, repetidas vezes, não tivesse tentado o impossível."
+  },
+  {
+    "id": 11,
+    "autor": "Augusto Branco",
+    "frase": "Lute com determinação, abrace a vida com paixão, perca com classe e vença com ousadia, porque o mundo pertence a quem se atreve e a vida é muito para ser insignificante."
+  },
+  {
+    "id": 12,
+    "autor": "Os Paralamas do Sucesso",
+    "frase": "E são tantas marcas\nQue já fazem parte\nDo que eu sou agora\nMas ainda sei me virar"
+  },
+  {
+    "id": 13,
+    "autor": "Oscar Wilde",
+    "frase": "Todo mundo é capaz de sentir os sofrimentos de um amigo. Ver com agrado os seus êxitos exige uma natureza muito delicada."
+  },
+  {
+    "id": 14,
+    "autor": "John Dryden",
+    "frase": "Força de ânimo e coragem na adversidade servem para conquistar o êxito, mais do que um exército."
+  },
+  {
+    "id": 15,
+    "autor": "Salústio",
+    "frase": "O sucesso tem uma estranha capacidade de esconder o erro."
+  },
+  {
+    "id": 16,
+    "autor": "Joyce Brothers",
+    "frase": "Uma autoimagem forte e positiva é a melhor preparação possível para o sucesso."
+  },
+  {
+    "id": 17,
+    "autor": "Machado de Assis",
+    "frase": "Creia em si, mas não duvide sempre dos outros."
+  },
+  {
+    "id": 18,
+    "autor": "Samuel Johnson",
+    "frase": "Dois homens não podem passar meia hora juntos sem que um conquiste uma evidente superioridade em relação ao outro."
+  },
+  {
+    "id": 19,
+    "autor": "Desconhecido",
+    "frase": "Não deixe que as pessoas te façam desistir daquilo que você mais quer na vida. Acredite. Lute. Conquiste. E acima de tudo, seja feliz!"
+  },
+  {
+    "id": 20,
+    "autor": "Augusto Branco",
+    "frase": "Talento é dom, é graça. E sucesso nada tem a ver com sorte, mas com determinação e trabalho."
+  },
+  {
+    "id": 21,
+    "autor": "Charles Chaplin",
+    "frase": "A persistência é o caminho do êxito."
+  },
+  {
+    "id": 22,
+    "autor": "José de Alencar",
+    "frase": "O sucesso nasce do querer, da determinação e persistência em se chegar a um objetivo. Mesmo não atingindo o alvo, quem busca e vence obstáculos, no mínimo fará coisas admiráveis."
+  },
+  {
+    "id": 23,
+    "autor": "Dalai Lama",
+    "frase": "Determinação, coragem e autoconfiança são fatores decisivos para o sucesso. Se estamos possuídos por uma inabalável determinação, conseguiremos superá-los. Independentemente das circunstâncias, devemos ser sempre humildes, recatados e despidos de orgulho."
+  },
+  {
+    "id": 24,
+    "autor": "Tumblr",
+    "frase": "Lute. Acredite. Conquiste. Perca. Deseje. Espere. Alcance. Invada. Caia. Seja tudo o quiser ser, mas, acima de tudo, seja você sempre."
+  },
+  {
+    "id": 25,
+    "autor": "Fernando Pessoa",
+    "frase": "Agir, eis a inteligência verdadeira. Serei o que quiser. Mas tenho que querer o que for. O êxito está em ter êxito, e não em ter condições de êxito. Condições de palácio tem qualquer terra larga, mas onde estará o palácio se não o fizerem ali?"
+  },
+  {
+    "id": 26,
+    "autor": "Cristopher Morley",
+    "frase": "Só existe um êxito: a capacidade de levar a vida que se quer."
+  },
+  {
+    "id": 27,
+    "autor": "F. Scott Fitzgerald",
+    "frase": "A vitalidade é demonstrada não apenas pela persistência, mas pela capacidade de começar de novo."
+  },
+  {
+    "id": 28,
+    "autor": "Desconhecido",
+    "frase": "A coragem não é ausência do medo; é a persistência apesar do medo."
+  },
+  {
+    "id": 29,
+    "autor": "Friedrich Nietzsche",
+    "frase": "Só se pode alcançar um grande êxito quando nos mantemos fiéis a nós mesmos."
+  },
+  {
+    "id": 30,
+    "autor": "Max Weber",
+    "frase": "O homem não teria alcançado o possível se, repetidas vezes, não tivesse tentado o impossível."
+  },
+  {
+    "id": 31,
+    "autor": "Augusto Branco",
+    "frase": "Lute com determinação, abrace a vida com paixão, perca com classe e vença com ousadia, porque o mundo pertence a quem se atreve e a vida é muito para ser insignificante."
+  },
+  {
+    "id": 32,
+    "autor": "Os Paralamas do Sucesso",
+    "frase": "E são tantas marcas\nQue já fazem parte\nDo que eu sou agora\nMas ainda sei me virar"
+  },
+  {
+    "id": 33,
+    "autor": "Oscar Wilde",
+    "frase": "Todo mundo é capaz de sentir os sofrimentos de um amigo. Ver com agrado os seus êxitos exige uma natureza muito delicada."
+  },
+  {
+    "id": 34,
+    "autor": "John Dryden",
+    "frase": "Força de ânimo e coragem na adversidade servem para conquistar o êxito, mais do que um exército."
+  },
+  {
+    "id": 35,
+    "autor": "Salústio",
+    "frase": "O sucesso tem uma estranha capacidade de esconder o erro."
+  },
+  {
+    "id": 36,
+    "autor": "Joyce Brothers",
+    "frase": "Uma autoimagem forte e positiva é a melhor preparação possível para o sucesso."
+  },
+  {
+    "id": 37,
+    "autor": "Machado de Assis",
+    "frase": "Creia em si, mas não duvide sempre dos outros."
+  },
+  {
+    "id": 38,
+    "autor": "Samuel Johnson",
+    "frase": "Dois homens não podem passar meia hora juntos sem que um conquiste uma evidente superioridade em relação ao outro."
+  },
+  {
+    "id": 39,
+    "autor": "Desconhecido",
+    "frase": "Não deixe que as pessoas te façam desistir daquilo que você mais quer na vida. Acredite. Lute. Conquiste. E acima de tudo, seja feliz!"
+  },
+  {
+    "id": 40,
+    "autor": "Peter Drucker",
+    "frase": "Para ter um negócio de sucesso, alguém, algum dia, teve que tomar uma atitude de coragem."
+  },
+  {
+    "id": 41,
+    "autor": "Augusto Branco",
+    "frase": "Talento é dom, é graça. E sucesso nada tem a ver com sorte, mas com determinação e trabalho."
+  },
+  {
+    "id": 42,
+    "autor": "Bill Gates",
+    "frase": "As únicas grandes companhias que conseguirão ter êxito são aquelas que consideram os seus produtos obsoletos antes que os outros o façam."
+  },
+  {
+    "id": 43,
+    "autor": "Abraham Lincoln",
+    "frase": "Nenhum mentiroso tem uma memória suficientemente boa para ser um mentiroso de êxito."
+  },
+  {
+    "id": 44,
+    "autor": "Henry Ford",
+    "frase": "Estar decidido, acima de qualquer coisa, é o segredo do êxito."
+  },
+  {
+    "id": 45,
+    "autor": "Barão de Montesquieu",
+    "frase": "Para obter êxito no mundo temos de parecer loucos mas sermos espertos."
+  },
+  {
+    "id": 46,
+    "autor": "Ésquilo",
+    "frase": "A disciplina é a mãe do êxito."
+  },
+  {
+    "id": 47,
+    "autor": "Benjamin Disraeli",
+    "frase": "O segredo do êxito na vida de um homem está em preparar-se para aproveitar a ocasião, quando ela se apresenta."
+  },
+  {
+    "id": 48,
+    "autor": "Roberto Flávio C. Silva",
+    "frase": "O êxito começa no exato momento em que o homem decide o que quer e começa a trabalhar para consegui-lo."
+  },
+  {
+    "id": 49,
+    "autor": "George Washington",
+    "frase": "A disciplina é a alma de um exército; torna grandes os pequenos contingentes, proporciona êxito aos fracos, e estima todos."
+  },
+  {
+    "id": 50,
+    "autor": "Emily Dickinson",
+    "frase": "O êxito parece doce a quem não o alcança."
+  },
+  {
+    "id": 51,
+    "autor": "Bertrand Russell",
+    "frase": "A raiz do mal reside no fato de se insistir demasiadamente que no êxito da competição está a principal fonte de felicidade."
+  },
+  {
+    "id": 52,
+    "autor": "Francis Bacon",
+    "frase": "Não existe comparação entre aquilo que é perdido por não se obter êxito e aquilo que é perdido por não se tentar."
+  },
+  {
+    "id": 53,
+    "autor": "Virginia Woolf",
+    "frase": "O preço barato do papel é a razão por que as mulheres começaram por ter êxito na literatura, antes de o alcançarem noutras profissões."
+  },
+  {
+    "id": 54,
+    "autor": "Romain Rolland",
+    "frase": "Pouco nos importa o êxito. Trata-se de sermos grandes e não de o parecermos."
+  },
+  {
+    "id": 55,
+    "autor": "Textos Budistas",
+    "frase": "O conhecimento coroa os esforços com o êxito."
+  },
+  {
+    "id": 56,
+    "autor": "Thomas Atkinson",
+    "frase": "Não é um notável talento o que se exige para assegurar o êxito em qualquer empreendimento, mas sim um firme propósito."
+  },
+  {
+    "id": 57,
+    "autor": "Provérbio Chinês",
+    "frase": "A persistência realiza o impossível."
+  },
+  {
+    "id": 58,
+    "autor": "Marabel Morgan",
+    "frase": "Persistência é a irmã gêmea da excelência. Uma é a mãe da qualidade, a outra é a mãe do tempo."
+  },
+  {
+    "id": 59,
+    "autor": "Anaïs Nin",
+    "frase": "Eu escolho um homem que não duvide de minha coragem, que não me acredite inocente, que tenha a coragem de me tratar como uma mulher."
+  },
+  {
+    "id": 60,
+    "autor": "George Lorimer",
+    "frase": "Você tem que acordar cada manhã com determinação se você pretende ir para a cama com satisfação."
+  },
+  {
+    "id": 61,
+    "autor": "Victor Hugo",
+    "frase": "As pessoas não carecem de força, carecem de determinação."
+  },
+  {
+    "id": 62,
+    "autor": "Georges Bernanos",
+    "frase": "A verdadeira esperança é uma qualidade, uma determinação heroica da alma. E a mais elevada forma de esperança é o desespero superado."
+  },
+  {
+    "id": 63,
+    "autor": "Mario Quintana",
+    "frase": "Da amizade entre mulheres\n\nDizem-se amigas... Beijam-se... Mas qual!\nHaverá quem nisso creia?\nSalvo se uma das duas, por sinal,\nFor muito velha, ou muito feia..."
+  },
+  {
+    "id": 64,
+    "autor": "Martin Luther King",
+    "frase": "Suba o primeiro degrau com fé. Não é necessário que você veja toda a escada. Apenas dê o primeiro passo."
+  },
+  {
+    "id": 65,
+    "autor": "Desconhecido",
+    "frase": "Conserve os olhos fixos num ideal sublime e lute sempre pelo que deseja, pois só os fracos desistem e só quem luta é digno de vida."
+  },
+  {
+    "id": 66,
+    "autor": "Ernesto Sabato",
+    "frase": "A esperança não será a prova de um sentido oculto da Existência, uma coisa que merece que se lute por ela?"
+  },
+  {
+    "id": 67,
+    "autor": "Bruna Martins",
+    "frase": "Ame, acredite, pense, grite, sonhe, conquiste, lute, batalhe, tenha força, tenha foco, tenha fé. Sorria e agradeça a Deus por mais um dia."
+  },
+  {
+    "id": 68,
+    "autor": "Booker T. Washington",
+    "frase": "O êxito da vida não se mede pelo caminho que você conquistou, mas sim pelas dificuldades que superou no caminho."
+  },
+  {
+    "id": 69,
+    "autor": "Napoleão Bonaparte",
+    "frase": "A impaciência é um grande obstáculo para o bom êxito."
+  },
+  {
+    "id": 70,
+    "autor": "Albert Einstein",
+    "frase": "Não procure ser um homem com êxito, e sim um homem com valores."
+  },
+  {
+    "id": 71,
+    "autor": "Albert Camus",
+    "frase": "O êxito é fácil de obter. O difícil é merecê-lo."
+  },
+  {
+    "id": 72,
+    "autor": "Maxwell Maltz",
+    "frase": "O êxito na vida não significa apenas ser bem sucedido, mas também sobrepor-se aos fracassos."
+  },
+  {
+    "id": 73,
+    "autor": "Machado de Assis",
+    "frase": "A vida é uma ópera, e uma grande ópera.\nDeus é o poeta; a música é de Satanás.\nO êxito é crescente.\nPoeta e músico recebem pontualmente os seus direitos autorais,\nque não são os mesmos."
+  },
+  {
+    "id": 74,
+    "autor": "Albert Einstein",
+    "frase": "Tudo deveria se tornar o mais simples possível, mas não simplificado."
+  },
+  {
+    "id": 75,
+    "autor": "São Francisco de Assis",
+    "frase": "Comece fazendo o que é necessário, depois o que é possível, e de repente você estará fazendo o impossível."
+  },
+  {
+    "id": 76,
+    "autor": "Aristóteles",
+    "frase": "O erro acontece de vários modos, enquanto ser correto é possível apenas de um modo."
+  },
+  {
+    "id": 77,
+    "autor": "Leon Tolstói",
+    "frase": "Não é possível ser bom pela metade."
+  },
+  {
+    "id": 78,
+    "autor": "Textos Judaicos",
+    "frase": "O milagre não prova o impossível; serve, apenas, como confirmação do que é possível."
+  },
+  {
+    "id": 79,
+    "autor": "Charles Bukowski",
+    "frase": "As pessoas que resolviam as coisas em geral tinham muita persistência e um pouco de sorte. Se a gente persistisse o bastante, a sorte em geral chegava. Mas a maioria das pessoas não podia esperar a sorte, por isso desistia."
+  },
+  {
+    "id": 80,
+    "autor": "Roberto Shinyashiki",
+    "frase": "Tudo o que um sonho precisa para ser realizado é alguém que acredite que ele possa ser realizado."
+  },
+  {
+    "id": 81,
+    "autor": "Augusto Branco",
+    "frase": "Bom mesmo é ir à luta com determinação,\nabraçar a vida com paixão,\nperder com classe\ne vencer com ousadia,\nporque o mundo pertence a quem se atreve\ne a vida é muito para ser insignificante."
+  },
+  {
+    "id": 82,
+    "autor": "Tati Bernardi",
+    "frase": "E por mais forte que você seja, por mais determinação que você tenha pra esquecer aquilo, chega uma hora que você sente falta, sente vontade de botar o orgulho de lado e dizer a ele que apesar da distância o amor continua igual."
+  },
+  {
+    "id": 83,
+    "autor": "Mahatma Gandhi",
+    "frase": "A força não provém da capacidade física. Provém de uma vontade indomável."
+  },
+  {
+    "id": 84,
+    "autor": "Cynthia Kersey",
+    "frase": "Acredite em si próprio e chegará um dia em que os outros não terão outra escolha senão acreditar com você."
+  },
+  {
+    "id": 85,
+    "autor": "Daniel Godri",
+    "frase": "Se a sua vida for a melhor coisa que já te aconteceu, acredite, você tem mais sorte do que pode imaginar."
+  },
+  {
+    "id": 86,
+    "autor": "Henry Ford",
+    "frase": "Quer você acredite que consiga fazer uma coisa ou não, você está certo."
+  },
+  {
+    "id": 87,
+    "autor": "Cícero",
+    "frase": "Ninguém é assim tão velho que não acredite que poderá viver por mais um ano."
+  },
+  {
+    "id": 88,
+    "autor": "Oscar Wilde",
+    "frase": "O número dos que nos invejam confirma as nossas capacidades."
+  },
+  {
+    "id": 89,
+    "autor": "Arthur Schopenhauer",
+    "frase": "Nas pessoas de capacidade limitada, a modéstia não passa de mera honestidade, mas em quem possui grande talento, é hipocrisia."
+  },
+  {
+    "id": 90,
+    "autor": "Buda",
+    "frase": "É capaz quem pensa que é capaz."
+  },
+  {
+    "id": 91,
+    "autor": "Pitágoras",
+    "frase": "O ser capaz mora perto da necessidade."
+  },
+  {
+    "id": 92,
+    "autor": "Mahatma Gandhi",
+    "frase": "Quem sabe concentrar-se numa coisa e insistir nela como único objetivo, obtém a capacidade de fazer qualquer coisa."
+  },
+  {
+    "id": 93,
+    "autor": "Mario Quintana",
+    "frase": "LEGÍTIMA APROPRIAÇÃO\nCopio e assino essa frase encontrada no velho Schopenhauer: \"A soma de barulho que uma pessoa pode suportar está na razão inversa de sua capacidade mental\"."
+  },
+  {
+    "id": 94,
+    "autor": "Napoleão Bonaparte",
+    "frase": "A capacidade pouco vale sem oportunidade."
+  },
+  {
+    "id": 95,
+    "autor": "Adlai Stevenson",
+    "frase": "É difícil liderar uma cavalaria se você não sabe montar a cavalo."
+  },
+  {
+    "id": 96,
+    "autor": "Oliver Goldsmith",
+    "frase": "A nossa maior glória não reside no fato de nunca cairmos, mas sim em levantarmo-nos sempre depois de cada queda."
+  },
+  {
+    "id": 97,
+    "autor": "Confúcio",
+    "frase": "Transportai um punhado de terra todos os dias e fareis uma montanha."
+  },
+  {
+    "id": 98,
+    "autor": "Victor Hugo",
+    "frase": "Seja como os pássaros que, ao pousarem um instante sobre ramos muito leves, sentem-nos ceder, mas cantam! Eles sabem que possuem asas."
+  },
+  {
+    "id": 99,
+    "autor": "Jacob Riis",
+    "frase": "Quando nada parece dar certo, vou ver o cortador de pedras martelando sua rocha talvez 100 vezes, sem que uma única rachadura apareça. Mas na centésima primeira martelada a pedra se abre em duas, e eu sei que não foi aquela que conseguiu isso, mas todas as que vieram antes."
+  },
+  {
+    "id": 100,
+    "autor": "Margaret Thatcher",
+    "frase": "Gostaria que você soubesse que existe dentro de si uma força capaz de mudar sua vida. Basta que lute e aguarde um novo amanhecer."
+  },
+  {
+    "id": 101,
+    "autor": "Augusto Cury",
+    "frase": "Jamais desista das pessoas que ama. Jamais desista de ser feliz. Lute sempre pelos seus sonhos. Seja profundamente apaixonado pela vida. Pois a vida é um espetáculo imperdível."
+  },
+  {
+    "id": 102,
+    "autor": "Tumblr",
+    "frase": "Ame mesmo que isso cause sofrimento, mesmo que todo mundo fale para desistir. Lute pelo que você quer."
+  },
+  {
+    "id": 103,
+    "autor": "Mario Quintana",
+    "frase": "Maravilhas nunca faltaram ao mundo; o que sempre falta é a capacidade de senti-las e admirá-las."
+  },
+  {
+    "id": 104,
+    "autor": "Stephen Hawking",
+    "frase": "Inteligência é a capacidade de se adaptar à mudança."
+  },
+  {
+    "id": 105,
+    "autor": "Oscar Wilde",
+    "frase": "Deus, ao criar o homem, superestimou a Sua capacidade."
+  },
+  {
+    "id": 106,
+    "autor": "Millôr Fernandes",
+    "frase": "Capacidade de saber cada vez mais sobre cada vez menos, até saber tudo sobre nada."
+  },
+  {
+    "id": 107,
+    "autor": "Bertolt Brecht",
+    "frase": "O amor é a arte de criar algo com a ajuda da capacidade do outro."
+  },
+  {
+    "id": 108,
+    "autor": "Harry Truman",
+    "frase": "A liderança é a capacidade de conseguir que as pessoas façam o que não querem fazer e gostem de o fazer."
+  },
+  {
+    "id": 109,
+    "autor": "Desconhecido",
+    "frase": "Tato é a capacidade de se descrever os outros tal como eles se julgam."
+  },
+  {
+    "id": 110,
+    "autor": "George Orwell",
+    "frase": "Pensamento duplo indica a capacidade de ter na mente, ao mesmo tempo, duas opiniões contraditórias e aceitar ambas."
+  },
+  {
+    "id": 111,
+    "autor": "Henry Van Dyke",
+    "frase": "Usa a capacidade que tens. A floresta ficaria mais silenciosa se só o melhor pássaro cantasse."
+  },
+  {
+    "id": 112,
+    "autor": "George Bernard Shaw",
+    "frase": "A sabedoria dos homens é proporcional não à sua experiência, mas à sua capacidade de adquirir experiência."
+  },
+  {
+    "id": 113,
+    "autor": "Youssuf Karsh",
+    "frase": "Os grandes homens estão muitas vezes solitários. Mas essa solidão é parte da sua capacidade de criar. O caráter, assim como a fotografia, desenvolve-se no escuro."
+  },
+  {
+    "id": 114,
+    "autor": "Edmund Burke",
+    "frase": "Nenhuma paixão pode, como o medo, tão efectivamente roubar o espírito da capacidade de agir e pensar."
+  },
+  {
+    "id": 115,
+    "autor": "F. Scott Fitzgerald",
+    "frase": "A marca de uma inteligência de primeira ordem é a capacidade de ter duas ideias opostas presentes no espírito ao mesmo tempo e nem por isso deixar de funcionar."
+  },
+  {
+    "id": 116,
+    "autor": "F. Scott Fitzgerald",
+    "frase": "A genialidade é a capacidade de realizar aquilo que existe no pensamento."
+  },
+  {
+    "id": 117,
+    "autor": "Laranja Mêcanica",
+    "frase": "A virtude vem de nós mesmos. É uma escolha que só a nós pertence. Quando um homem perde a capacidade de escolher, deixa de ser homem."
+  },
+  {
+    "id": 118,
+    "autor": "Millôr Fernandes",
+    "frase": "[Sobre o Xadrez]\nJogo chinês que aumenta a capacidade de jogar xadrez."
+  },
+  {
+    "id": 119,
+    "autor": "Roy Smith",
+    "frase": "A disciplina é a chama refinadora através da qual o talento se transforma em capacidade."
+  },
+  {
+    "id": 120,
+    "autor": "Theodore Adorno",
+    "frase": "O amor é a capacidade de perceber o semelhante no dessemelhante."
+  },
+  {
+    "id": 121,
+    "autor": "Gustave Flaubert",
+    "frase": "À medida que nos elevamos na escala dos seres, a capacidade nervosa aumenta, ou seja, a capacidade de sofrer. Sofrer e pensar seriam então a mesma coisa?"
+  },
+  {
+    "id": 122,
+    "autor": "Peter Senge",
+    "frase": "O futuro das organizações - e nações - dependerá cada vez mais de sua capacidade de aprender coletivamente."
+  },
+  {
+    "id": 123,
+    "autor": "Myles Munroe",
+    "frase": "Visão é a capacidade de enxergar além do que os olhos são capazes."
+  },
+  {
+    "id": 124,
+    "autor": "Alice no País das Maravilhas",
+    "frase": "A única forma de chegar ao impossível é acreditar que é possível."
+  },
+  {
+    "id": 125,
+    "autor": "Fernando Pessoa",
+    "frase": "Viver é ser outro. Nem sentir é possível se hoje se sente como ontem se sentiu: sentir hoje o mesmo que ontem não é sentir - é lembrar hoje o que se sentiu ontem, ser hoje o cadáver vivo do que ontem foi a vida perdida."
+  },
+  {
+    "id": 126,
+    "autor": "Sêneca",
+    "frase": "Não se pode acreditar que é possível ser feliz procurando a infelicidade alheia."
+  },
+  {
+    "id": 127,
+    "autor": "Carl Sagan",
+    "frase": "Não é possível convencer um crente de coisa alguma, pois suas crenças não se baseiam em evidências; baseiam-se numa profunda necessidade de acreditar."
+  },
+  {
+    "id": 128,
+    "autor": "Galileu Galilei",
+    "frase": "Não se pode ensinar nada a um homem; só é possivel ajudá-lo a encontrar a coisa dentro de si."
+  },
+  {
+    "id": 129,
+    "autor": "Johann Goethe",
+    "frase": "Só é possível ensinar uma criança a amar, amando-a."
+  },
+  {
+    "id": 130,
+    "autor": "Sócrates",
+    "frase": "A um homem bom não é possível que ocorra nenhum mal, nem em vida nem em morte."
+  },
+  {
+    "id": 131,
+    "autor": "Arthur Schopenhauer",
+    "frase": "Por sabedoria entendo a arte de tornar a vida mais agradável e feliz possível."
+  },
+  {
+    "id": 132,
+    "autor": "Johann Goethe",
+    "frase": "O mais belo estado da vida é a dependência livre e voluntária: e como seria ela possível sem amor?"
+  },
+  {
+    "id": 133,
+    "autor": "Giacomo Leopardi",
+    "frase": "É possível repousar sobre qualquer dor de qualquer desventura, menos sobre o arrependimento. No arrependimento não há descanso nem paz, e por isso é a maior ou a mais amarga de todas as desgraças."
+  },
+  {
+    "id": 134,
+    "autor": "Honoré de Balzac",
+    "frase": "É possível amar e não ser feliz, é possível ser feliz e não amar, mas amar e simultaneamente ser feliz, isso seria milagre."
+  },
+  {
+    "id": 135,
+    "autor": "Henry Ford",
+    "frase": "O homem que empenha todo o seu trabalho e imaginação em oferecer por um dólar o mais possível, em vez de menos, está condenado ao sucesso."
+  },
+  {
+    "id": 136,
+    "autor": "Henry David Thoreau",
+    "frase": "Como se fosse possível matar o tempo sem ferir a eternidade."
+  },
+  {
+    "id": 137,
+    "autor": "Sigmund Freud",
+    "frase": "Contra os ataques é possível nos defendermos: contra o elogio não se pode fazer nada."
+  },
+  {
+    "id": 138,
+    "autor": "Winston Churchill",
+    "frase": "É inútil dizer \"estamos a fazer o possível\". Precisamos de fazer o que é necessário."
+  },
+  {
+    "id": 139,
+    "autor": "Aristóteles",
+    "frase": "[Em arte] o impossível verossímil é preferível ao possível não acreditável."
+  },
+  {
+    "id": 140,
+    "autor": "Jules Renard",
+    "frase": "Não é possível chorar e pensar ao mesmo tempo, pois cada pensamento absorve uma lágrima."
+  },
+  {
+    "id": 141,
+    "autor": "Oscar Wilde",
+    "frase": "Os outros são realmente terríveis. A única sociedade possível é a de nós mesmos."
+  },
+  {
+    "id": 142,
+    "autor": "Hermann Hesse",
+    "frase": "Sem amor por si mesmo, o amor pelos outros também não é possível. O ódio por si mesmo é exatamente idêntico ao flagrante egoísmo e, no final, conduz ao mesmo isolamento cruel e ao mesmo desespero."
+  },
+  {
+    "id": 143,
+    "autor": "Rudolf Dreikurs",
+    "frase": "É possível mudar nossas vidas e a atitude daqueles que nos cercam simplesmente mudando a nós mesmos."
+  },
+  {
+    "id": 144,
+    "autor": "Hermann Hesse",
+    "frase": "Para que resulte o possível deve ser tentado o impossível."
+  },
+  {
+    "id": 145,
+    "autor": "Jonathan Swift",
+    "frase": "Como é possível esperar que a humanidade ouça conselhos, se nem sequer ouve as advertências."
+  },
+  {
+    "id": 146,
+    "autor": "René Descartes",
+    "frase": "Basta ajuizar bem para bem fazer, e julgar o melhor que nos seja possível para fazermos também o nosso melhor."
+  },
+  {
+    "id": 147,
+    "autor": "Lao-Tsé",
+    "frase": "Sem passar da porta de casa, é possível saber o que acontece no mundo...\nQuanto mais longe se busca o saber, menos se aprende."
+  },
+  {
+    "id": 148,
+    "autor": "Alexandre Dumas (filho)",
+    "frase": "Como é possível que, sendo as criancinhas tão inteligentes, a maioria das pessoas sejam tão tolas? A educação deve ter algo a ver com isso!"
+  },
+  {
+    "id": 149,
+    "autor": "René Descartes",
+    "frase": "Divide as dificuldades que tenhas de examinar em tantas partes quantas for possível para uma melhor solução."
+  },
+  {
+    "id": 150,
+    "autor": "Otto von Bismarck",
+    "frase": "Com leis ruins e funcionários bons ainda é possível governar. Mas com funcionários ruins as melhores leis não servem para nada."
+  },
+  {
+    "id": 151,
+    "autor": "Henry de Montherlant",
+    "frase": "Se fosse possível somente deslizar para os braços da mulher e no entanto não cair nas suas mãos."
+  },
+  {
+    "id": 152,
+    "autor": "Robert Mallet",
+    "frase": "O que mais desespera não é o impossível. Mas o possível não alcançado."
+  },
+  {
+    "id": 153,
+    "autor": "Jean-Jacques Rousseau",
+    "frase": "Visto que o fundamento da propriedade é a utilidade, onde não houver utilidade possível não pode existir propriedade."
+  },
+  {
+    "id": 154,
+    "autor": "Lord Byron",
+    "frase": "Terrível é que não é possível viver com as mulheres, nem sem elas."
+  },
+  {
+    "id": 155,
+    "autor": "Públio Siro",
+    "frase": "Somente nas infelicidades é possível conhecer os verdadeiros amigos."
+  },
+  {
+    "id": 156,
+    "autor": "Gilbert Cesbron",
+    "frase": "É-nos possível viver sozinhos, desde que seja à espera de alguém."
+  },
+  {
+    "id": 157,
+    "autor": "Bertrand Russell",
+    "frase": "Pedir demasiado é a maneira mais segura de receber ainda menos do que é possível."
+  },
+  {
+    "id": 158,
+    "autor": "Charles Baudelaire",
+    "frase": "A imaginação é a rainha do real e o possível é uma das províncias do real."
+  },
+  {
+    "id": 159,
+    "autor": "Denis Diderot",
+    "frase": "Penso que é indispensável fazer um grande mal momentâneo para que venha a ser possível um grande bem duradouro."
+  },
+  {
+    "id": 160,
+    "autor": "Aristóteles",
+    "frase": "É possível fracassar de diversas maneiras, enquanto triunfar só é possível de uma maneira."
+  },
+  {
+    "id": 161,
+    "autor": "Hugo Hofmannsthal",
+    "frase": "Sem o amor-próprio nenhuma vida é possível, nem sequer a mais leve decisão, só desespero e rigidez."
+  },
+  {
+    "id": 162,
+    "autor": "Blaise Pascal",
+    "frase": "Não sendo possível fazer-se com que aquilo que é justo seja forte, faz-se com que o que é forte seja justo."
+  },
+  {
+    "id": 163,
+    "autor": "Vergílio Ferreira",
+    "frase": "Ama-se a vitória difícil, porque a derrota lhe preenchia quase todo o espaço possível. E foi com o que restava que se venceu em todo ele."
+  },
+  {
+    "id": 164,
+    "autor": "Aristóteles",
+    "frase": "Tendo em conta as condições de que dispõe e na medida do possível, é a natureza que faz sempre as coisas mais belas e melhores."
+  },
+  {
+    "id": 165,
+    "autor": "Benjamin Constant",
+    "frase": "Verifiquei que, aos homens, se devia agradecer o menos possível, porque o reconhecimento que lhes testemunhamos os convence, facilmente, de que estão a fazer de mais!"
+  },
+  {
+    "id": 166,
+    "autor": "Tennessee Williams",
+    "frase": "É possível ser jovem sem ter dinheiro, mas não se pode ser velho sem ele."
+  },
+  {
+    "id": 167,
+    "autor": "Charles Saint-Beuve",
+    "frase": "É preciso escrever o mais possível como se falasse e não falar demais como se escrevesse."
+  },
+  {
+    "id": 168,
+    "autor": "Alec Bourne",
+    "frase": "É possível guardar na mente um milhão de fatos e ainda assim ser totalmente sem educação."
+  },
+  {
+    "id": 169,
+    "autor": "Cesare Pavese",
+    "frase": "A política é a arte do possível. Toda a vida é política."
+  },
+  {
+    "id": 170,
+    "autor": "Gertrude Stein",
+    "frase": "A única coisa que torna possível a identidade é a ausência de mudança, mas ninguém acredita de fato que se seja semelhante àquilo de que se lembra."
+  },
+  {
+    "id": 171,
+    "autor": "Suzanne Necker",
+    "frase": "É possível impor silêncio ao sentimento; não é, porém, possível marcar-lhe limites."
+  },
+  {
+    "id": 172,
+    "autor": "Ezra Pound",
+    "frase": "A grande literatura é apenas uma linguagem carregada de sentido até ao mais elevado grau possível."
+  },
+  {
+    "id": 173,
+    "autor": "Thomas Browne",
+    "frase": "Acreditar naquilo que é possível, não é fé, mas simples filosofia."
+  },
+  {
+    "id": 174,
+    "autor": "Honoré de Balzac",
+    "frase": "O poder é uma ação, e o princípio eletivo é o da discussão. Não há política possível com uma discussão permanente."
+  },
+  {
+    "id": 175,
+    "autor": "Camilo Castelo Branco",
+    "frase": "Viver é ansiar a felicidade possível e a impossível."
+  },
+  {
+    "id": 176,
+    "autor": "Paulo Coelho",
+    "frase": "Todos os dias Deus nos dá um momento em que é possível mudar tudo que nos deixa infelizes. O instante mágico é o momento em que um \"sim\" ou um \"não\" pode mudar toda a nossa existência."
+  },
+  {
+    "id": 177,
+    "autor": "Paulo Coelho",
+    "frase": "Sempre que possível, seja claro. Mas que sua clareza não seja o motivo para ferir o outros."
+  },
+  {
+    "id": 178,
+    "autor": "Paulo Coelho",
+    "frase": "Quando você quer alguma coisa, todo o universo conspira para que você realize o seu desejo."
+  },
+  {
+    "id": 179,
+    "autor": "Fernando Pessoa",
+    "frase": "Querer não é poder. Quem pôde, quis antes de poder só depois de poder. Quem quer nunca há-de poder, porque se perde em querer."
+  },
+  {
+    "id": 180,
+    "autor": "William Shakespeare",
+    "frase": "É comum perder-se o bom por querer o melhor."
+  },
+  {
+    "id": 181,
+    "autor": "Fernando Pessoa",
+    "frase": "A renúncia é a libertação. Não querer é poder."
+  },
+  {
+    "id": 182,
+    "autor": "Aristóteles",
+    "frase": "Alguns pensam que para se ser amigo basta querê-lo, como se para se estar são bastasse desejar a saúde..."
+  },
+  {
+    "id": 183,
+    "autor": "Álvaro de Campos",
+    "frase": "Não sou nada.\nNunca serei nada.\nNão posso querer ser nada.\nÀ parte isso, tenho em mim todos os sonhos do mundo."
+  },
+  {
+    "id": 184,
+    "autor": "Jean-Jacques Rousseau",
+    "frase": "A espécie de felicidade de que preciso não é fazer o que quero, mas não fazer o que não quero."
+  },
+  {
+    "id": 185,
+    "autor": "Alexandre Herculano",
+    "frase": "É erro vulgar confundir o desejar com o querer. O desejo mede os obstáculos; a vontade vence-os."
+  },
+  {
+    "id": 186,
+    "autor": "Johann Goethe",
+    "frase": "Não basta saber, é preferível saber aplicar. Não é o bastante querer, é preciso saber querer."
+  },
+  {
+    "id": 187,
+    "autor": "Paderewsky",
+    "frase": "Querer vencer significa já ter percorrido metade do caminho."
+  },
+  {
+    "id": 188,
+    "autor": "Spencer Johnson",
+    "frase": "Felicidade não é ter o que você quer, é querer o que você tem.\n(Livro: Quem mexeu no meu queijo?)"
+  },
+  {
+    "id": 189,
+    "autor": "Marquês de Maricá",
+    "frase": "Não somos sempre o que queremos, mas o que as circunstâncias nos permitem ser."
+  },
+  {
+    "id": 190,
+    "autor": "Stubby Currence",
+    "frase": "O único lugar onde o sucesso vem antes do trabalho é no dicionário."
+  },
+  {
+    "id": 191,
+    "autor": "Albert Einstein",
+    "frase": "Se A é o sucesso, então A é igual a X mais Y mais Z. O trabalho é X; Y é o lazer; e Z é manter a boca fechada."
+  },
+  {
+    "id": 192,
+    "autor": "Desconhecido",
+    "frase": "O sucesso é ir de fracasso em fracasso sem perder o entusiasmo."
+  },
+  {
+    "id": 193,
+    "autor": "Paulo Coelho",
+    "frase": "Imagine uma nova história para sua vida e acredite nela."
+  },
+  {
+    "id": 194,
+    "autor": "Sarah Westphal",
+    "frase": "Desconfie do destino e acredite em você. Gaste mais horas realizando que sonhando, fazendo que planejando, vivendo que esperando porque, embora quem quase morre esteja vivo, quem quase vive já morreu."
+  },
+  {
+    "id": 195,
+    "autor": "Confúcio",
+    "frase": "Para conhecermos os amigos é necessário passar pelo sucesso e pela desgraça. No sucesso, verificamos a quantidade e, na desgraça, a qualidade."
+  },
+  {
+    "id": 196,
+    "autor": "Albert Einstein",
+    "frase": "Procure ser um homem de valor, em vez de ser um homem de sucesso."
+  },
+  {
+    "id": 197,
+    "autor": "Bill Gates",
+    "frase": "O sucesso é um professor perverso. Ele seduz as pessoas inteligentes e as faz pensar que jamais vão cair."
+  },
+  {
+    "id": 198,
+    "autor": "Charles Chaplin",
+    "frase": "Conhecer o homem - esta é a base de todo o sucesso."
+  },
+  {
+    "id": 199,
+    "autor": "Mark Twain",
+    "frase": "Vamos agradecer aos idiotas. Não fosse por eles não faríamos tanto sucesso."
+  },
+  {
+    "id": 200,
+    "autor": "Bertrand Russell",
+    "frase": "Os nossos pais amam-nos porque somos seus filhos, é um fato inalterável. Nos momentos de sucesso, isso pode parecer irrelevante, mas nas ocasiões de fracasso, oferecem um consolo e uma segurança que não se encontram em qualquer outro lugar."
+  },
+  {
+    "id": 201,
+    "autor": "Confúcio",
+    "frase": "Em todas as coisas o sucesso depende de uma preparação prévia, e sem tal preparação o falhanço é certo."
+  },
+  {
+    "id": 202,
+    "autor": "Salvador Dalí",
+    "frase": "O termômetro do sucesso é apenas a inveja dos descontentes."
+  },
+  {
+    "id": 203,
+    "autor": "Gustave Flaubert",
+    "frase": "O sucesso é uma consequência e não um objetivo."
+  },
+  {
+    "id": 204,
+    "autor": "Benjamin Disraeli",
+    "frase": "O segredo do sucesso é a constância do propósito."
+  },
+  {
+    "id": 205,
+    "autor": "Ésquilo",
+    "frase": "Há poucos homens capazes de prestar homenagem ao sucesso de um amigo, sem qualquer inveja."
+  },
+  {
+    "id": 206,
+    "autor": "Voltaire",
+    "frase": "Para ter sucesso neste mundo não basta ser estúpido, é preciso também ter boas maneiras."
+  },
+  {
+    "id": 207,
+    "autor": "George Washington",
+    "frase": "Minha mãe foi a mulher mais bonita que já vi. Tudo o que sou devo à minha mãe. Atribuo meu sucesso na vida à educação moral, intelectual e física que recebi dela."
+  },
+  {
+    "id": 208,
+    "autor": "Oscar Wilde",
+    "frase": "A moderação é uma coisa fatal (...). Nada tem mais sucesso do que o excesso."
+  },
+  {
+    "id": 209,
+    "autor": "William Hazlitt",
+    "frase": "Uma paixão forte por qualquer objeto assegurará o sucesso, porque o desejo pelo objetivo mostrará os meios."
+  },
+  {
+    "id": 210,
+    "autor": "Ralph Waldo Emerson",
+    "frase": "A confiança em si mesmo é o primeiro segredo do sucesso."
+  },
+  {
+    "id": 211,
+    "autor": "W. Somerset Maugham",
+    "frase": "O sucesso torna as pessoas modestas, amigáveis e tolerantes; é o fracasso que as faz ásperas e ruins."
+  },
+  {
+    "id": 212,
+    "autor": "George Burns",
+    "frase": "Eu preferiria ser um fracasso em algo que amo do que um sucesso em algo que odeio."
+  },
+  {
+    "id": 213,
+    "autor": "Xavier Maistre",
+    "frase": "Saber quando se deve esperar é o grande segredo do sucesso."
+  },
+  {
+    "id": 214,
+    "autor": "Mark Twain",
+    "frase": "Tudo o que é preciso na vida é ignorância e confiança; depois, o sucesso está garantido."
+  },
+  {
+    "id": 215,
+    "autor": "Friedrich Nietzsche",
+    "frase": "O sucesso tem sido sempre um grande mentiroso."
+  },
+  {
+    "id": 216,
+    "autor": "Eddie Cantor",
+    "frase": "Levei vinte anos para fazer sucesso da noite para o dia."
+  },
+  {
+    "id": 217,
+    "autor": "Dale Carnegie",
+    "frase": "Você nunca alcança o sucesso verdadeiro a menos que você goste do que está fazendo."
+  },
+  {
+    "id": 218,
+    "autor": "Lauro Trevisan",
+    "frase": "Que sua colheita seja abundante e eterna e o sorriso da felicidade e do sucesso enfeite os seus lábios."
+  },
+  {
+    "id": 219,
+    "autor": "Frank Lloyd Wright",
+    "frase": "Eu sei o preço do sucesso: dedicação, trabalho duro, e uma incessante devoção às coisas que você quer ver acontecer."
+  },
+  {
+    "id": 220,
+    "autor": "Bem Sweetland",
+    "frase": "O sucesso é uma viagem, não um ponto de destino."
+  },
+  {
+    "id": 221,
+    "autor": "Robert Collier",
+    "frase": "O sucesso é a soma de pequenos esforços - repetidos dia sim, e no outro dia também."
+  },
+  {
+    "id": 222,
+    "autor": "Mark Twain",
+    "frase": "Quando sobes a montanha do sucesso não encontras um amigo."
+  },
+  {
+    "id": 223,
+    "autor": "George Bernard Shaw",
+    "frase": "O segredo do sucesso é ofender o maior número de pessoas."
+  },
+  {
+    "id": 224,
+    "autor": "Epicteto",
+    "frase": "Sucesso é encontrar aquilo que se tenciona ser e depois fazer o que é necessário para isso."
+  },
+  {
+    "id": 225,
+    "autor": "Sêneca",
+    "frase": "Os homens que se tornam arrogantes com o sucesso têm o mau hábito de odiarem aqueles a quem ofenderam."
+  },
+  {
+    "id": 226,
+    "autor": "Napoleão Bonaparte",
+    "frase": "O maior orador do mundo é o sucesso."
+  },
+  {
+    "id": 227,
+    "autor": "Elana Lindquist",
+    "frase": "Sucesso significa realizar seus próprios sonhos, cantar sua própria canção, dançar sua própria dança, criar do seu coração e apreciar a jornada, confiando que não importa o que aconteceça, tudo ficará bem. Criar sua própria aventura!"
+  },
+  {
+    "id": 228,
+    "autor": "Rudyard Kipling",
+    "frase": "O fracasso e o sucesso são impostores. Ninguém fracassa tanto como imagina. Ninguém tem tanto sucesso como imagina."
+  },
+  {
+    "id": 229,
+    "autor": "Truman Capote",
+    "frase": "A disciplina é a parte mais importante do sucesso."
+  },
+  {
+    "id": 230,
+    "autor": "Soichiro Honda",
+    "frase": "O sucesso é construído de 99 por cento de fracasso."
+  },
+  {
+    "id": 231,
+    "autor": "Ovídio",
+    "frase": "O sucesso e o amor preferem o corajoso."
+  },
+  {
+    "id": 232,
+    "autor": "Masura Ibuki",
+    "frase": "A chave do sucesso da Sony e para tudo nos negócios é... não seguir os outros."
+  },
+  {
+    "id": 233,
+    "autor": "Anna Pavlova",
+    "frase": "Perseguir, sem cessar, uma meta: este é o segredo do sucesso."
+  },
+  {
+    "id": 234,
+    "autor": "David Kelley",
+    "frase": "Recompense o sucesso e o fracasso igualmente - puna a inatividade."
+  },
+  {
+    "id": 235,
+    "autor": "Desconhecido",
+    "frase": "Sucesso é saber a diferença entre perseguir as pessoas e fazer com que as pessoas fiquem do seu lado."
+  },
+  {
+    "id": 236,
+    "autor": "Mary Kay",
+    "frase": "Um dos segredos do sucesso é se recusar a deixar que reveses temporários nos derrotem."
+  },
+  {
+    "id": 237,
+    "autor": "Arthur Ashe",
+    "frase": "Uma chave importante para o sucesso é a autoconfiança. Uma chave importante para a autoconfiança é a preparação."
+  },
+  {
+    "id": 238,
+    "autor": "Ésquilo",
+    "frase": "A disciplina é a mãe do sucesso."
+  },
+  {
+    "id": 239,
+    "autor": "Sêneca",
+    "frase": "Ninguém é obrigado a correr pela via do sucesso."
+  },
+  {
+    "id": 240,
+    "autor": "Tryon Edwards",
+    "frase": "Despertar interesse e inflamar o entusiasmo é o caminho certo para ensinar facilmente e com sucesso."
+  },
+  {
+    "id": 241,
+    "autor": "Edmund Burke",
+    "frase": "O único critério infalível de sabedoria para as mentes banais - sucesso."
+  },
+  {
+    "id": 242,
+    "autor": "Virgílio",
+    "frase": "O sucesso encoraja-os: eles podem porque pensam que podem."
+  },
+  {
+    "id": 243,
+    "autor": "Horácio",
+    "frase": "O fracasso descobre o gênio; o sucesso esconde-o."
+  },
+  {
+    "id": 244,
+    "autor": "Gen Matejka",
+    "frase": "A sorte existe. O que mais pode explicar o sucesso de nossos concorrentes?"
+  },
+  {
+    "id": 245,
+    "autor": "Joshua Dool",
+    "frase": "O sucesso na vida vem não de ter as cartas certas, mas de jogar com as erradas corretamente."
+  },
+  {
+    "id": 246,
+    "autor": "Henry Kissinger",
+    "frase": "O sucesso resulta de cem pequenas coisas feitas de forma um pouco melhor. O insucesso, de cem pequenas coisas feitas de forma um pouco pior."
+  },
+  {
+    "id": 247,
+    "autor": "Ésquilo",
+    "frase": "Os malvados que têm sucesso são insuportáveis."
+  },
+  {
+    "id": 248,
+    "autor": "Mark Caine",
+    "frase": "O primeiro passo em direção ao sucesso é dado quando você se recusa a ser prisioneiro do ambiente no qual você inicialmente se encontra."
+  },
+  {
+    "id": 249,
+    "autor": "Madame Émile Girardin",
+    "frase": "Parecer o que se é, é um crime; parecer o que não se é, um sucesso."
+  },
+  {
+    "id": 250,
+    "autor": "T. S. Eliot",
+    "frase": "O sucesso é relativo: é aquilo que quisermos fazer da confusão que fizemos das coisas."
+  },
+  {
+    "id": 251,
+    "autor": "Charles Kendall Adams",
+    "frase": "Ninguém nunca conseguiu alcançar sucesso simplesmente fazendo o que lhe é solicitado. É a quantidade e a excelência do que está além do solicitado que determina a grandeza da distinção final."
+  },
+  {
+    "id": 252,
+    "autor": "Conrad Hilton",
+    "frase": "Realização parece estar conectada com ação. Homens e mulheres de sucesso mantêm-se em movimento. Eles cometem erros, mas não param."
+  },
+  {
+    "id": 253,
+    "autor": "Helen Hayes",
+    "frase": "Sempre mire no objetivo, e esqueça do sucesso."
+  },
+  {
+    "id": 254,
+    "autor": "Roger Von Oech",
+    "frase": "A maioria das pessoas pensa no sucesso e no fracasso como opostos, mas eles são ambos produtos do mesmo processo."
+  },
+  {
+    "id": 255,
+    "autor": "Earl Wilson",
+    "frase": "Sucesso é apenas uma questão de sorte. Pergunte a qualquer fracassado."
+  },
+  {
+    "id": 256,
+    "autor": "Elias Canetti",
+    "frase": "O sucesso só ouve o aplauso. Para tudo o resto é surdo."
+  },
+  {
+    "id": 257,
+    "autor": "Ralph Waldo Emerson",
+    "frase": "O sucesso da vida significa unicamente de insistência e ação."
+  },
+  {
+    "id": 258,
+    "autor": "Jean Cocteau",
+    "frase": "Mantenha-se forte diante do fracasso e livre diante do sucesso."
+  },
+  {
+    "id": 259,
+    "autor": "S. Ceccato",
+    "frase": "É possível inspirar tanto a coragem quanto o medo."
+  },
+  {
+    "id": 260,
+    "autor": "R. Gervaso",
+    "frase": "Há quem creia ser um grande escritor porque todos o lêem; e há quem creia ser um grande escritor porque ninguém o lê."
+  },
+  {
+    "id": 261,
+    "autor": "Mark Twain",
+    "frase": "Coragem é a resistência ao medo, domínio do medo, e não a ausência do medo."
+  },
+  {
+    "id": 262,
+    "autor": "Lao-Tsé",
+    "frase": "Ser profundamente amado por alguém nos dá força; amar alguém profundamente nos dá coragem."
+  },
+  {
+    "id": 263,
+    "autor": "Winston Churchill",
+    "frase": "A coragem é a primeira das qualidades humanas porque garante todas as outras."
+  },
+  {
+    "id": 264,
+    "autor": "Stendhal",
+    "frase": "O amor é uma flor delicada, mas é preciso ter coragem de ir colhê-la à beira de um precipício."
+  },
+  {
+    "id": 265,
+    "autor": "Confúcio",
+    "frase": "Saber o que é correto e não o fazer é falta de coragem."
+  },
+  {
+    "id": 266,
+    "autor": "Miguel de Cervantes",
+    "frase": "Quem perde seus bens perde muito; quem perde um amigo perde mais; mas quem perde a coragem perde tudo."
+  },
+  {
+    "id": 267,
+    "autor": "William Shakespeare",
+    "frase": "Pois a coragem cresce com a ocasião."
+  },
+  {
+    "id": 268,
+    "autor": "Allan Kardec",
+    "frase": "Os homens semeiam na terra o que colherão na vida espiritual: os frutos da sua coragem ou da sua fraqueza."
+  },
+  {
+    "id": 269,
+    "autor": "Jean-Paul Sartre",
+    "frase": "Todos os homens têm medo. Quem não tem medo não é normal; isso nada tem a ver com a coragem."
+  },
+  {
+    "id": 270,
+    "autor": "Eleanor Roosevelt",
+    "frase": "Você ganha força, coragem e confiança através de cada experiência em que você realmente para e encara o medo de frente."
+  },
+  {
+    "id": 271,
+    "autor": "Stendhal",
+    "frase": "O amor é uma bela flor à beira de um precipício. É necessário ter muita coragem para a ir colher."
+  },
+  {
+    "id": 272,
+    "autor": "Anaïs Nin",
+    "frase": "A vida se contrai e se expande proporcionalmente à coragem do indivíduo."
+  },
+  {
+    "id": 273,
+    "autor": "François La Rochefoucauld",
+    "frase": "A verdadeira coragem está em fazermos sem testemunha o que seríamos capazes de fazer diante de todo mundo."
+  },
+  {
+    "id": 274,
+    "autor": "Sêneca",
+    "frase": "A coragem conduz às estrelas, e o medo à morte."
+  },
+  {
+    "id": 275,
+    "autor": "Benito Mussolini",
+    "frase": "É preciso impor a si mesmo algumas metas para se ter a coragem de alcançá-las."
+  },
+  {
+    "id": 276,
+    "autor": "Thomas Paine",
+    "frase": "Eu admiro aqueles que conseguem sorrir com os problemas, reunir forças na angústia e ganhar coragem na reflexão. É coisa de pequenas mentes encolher-se, mas aquele cujo coração é firme e cuja consciência aprova sua conduta, perseguirá seus princípios até a morte."
+  },
+  {
+    "id": 277,
+    "autor": "Napoleão Bonaparte",
+    "frase": "A bravura provém do sangue, a coragem provém do pensamento."
+  },
+  {
+    "id": 278,
+    "autor": "Robert Ingersoll",
+    "frase": "A maior prova de coragem é suportar as derrotas sem perder o ânimo."
+  },
+  {
+    "id": 279,
+    "autor": "Abraham Lincoln",
+    "frase": "Frequentemente é necessário mais coragem para ousar fazer certo do que temer fazer errado."
+  },
+  {
+    "id": 280,
+    "autor": "Vittorio Alfieri",
+    "frase": "Muitas vezes a prova de coragem não é morrer, mas sim viver."
+  },
+  {
+    "id": 281,
+    "autor": "Anthony Trollope",
+    "frase": "Aqueles que têm coragem para amar deveriam ter coragem para sofrer."
+  },
+  {
+    "id": 282,
+    "autor": "G. K. Chesterton",
+    "frase": "A coragem significa um forte desejo de viver, sob a forma de disposição para morrer."
+  },
+  {
+    "id": 283,
+    "autor": "Gustave Flaubert",
+    "frase": "Eu não tenho nenhuma coragem, mas procedo como se a tivesse, o que talvez venha dar ao mesmo."
+  },
+  {
+    "id": 284,
+    "autor": "Martin Luther King",
+    "frase": "Devemos construir diques de coragem para conter a correnteza do medo."
+  },
+  {
+    "id": 285,
+    "autor": "Edmondo Amicis",
+    "frase": "Coragem... pequeno soldado do imenso exército. Os teus livros são as tuas armas, a tua classe é a tua esquadra, o campo de batalha é a terra inteira, e a vitória é a civilização humana."
+  },
+  {
+    "id": 286,
+    "autor": "John Kennedy",
+    "frase": "Coragem é manter a classe sob pressão."
+  },
+  {
+    "id": 287,
+    "autor": "Vince Lombardi",
+    "frase": "Um homem pode ser tão grande quanto ele queira ser. Se você acredita em si mesmo e tem coragem, determinação, dedicação, iniciativa competitiva e se você está disposto a sacrificar as pequenas coisas da vida e pagar o preço pelas coisas que valem a pena, isso pode ser feito."
+  },
+  {
+    "id": 288,
+    "autor": "Sêneca",
+    "frase": "Devemos ir buscar a coragem ao nosso próprio desespero."
+  },
+  {
+    "id": 289,
+    "autor": "Umberto Eco",
+    "frase": "Nada inspira mais coragem ao medroso do que o medo alheio."
+  },
+  {
+    "id": 290,
+    "autor": "Benjamin Franklin",
+    "frase": "Para suportar as aflições dos outros, todo o mundo tem coragem de sobra."
+  },
+  {
+    "id": 291,
+    "autor": "Sydney Smith",
+    "frase": "Muitos talentos se perdem por falta de um pouco de coragem."
+  },
+  {
+    "id": 292,
+    "autor": "Públio Siro",
+    "frase": "Quem tem coragem para enfrentar os perigos vence-os antes que eles o ameacem."
+  },
+  {
+    "id": 293,
+    "autor": "Homero",
+    "frase": "Apoiada, a coragem nasce até mesmo naqueles que são muito covardes."
+  },
+  {
+    "id": 294,
+    "autor": "Textos Judaicos",
+    "frase": "Perder a coragem é pior do que perder o dinheiro."
+  },
+  {
+    "id": 295,
+    "autor": "Émile-Auguste Chartier",
+    "frase": "A coragem alimenta as guerras, mas é o medo que as faz nascer."
+  },
+  {
+    "id": 296,
+    "autor": "François La Rochefoucauld",
+    "frase": "Ninguém pode pronunciar-se acerca da sua coragem quando nunca esteve em perigo."
+  },
+  {
+    "id": 297,
+    "autor": "Ésquilo",
+    "frase": "Toma coragem: o ápice da desventura não durará muito tempo."
+  },
+  {
+    "id": 298,
+    "autor": "Theodore Roosevelt",
+    "frase": "Estamos face a face com nosso destino, e devemos encontrá-lo com muita coragem e resolução. Para nós é a vida de ação, da extenuante performance do dever; deixe-nos viver nos arreios, esforçando-nos vigorosamente; deixe-nos correr o risco de nos desgastarmos do que enferrujarmos."
+  },
+  {
+    "id": 299,
+    "autor": "Thomas Fuller",
+    "frase": "Muitos seriam covardes se tivessem coragem suficiente."
+  },
+  {
+    "id": 300,
+    "autor": "Gustave Flaubert",
+    "frase": "Não desculpo de modo algum aos homens de ação que não vençam, uma vez que o êxito é a única medida do seu mérito."
+  },
+  {
+    "id": 301,
+    "autor": "Jean Massillon",
+    "frase": "Para o ambicioso, o bom êxito desculpa a ilegitimidade dos meios.."
+  },
+  {
+    "id": 302,
+    "autor": "Textos Judaicos",
+    "frase": "Aquele que tem êxito em corrigir o seu semelhante será recompensado pelas boas obras que ele realizar."
+  },
+  {
+    "id": 303,
+    "autor": "Luc de Clapiers Vauvenargues",
+    "frase": "A loucura dos que têm êxito é a de se julgarem hábeis."
+  },
+  {
+    "id": 304,
+    "autor": "Textos Confuccionistas",
+    "frase": "Não é colocando o dever em primeiro lugar e o êxito em segundo, que se eleva o padrão da virtude?"
+  },
+  {
+    "id": 305,
+    "autor": "Theodore Roosevelt",
+    "frase": "Acredite que você pode, assim você já está no meio do caminho."
+  },
+  {
+    "id": 306,
+    "autor": "Augusto Branco",
+    "frase": "Se você quer um pedacinho do paraíso, acredite em Deus.\nMas se você quer conquistar o mundo, acredite em você\nporque Deus já te deu tudo o que você precisa\npara você vencer."
+  },
+  {
+    "id": 307,
+    "autor": "Cazuza",
+    "frase": "Acredite, existem pessoas que não procuram beleza, mas sim coração."
+  },
+  {
+    "id": 308,
+    "autor": "Caio Fernando Abreu",
+    "frase": "Se eu disser que eu te amo, acredite. Não sou de brincar com sentimentos, sei o quanto dói."
+  },
+  {
+    "id": 309,
+    "autor": "Paulo Coelho",
+    "frase": "Faça sua parte e não se preocupe com os outros. Acredite que Deus também fala com eles, e que eles estão tão empenhados quanto você em descobrir o sentido da vida."
+  },
+  {
+    "id": 310,
+    "autor": "Tati Bernardi",
+    "frase": "Acredite, vai acontecer qualquer dia, qualquer hora, alguém irá te enxergar, mesmo que você esteja sem maquiagem, suada, desarrumada, descabelada. O famoso homem da sua vida vai te enxergar... Confie em mim, ou em você, né."
+  },
+  {
+    "id": 311,
+    "autor": "Millôr Fernandes",
+    "frase": "Está bem que você acredite em Deus. Mas vai armado."
+  },
+  {
+    "id": 312,
+    "autor": "Renato Russo",
+    "frase": "Quando choramos abraçados e caminhamos lado a lado. Por favor amor me acredite, não há palavras para explicar o que eu sinto..."
+  },
+  {
+    "id": 313,
+    "autor": "Bertolt Brecht",
+    "frase": "Só acredite no que os seus olhos vêem e seus ouvidos escutam.\nNão acredite nem no que os seus olhos vêem e seus ouvidos escutam.\nE saiba que não acreditar ainda é acreditar."
+  },
+  {
+    "id": 314,
+    "autor": "Clarice Lispector",
+    "frase": "“Acredito que tudo que eu acredito hoje vai mudar com o tempo. E que, no futuro, talvez, eu acredite em menos coisas. Ou em nada mais (…)”"
+  },
+  {
+    "id": 315,
+    "autor": "Caio Fernando Abreu",
+    "frase": "Acredite no amor. Se você o ama, você espera. O amor é paciente."
+  },
+  {
+    "id": 316,
+    "autor": "Tumblr",
+    "frase": "Não sou de ficar chorando por aí, pra todo mundo ver. Quando eu choro na frente de alguém, acredite, é porque cheguei ao meu limite."
+  },
+  {
+    "id": 317,
+    "autor": "Caio Fernando Abreu",
+    "frase": "Como se ela tivesse sido a mais bela história de amor da sua vida. E que uma parte de você acredite que ela foi, de fato, a mais bela história de amor da sua vida."
+  },
+  {
+    "id": 318,
+    "autor": "Desconhecido",
+    "frase": "Deus nos fez perfeitos e não escolhe os capacitados, capacita os escolhidos."
+  },
+  {
+    "id": 319,
+    "autor": "Ovídio",
+    "frase": "Um cavalo nunca corre tão rápido quanto corre quando tem outros para acompanhar e superar."
+  },
+  {
+    "id": 320,
+    "autor": "Albert Einstein",
+    "frase": "Mesmo desacreditado e ignorado por todos, não posso desistir, pois para mim, vencer é nunca desistir."
+  },
+  {
+    "id": 321,
+    "autor": "Steve Maraboli",
+    "frase": "A felicidade não se resume na ausência de problemas, mas sim na sua capacidade de lidar com eles."
+  },
+  {
+    "id": 322,
+    "autor": "Raul Seixas",
+    "frase": "Que capacidade impiedosa essa minha de fingir ser normal o tempo todo."
+  },
+  {
+    "id": 323,
+    "autor": "Desconhecido",
+    "frase": "Todo mundo é um gênio. Mas se você julgar um peixe por sua capacidade de subir em uma árvore, ele vai gastar toda a vida acreditando que é estúpido."
+  },
+  {
+    "id": 324,
+    "autor": "Augusto Branco",
+    "frase": "Quando eu perder a capacidade de indignar-me ante a hipocrisia e as injustiças deste mundo, enterre-me: por certo que já estou morto."
+  },
+  {
+    "id": 325,
+    "autor": "Carlos Drummond de Andrade",
+    "frase": "Nossa capacidade de amar é limitada, e o amor infinito; este é o drama."
+  },
+  {
+    "id": 326,
+    "autor": "Renato Russo",
+    "frase": "Quando você tem a capacidade de não falar, não ligar e não se importar, está aprendendo o que é ser forte."
+  },
+  {
+    "id": 327,
+    "autor": "Arthur Schopenhauer",
+    "frase": "A soma de barulho que uma pessoa pode suportar está na razão inversa de sua capacidade mental."
+  },
+  {
+    "id": 328,
+    "autor": "Aristóteles",
+    "frase": "O que você tem capacidade de fazer, tem capacidade também de não fazer."
+  },
+  {
+    "id": 329,
+    "autor": "Napoleon Hill",
+    "frase": "Nossa força maior não está na capacidade de pensar, mas em algo mais poderoso: o poder de controlar e direcionar nossos pensamentos para onde quisermos."
+  },
+  {
+    "id": 330,
+    "autor": "Abraham Lincoln",
+    "frase": "A demagogia é a capacidade de vestir as idéias menores com palavras maiores."
+  },
+  {
+    "id": 331,
+    "autor": "Padre Fábio de Melo",
+    "frase": "O maior feito de Jesus não foi ressuscitar os mortos, mas é a capacidade de ressuscitar os vivos."
+  },
+  {
+    "id": 332,
+    "autor": "Martha Medeiros",
+    "frase": "Ele tem mulheres mais bonitas e o que tenho de melhor ele nem tem muita capacidade mental pra valorizar."
+  },
+  {
+    "id": 333,
+    "autor": "Tati Bernardi",
+    "frase": "Sou quebra-cabeça de 500 mil peças, quem não tiver capacidade, tenta um jogo mais fácil."
+  },
+  {
+    "id": 334,
+    "autor": "Martha Medeiros",
+    "frase": "Todos temos nossas dores de estimação. O que nos diferencia uns dos outros é a capacidade de conviver amigavelmente com elas."
+  },
+  {
+    "id": 335,
+    "autor": "Gaston Bachelard",
+    "frase": "Para ensinarmos um aluno a inventar\nprecisamos mostrar-lhe que ele já possui\na capacidade de descobrir."
+  },
+  {
+    "id": 336,
+    "autor": "Dalai Lama",
+    "frase": "Temos a capacidade e a responsabilidade de escolher se nossas ações seguem um caminho virtuoso ou não."
+  },
+  {
+    "id": 337,
+    "autor": "Tumblr",
+    "frase": "Ser forte, não é ter a ausência de fraquezas, e sim a capacidade de superá-las."
+  },
+  {
+    "id": 338,
+    "autor": "Che Guevara",
+    "frase": "A verdadeira capacidade de um revolucionário se mede por sua habilidade de encontrar táticas revolucionárias adequadas para cada mudança de situação."
+  },
+  {
+    "id": 339,
+    "autor": "Rollo May",
+    "frase": "A liberdade é a capacidade do homem de assumir seu próprio desenvolvimento. É nossa capacidade de moldar a nós mesmos."
+  },
+  {
+    "id": 340,
+    "autor": "Ellen G. White",
+    "frase": "“Haverá eterna perda por todo conhecimento e capacidade não alcançados, que poderíamos ter ganho.”"
+  },
+  {
+    "id": 341,
+    "autor": "Marilyn Monroe",
+    "frase": "Não desejo mais nada. Nem homens, nem dinheiro, nem amor, somente a capacidade de atuar!"
+  },
+  {
+    "id": 342,
+    "autor": "Albert Camus",
+    "frase": "Amar uma pessoa significa querer envelhecer com ela."
+  },
+  {
+    "id": 343,
+    "autor": "Friedrich Nietzsche",
+    "frase": "Querer a verdade é confessar-se incapaz de a criar."
+  },
+  {
+    "id": 344,
+    "autor": "Jean-Paul Sartre",
+    "frase": "Ser-se livre não é fazermos aquilo que queremos, mas querer-se aquilo que se pode."
+  },
+  {
+    "id": 345,
+    "autor": "Simone de Beauvoir",
+    "frase": "Querer ser livre é também querer livres os outros."
+  },
+  {
+    "id": 346,
+    "autor": "Epicteto",
+    "frase": "Não te alongues a contar as tuas façanhas, nem os perigos que terás passado; não podes querer que os outros tenham tanto prazer em escutar-te como tu em contá-los."
+  },
+  {
+    "id": 347,
+    "autor": "Émile-Auguste Chartier",
+    "frase": "É preciso querer ser feliz e contribuir para isso. Se ficarmos na posição do espectador impassível, deixando para a felicidade apenas a entrada livre e as portas abertas, será a tristeza que entrará."
+  },
+  {
+    "id": 348,
+    "autor": "Reverendo Peter Marshall",
+    "frase": "Meu Deus, se errarmos, faz-nos querer mudar; se tivermos razão, dá-nos força para vivermos com isso."
+  },
+  {
+    "id": 349,
+    "autor": "Provérbio espanhol",
+    "frase": "Nunca bata uma porta, você pode querer voltar."
+  },
+  {
+    "id": 350,
+    "autor": "Geraldo Eustáquio de Souza",
+    "frase": "Uma coisa é querer aprender. Outra é querer garantias de que não vai errar."
+  },
+  {
+    "id": 351,
+    "autor": "Marquês de Maricá",
+    "frase": "Nada agrava mais a pobreza, que a mania de querer parecer rico."
+  },
+  {
+    "id": 352,
+    "autor": "Alexandre Herculano",
+    "frase": "Querer é quase sempre poder: o que é excessivamente raro é o querer."
+  },
+  {
+    "id": 353,
+    "autor": "Immanuel Kant",
+    "frase": "Age de tal forma que a máxima do teu querer possa valer em todo o tempo também como princípio de uma legislação geral."
+  },
+  {
+    "id": 354,
+    "autor": "Miguel Unamuno",
+    "frase": "É inútil querer discutir e tirar de alguém as suas ideias; as pessoas não querem deixar-se convencer; o melhor é deixá-las."
+  },
+  {
+    "id": 355,
+    "autor": "Marquês de Maricá",
+    "frase": "O pobre lastima-se de querer e não poder, o avarento ufana-se de que pode, mas não quer."
+  },
+  {
+    "id": 356,
+    "autor": "François Chateaubriand",
+    "frase": "Não gostar do que tem e querer o que não tem - é a história de todos os homens."
+  },
+  {
+    "id": 357,
+    "autor": "Erasmo de Roterdã",
+    "frase": "Pode querer bem aos outros quem não quer bem a si mesmo?"
+  },
+  {
+    "id": 358,
+    "autor": "Desconhecido",
+    "frase": "Basta querer para poder."
+  },
+  {
+    "id": 359,
+    "autor": "Salústio",
+    "frase": "Querer e não querer as mesmas coisas, eis, afinal, a verdadeira amizade."
+  },
+  {
+    "id": 360,
+    "autor": "Júlio Dantas",
+    "frase": "Querer que uma mulher ame toda a vida, é tão absurdo como querer que a Primavera dure todo o ano."
+  },
+  {
+    "id": 361,
+    "autor": "Odenir Alves de Oliveira Júnior",
+    "frase": "Se tantas pessoas dizem que você é capaz, então acredite, lute e conquiste, pois você consegue."
+  },
+  {
+    "id": 362,
+    "autor": "Desconhecido",
+    "frase": "Lute pelos sonhos, busque seus objetivos; batalhe pelos seus ideais e mostre que você é um guerreiro."
+  },
+  {
+    "id": 363,
+    "autor": "Eleanor Roosevelt",
+    "frase": "Você precisa fazer aquilo que pensa que não é capaz de fazer."
+  },
+  {
+    "id": 364,
+    "autor": "Andy Orlando",
+    "frase": "Sonhe, Lute, Conquiste, Tudo e possivel, Você nasceu para Vencer."
+  },
+  {
+    "id": 365,
+    "autor": "Charles Chaplin",
+    "frase": "A vida é maravilhosa se não se tem medo dela."
+  },
+  {
+    "id": 366,
+    "autor": "Mario Quintana",
+    "frase": "Há noites que eu não posso dormir de remorso por tudo o que eu deixei de cometer."
+  },
+  {
+    "id": 367,
+    "autor": "William Shakespeare",
+    "frase": "Os covardes morrem várias vezes antes da sua morte, mas o homem corajoso experimenta a morte apenas uma vez."
+  },
+  {
+    "id": 368,
+    "autor": "H. Jackson Brown Jr",
+    "frase": "Daqui a vinte anos você estará mais arrependido pelas coisas que não fez do que pelas que fez. Então solte suas amarras. Afaste-se do porto seguro. Agarre o vento em suas velas. Explore. Sonhe. Descubra."
+  },
+  {
+    "id": 369,
+    "autor": "Mahatma Gandhi",
+    "frase": "O medo tem alguma utilidade, mas a covardia não."
+  },
+  {
+    "id": 370,
+    "autor": "Reinhold Niebuhr",
+    "frase": "Concedei-nos, Senhor, serenidade necessária, para aceitar as coisas que não podemos modificar, coragem para modificar aquelas que podemos e sabedoria para distinguirmos umas das outras."
+  },
+  {
+    "id": 371,
+    "autor": "William Shakespeare",
+    "frase": "Combater e morrer é pela morte derrotar a morte, mas temer e morrer é fazer-lhe homenagem com um sopro servil."
+  },
+  {
+    "id": 372,
+    "autor": "Dale Carnegie",
+    "frase": "Tente a sua sorte! A vida é feita de oportunidades. O homem que vai mais longe é quase sempre aquele que tem coragem de arriscar."
+  },
+  {
+    "id": 373,
+    "autor": "Platão",
+    "frase": "É a esta força que mantém sempre a opinião justa e legítima sobre o que é necessário temer e não temer, que chamo e defino coragem."
+  },
+  {
+    "id": 374,
+    "autor": "Roberto Shinyashiki",
+    "frase": "Muitas pessoas pensam que a felicidade somente será possível depois de alcançar algo, mas a verdade é que deixar para ser feliz amanhã é uma forma de ser infeliz."
+  },
+  {
+    "id": 375,
+    "autor": "Martinho Lutero",
+    "frase": "A paz, se possível, mas a verdade, a qualquer preço."
+  },
+  {
+    "id": 376,
+    "autor": "Paulo Freire",
+    "frase": "Mudar é difícil mas é possível."
+  },
+  {
+    "id": 377,
+    "autor": "Dalai Lama",
+    "frase": "Torne o resto da sua vida tão significativo quanto possível. Consiste apenas em agir levando os outros em consideração. Assim, encontrará paz e felicidade para si mesmo."
+  },
+  {
+    "id": 378,
+    "autor": "Charles Bukowski",
+    "frase": "É possível amar o ser humano caso você não o conheça tão bem."
+  },
+  {
+    "id": 379,
+    "autor": "Tati Bernardi",
+    "frase": "Às vezes uma pessoa é tão idiota que você pensa \"não, não é possível\". E tenta ver e rever a situação. Mas é possível sim: existem idiotas."
+  },
+  {
+    "id": 380,
+    "autor": "Augusto Cury",
+    "frase": "Não é possivel destruir o passado para reconstruir o presente, mas é possível reconstruir o presente para reescrever o passado."
+  },
+  {
+    "id": 381,
+    "autor": "Victor Hugo",
+    "frase": "Mentir é maldade absoluta. Não é possivel mentir pouco ou muito; quem mente, mente. A mentira é a própria face do demônio."
+  },
+  {
+    "id": 382,
+    "autor": "Bill Gates",
+    "frase": "Tente uma, duas, três vezes e se possível tente a quarta, a quinta e quantas vezes for necessário. Só não desista nas primeiras tentativas, a persistência é amiga da conquista. Se você quer chegar a onde a maioria não chega, faça o que a maioria não faz."
+  },
+  {
+    "id": 383,
+    "autor": "Mark Twain",
+    "frase": "De todas as criaturas de Deus, somente uma não pode ser castigada. Essa é o gato. Se fosse possível cruzar o homem com o gato, melhoraria o homem, mas pioraria o gato."
+  },
+  {
+    "id": 384,
+    "autor": "Chico Xavier",
+    "frase": "Lembra-te de que falando ou silenciando, sempre é possível fazer algum bem."
+  },
+  {
+    "id": 385,
+    "autor": "Nelson Rodrigues",
+    "frase": "Ou a mulher é fria ou morde. Sem dentada não há amor possível."
+  },
+  {
+    "id": 386,
+    "autor": "Rubem Alves",
+    "frase": "Será possível, então, um triunfo no amor? Sim. Mas ele não se encontra no final do caminho: não na partida, não na chegada, mas na travessia."
+  },
+  {
+    "id": 387,
+    "autor": "Augusto Branco",
+    "frase": "Mesmo que tenham cometidos erros gravíssimos no passado, é possível que essas pessoas se recuperem e evoluam de modo surpreendente, bastando que encontrem ambiente favorável e, no sorriso das pessoas, uma segunda chance."
+  },
+  {
+    "id": 388,
+    "autor": "Querido John",
+    "frase": "Aprendi que é possível seguir em frente, não importa quanto pareça impossível. Com o tempo a dor diminui."
+  },
+  {
+    "id": 389,
+    "autor": "John Green",
+    "frase": "É possível amar muito alguém, ele pensou. Mas o tamanho do seu amor por uma pessoa nunca vai ser páreo para o tamanho da saudade que você vai sentir dela.\n\n(O Teorema Katherine)"
+  },
+  {
+    "id": 390,
+    "autor": "Clarice Lispector",
+    "frase": "- Faço o possível para escrever por acaso. Eu quero que a frase aconteça. Não sei expressar-me por palavras. O que sinto não é traduzível. Eu me expresso melhor pelo silêncio. Expressar-me por meio de palavras é um desafio. Mas não correspondo à altura do desafio. Saem pobres palavras."
+  },
+  {
+    "id": 391,
+    "autor": "Orson Welles",
+    "frase": "Lutei para escapar da infância o mais cedo possível.\nE assim que consegui, voltei correndo pra ela."
+  },
+  {
+    "id": 392,
+    "autor": "Dalai Lama",
+    "frase": "Seja gentil quando for possível... Sempre é possível."
+  },
+  {
+    "id": 393,
+    "autor": "Hannah Arendt",
+    "frase": "Uma vida sem pensamento é totalmente possível, mas ela fracassa em fazer desabrochar sua própria essência – ela não é apenas sem sentido; ela não é totalmente viva. Homens que não pensam são como sonâmbulos."
+  },
+  {
+    "id": 394,
+    "autor": "Jesus Cristo",
+    "frase": "Tudo é possível ao que crer."
+  },
+  {
+    "id": 395,
+    "autor": "Tati Bernardi",
+    "frase": "Eu só quero ser feliz e viver tranquila. Eu só quero fazer minhas coisas da melhor maneira possível e ter um moço bonzinho que me leve ver o pôr-do-sol no fim de tarde."
+  },
+  {
+    "id": 396,
+    "autor": "Querido John",
+    "frase": "A vida não é justa. Mas também aprendi que é possível seguir em frente, não importa quanto pareça impossível. […] Quero que você saiba que sempre será parte de mim."
+  },
+  {
+    "id": 397,
+    "autor": "Machado de Assis",
+    "frase": "Não há amor possível sem a oportunidade dos sujeitos."
+  },
+  {
+    "id": 398,
+    "autor": "Anne Frank",
+    "frase": "Você só conhece uma pessoa depois de uma briga. Só, então, é possível julgar o seu caráter."
+  },
+  {
+    "id": 399,
+    "autor": "Arthur Schopenhauer",
+    "frase": "Como somos obrigados a viver, devemos sofrer o menos possível."
+  },
+  {
+    "id": 400,
+    "autor": "Lya Luft",
+    "frase": "Não saber é o que torna nossa vida possível."
+  },
+  {
+    "id": 401,
+    "autor": "Jean-Paul Sartre",
+    "frase": "A escolha é possível, em certo sentido, porém o que não é possível é não escolher. Eu posso sempre escolher, mas devo estar ciente de que, se não escolher, assim mesmo estarei escolhendo."
+  },
+  {
+    "id": 402,
+    "autor": "Chorão",
+    "frase": "Se eu não puder fazer você a pessoa mais feliz, eu chego mais perto disso possível."
+  },
+  {
+    "id": 403,
+    "autor": "Paulo Coelho",
+    "frase": "Existem momentos na vida em que a única alternativa possível é perder o controle."
+  },
+  {
+    "id": 404,
+    "autor": "Oscar Wilde",
+    "frase": "Sempre é possível anular o passado. O arrependimento, o esquecimento e a renúncia poderiam apagá-lo. Mas o futuro era improvável."
+  },
+  {
+    "id": 405,
+    "autor": "Cecília Meireles",
+    "frase": "Mas a vida, a vida, a vida,\na vida só é possível reinventada."
+  },
+  {
+    "id": 406,
+    "autor": "Lya Luft",
+    "frase": "Suportar sem se submeter, aceitar sem se humilhar, entregar-se sem renunciar a si mesmo e à possível dignidade."
+  },
+  {
+    "id": 407,
+    "autor": "Augusto Cury",
+    "frase": "Como o Mestre sempre dizia, \"é possível fugir dos monstros de fora, mas não dos de dentro\". E é incrível como a mente humana tem facilidade em criar fantasmas para assombrá-la. Em plena era digital, os sentimentos primitivos continuavam vivos."
+  },
+  {
+    "id": 408,
+    "autor": "Caio Fernando Abreu",
+    "frase": "Prefiro reconhecer com o máximo de tranquilidade possível que estou só do que ficar à mercê de visitas adiadas, encontros transferidos..."
+  },
+  {
+    "id": 409,
+    "autor": "Caio Fernando Abreu",
+    "frase": "Aprendi também a não contar muito com os outros: na medida do possível, faço tudo só. Dá mais certo."
+  },
+  {
+    "id": 410,
+    "autor": "Caio Fernando Abreu",
+    "frase": "Durante algum tempo fiz coisas antigas como chorar e sentir saudade da maneira mais humana possível: fiz coisas antigas e humanas como se elas me solucionassem. Não solucionaram."
+  },
+  {
+    "id": 411,
+    "autor": "Clarice Lispector",
+    "frase": "O mundo me parece uma coisa vasta demais e sem síntese possível."
+  },
+  {
+    "id": 412,
+    "autor": "Augusto Branco",
+    "frase": "É possível amar à distância quando já se amou de perto primeiro.\nPorque se nunca amou-se antes o casal, o melhor é que a distância seja curta e a demora seja pequena, porque o amor sem nunca ter amado é sentimento que tem pressa."
+  },
+  {
+    "id": 413,
+    "autor": "Bertolt Brecht",
+    "frase": "Num tempo em que você não pode dizer tudo o que quer, continue trabalhando, faça o possível para que, no dia em que haja condições reais de você dizer o que quer, saiba fazê-lo melhor."
+  },
+  {
+    "id": 414,
+    "autor": "Pequena Sereia",
+    "frase": "As pessoas que você tem mais medo de perder, são as que saem da sua vida o mais rápido possível."
+  },
+  {
+    "id": 415,
+    "autor": "Cazuza",
+    "frase": "Tudo é possível no amor."
+  },
+  {
+    "id": 416,
+    "autor": "José Saramago",
+    "frase": "É ainda possível chorar sobre as páginas de um livro, mas não se pode derramar lágrimas sobre um disco rígido."
+  },
+  {
+    "id": 417,
+    "autor": "Renato Russo",
+    "frase": "Amor possível é para os tolos.\nTodos sabem que os melhores são os amores impossíveis!"
+  },
+  {
+    "id": 418,
+    "autor": "Dante Alighieri",
+    "frase": "Trazes turbado o espírito, não conseguindo entender como é possível que uma vingança justa tenha sido mais tarde justamente punida..."
+  },
+  {
+    "id": 419,
+    "autor": "Augusto Branco",
+    "frase": "Alguém precisou acreditar que era possível alcançar as estrelas\npara que o homem parasse de andar em carroças e chegasse ao espaço."
+  },
+  {
+    "id": 420,
+    "autor": "Augusto Branco",
+    "frase": "Não é possível dar um passo adiante com os olhos fitos no passado, mas olhando ao horizonte, e com os pés bem firmes no presente!"
+  },
+  {
+    "id": 421,
+    "autor": "Padre Fábio de Melo",
+    "frase": "Na infância da inteligência, o mito é uma elaboração possível."
+  },
+  {
+    "id": 422,
+    "autor": "Arnaldo Jabor",
+    "frase": "Existe gente que precisa da ausência para querer a presença. O ser humano não é absoluto. Ele titubeia, tem dúvidas e medos, mas se a pessoa REALMENTE gostar, ela volta. Nada de drama."
+  },
+  {
+    "id": 423,
+    "autor": "Renato Russo",
+    "frase": "Triste coisa é querer bem a quem não sabe perdoar..."
+  },
+  {
+    "id": 424,
+    "autor": "Machado de Assis",
+    "frase": "Tudo é aliado do homem que sabe querer."
+  },
+  {
+    "id": 425,
+    "autor": "Arthur Schopenhauer",
+    "frase": "O Homem é livre para fazer o que quer, mas não para querer o que quer."
+  },
+  {
+    "id": 426,
+    "autor": "Ayrton Senna",
+    "frase": "Seja você quem for, seja qual for a posição social que você tenha na vida, a mais alta ou a mais baixa, tenha sempre como meta muita força, muita determinação e sempre faça tudo com muito amor e com muita fé em Deus, que um dia você chega lá. De alguma maneira você chega lá."
+  },
+  {
+    "id": 427,
+    "autor": "Buda",
+    "frase": "A causa da derrota não está nos obstáculos ou no rigor das circunstâncias, está na falta de determinação e desistência da própria pessoa."
+  },
+  {
+    "id": 428,
+    "autor": "Desconhecido",
+    "frase": "Você só terá sucesso na vida quando perdoar os erros e as decepções do passado."
+  },
+  {
+    "id": 429,
+    "autor": "Herbert B. Swope",
+    "frase": "Não conheço nenhuma fórmula infalível para obter o sucesso, mas conheço uma forma infalível de fracassar: tentar agradar a todos."
+  },
+  {
+    "id": 430,
+    "autor": "Dalai Lama",
+    "frase": "Julgue seu sucesso pelas coisas que você teve que renunciar para conseguir."
+  },
+  {
+    "id": 431,
+    "autor": "Woody Allen",
+    "frase": "\"Noventa por cento do sucesso se baseia simplesmente em insistir.\""
+  },
+  {
+    "id": 432,
+    "autor": "Roberto Shinyashiki",
+    "frase": "Não confunda derrotas com fracasso nem vitórias com sucesso. Na vida de um campeão sempre haverá algumas derrotas, assim como na vida de um perdedor sempre haverá vitórias. A diferença é que, enquanto os campeões crescem nas derrotas, os perdedores se acomodam nas vitórias."
+  },
+  {
+    "id": 433,
+    "autor": "Napoleon Hill",
+    "frase": "Reunir-se é um começo, permanecer juntos é um progresso, e trabalhar juntos é um sucesso."
+  },
+  {
+    "id": 434,
+    "autor": "Érico Veríssimo",
+    "frase": "Precisamos dar um sentido humano às nossas construções. E, quando o amor ao dinheiro, ao sucesso, nos estiver deixando cegos, saibamos fazer pausas para olhar os lírios do campo e as aves do céu."
+  },
+  {
+    "id": 435,
+    "autor": "Abraham Lincoln",
+    "frase": "Não sou obrigado a vencer mas tenho o dever de ser verdadeiro. Não sou obrigado a ter sucesso mas tenho o dever de corresponder à luz que tenho."
+  },
+  {
+    "id": 436,
+    "autor": "Dalai Lama",
+    "frase": "Não precisamos de mais dinheiro, não precisamos de mais sucesso ou fama, não precisamos do corpo perfeito, nem mesmo do parceiro perfeito. Agora mesmo, neste momento exato, dispomos da mente, que é todo o equipamento básico de que precisamos para alcançar a plena felicidade."
+  },
+  {
+    "id": 437,
+    "autor": "Aristóteles",
+    "frase": "O segredo do sucesso é saber algo que ninguém mais sabe."
+  },
+  {
+    "id": 438,
+    "autor": "Steve Jobs",
+    "frase": "Para se ter sucesso, é necessário amar de verdade o que se faz. Caso contrário, levando em conta apenas o lado racional, você simplesmente desiste. É o que acontece com a maioria das pessoas."
+  },
+  {
+    "id": 439,
+    "autor": "Albert Einstein",
+    "frase": "O único modo de escapar da corrupção causada pelo sucesso é continuar trabalhando."
+  },
+  {
+    "id": 440,
+    "autor": "Theodore Roosevelt",
+    "frase": "O mais importante ingrediente na fórmula do sucesso é saber como lidar com as pessoas."
+  },
+  {
+    "id": 441,
+    "autor": "Augusto Branco",
+    "frase": "Obrigado a todas as pessoas que contribuíram para meu sucesso e para meu crescimento como pessoa. Sou o resultado da confiança e da força de cada um de vocês."
+  },
+  {
+    "id": 442,
+    "autor": "Henry David Thoreau",
+    "frase": "O sucesso normalmente contempla aqueles que estão ocupados demais para procurar por ele."
+  },
+  {
+    "id": 443,
+    "autor": "Bob Dylan",
+    "frase": "Um homem é um sucesso se pula da cama de manhã e vai dormir à noite, e, nesse meio tempo, faz o que gosta."
+  },
+  {
+    "id": 444,
+    "autor": "Confúcio",
+    "frase": "Se quiser ter prosperidade por um ano, cultive grãos. Por dez cultive árvores. Mas para ter sucesso por 100 anos cultive gente."
+  },
+  {
+    "id": 445,
+    "autor": "Sófocles",
+    "frase": "Não há sucesso sem grandes privações."
+  },
+  {
+    "id": 446,
+    "autor": "Sun Tzu",
+    "frase": "Se quisermos que a glória e o sucesso acompanhem nossas armas, jamais devemos perder de vista os seguintes fatores: a doutrina, o tempo, o espaço, o comando, a disciplina."
+  },
+  {
+    "id": 447,
+    "autor": "Abraham Lincoln",
+    "frase": "Tenha sempre em mente que a sua resolução de atingir o sucesso é mais importante do que qualquer coisa."
+  },
+  {
+    "id": 448,
+    "autor": "Confúcio",
+    "frase": "A diferença entre um homem de sucesso e outro orientado para o fracasso é que um está aprendendo a errar, enquanto o outro está procurando aprender com os seus próprios erros."
+  },
+  {
+    "id": 449,
+    "autor": "Tom Jobim",
+    "frase": "No Brasil, sucesso é ofensa pessoal."
+  },
+  {
+    "id": 450,
+    "autor": "Sigmund Freud",
+    "frase": "O sucesso substitui todos os argumentos."
+  },
+  {
+    "id": 451,
+    "autor": "Albert Schweitzer",
+    "frase": "O sucesso não é a chave para a felicidade. A felicidade é a chave para o sucesso."
+  },
+  {
+    "id": 452,
+    "autor": "Henry Ford",
+    "frase": "Se há algum segredo de sucesso, consiste ele na habilidade de apreender o ponto de vista da outra pessoa e ver as coisas tão bem pelo ângulo dela como pelo seu."
+  },
+  {
+    "id": 453,
+    "autor": "Augusto Cury",
+    "frase": "O objetivo fundamental dos sonhos não é o sucesso, mas nos livrar do fantasma do conformismo."
+  },
+  {
+    "id": 454,
+    "autor": "Anthony Robbins",
+    "frase": "O segredo do sucesso é aprender como usar a dor e o prazer, em vez de deixar que usem você. Se fizer isso, estará no controle de sua vida. Se não fizer, é a vida que controla você."
+  },
+  {
+    "id": 455,
+    "autor": "Adolf Hitler",
+    "frase": "Onde Napoleão falhou, obterei sucesso, vou desembarcar nas praias da Inglaterra."
+  },
+  {
+    "id": 456,
+    "autor": "Charles Chaplin",
+    "frase": "O sucesso é maravilhoso, mas implica no esforço de acompanhar o ritmo dessa ninfa infiel que é a popularidade."
+  },
+  {
+    "id": 457,
+    "autor": "Renato Russo",
+    "frase": "Estão todos satisfeitos com o sucesso do desastre: vai passar na televisão."
+  },
+  {
+    "id": 458,
+    "autor": "Voltaire",
+    "frase": "O sucesso sempre foi a criação da ousadia."
+  },
+  {
+    "id": 459,
+    "autor": "Desconhecido",
+    "frase": "O futuro mais brilhante é baseado num passado intensamente vivido. Você só terá sucesso na vida quando perdoar os erros e as decepções do passado."
+  },
+  {
+    "id": 460,
+    "autor": "Woody Allen",
+    "frase": "Oitenta por cento do sucesso é aparecer."
+  },
+  {
+    "id": 461,
+    "autor": "Theodore Roosevelt",
+    "frase": "O Unico igrediente mais importante na fórmula do sucesso é saber se entender com as pessoas\""
+  },
+  {
+    "id": 462,
+    "autor": "Gustave Flaubert",
+    "frase": "O sucesso deve ser uma consequência, nunca um objetivo."
+  },
+  {
+    "id": 463,
+    "autor": "Charles Chaplin",
+    "frase": "‘Obstinação; é o caminho mais curto para você atingir o sucesso!"
+  },
+  {
+    "id": 464,
+    "autor": "William James",
+    "frase": "O sucesso depende da energia do ato, da energia da crença de que se triunfará e da crença de que se está na verdade, que assim se verifica por si própria."
+  },
+  {
+    "id": 465,
+    "autor": "William Cowper",
+    "frase": "A verdadeira felicidade e sucesso consiste em gastar nossas energias com um propósito."
+  },
+  {
+    "id": 466,
+    "autor": "Ernest Hemingway",
+    "frase": "Se você obtém sucesso, é sempre pelas razões erradas. Se você se torna popular, é sempre pelos piores aspectos de seu trabalho."
+  },
+  {
+    "id": 467,
+    "autor": "Renato Russo",
+    "frase": "Quando você faz sucesso com uma banda de rock and roll, tem que conviver justamente com as pessoas de quem você queria fugir ao fundar uma banda de rock and roll."
+  },
+  {
+    "id": 468,
+    "autor": "Elvis Presley",
+    "frase": "O que eu gosto do sucesso é saber que tenho tantos amigos. Um monte de amigos intimos mesmo que conheci desde que entrei para o show business."
+  },
+  {
+    "id": 469,
+    "autor": "Albert Einstein",
+    "frase": "Não busque ser um homem de sucesso,busque ser um homem de valor."
+  },
+  {
+    "id": 470,
+    "autor": "Anthony Robbins",
+    "frase": "O sucesso não vale nada se não temos alguém para partilhá-lo."
+  },
+  {
+    "id": 471,
+    "autor": "Amy Lee",
+    "frase": "Você não tem de estar semi-nua para ter sucesso, apenas seja talentosa."
+  },
+  {
+    "id": 472,
+    "autor": "Clarice Lispector",
+    "frase": "Que minha solidão me sirva de companhia.\nque eu tenha a coragem de me enfrentar.\nque eu saiba ficar com o nada\ne mesmo assim me sentir\ncomo se estivesse plena de tudo."
+  },
+  {
+    "id": 473,
+    "autor": "Augusto Cury",
+    "frase": "Sábio é o ser humano que tem coragem de ir diante do espelho da sua alma para reconhecer seus erros e fracassos e utilizá-los para plantar as mais belas sementes no terreno de sua inteligência."
+  },
+  {
+    "id": 474,
+    "autor": "Paulo Coelho",
+    "frase": "Quando alguém encontra seu caminho precisa ter coragem suficiente para dar passos errados. As decepções, as derrotas, o desânimo são ferramentas que Deus utiliza para mostrar a estrada."
+  },
+  {
+    "id": 475,
+    "autor": "Paulo Coelho",
+    "frase": "O mundo está nas mãos daqueles que têm a coragem de sonhar e correr o risco de viver seus sonhos."
+  },
+  {
+    "id": 476,
+    "autor": "Adriana Falcão",
+    "frase": "Seu coração disse pra sua cabeça, vá, e sua cabeça disse pra sua coragem, vou, e sua coragem respondeu, vou nada, mas sua boca não ouviu e beijou."
+  },
+  {
+    "id": 477,
+    "autor": "Dalai Lama",
+    "frase": "Desenvolver força, coragem e paz interior demanda tempo. Não espere resultados rápidos e imediatos, sob o pretexto de que decidiu mudar. Cada ação que você executa permite que essa decisão se torne efetiva dentro de seu coração."
+  },
+  {
+    "id": 478,
+    "autor": "Santo Agostinho",
+    "frase": "A esperança tem duas filhas lindas, a indignação e a coragem; a indignação nos ensina a não aceitar as coisas como estão; a coragem, a mudá-las."
+  },
+  {
+    "id": 479,
+    "autor": "Renato Russo",
+    "frase": "Disciplina é liberdade;\nCompaixão é fortaleza;\nTer bondade é ter coragem."
+  },
+  {
+    "id": 480,
+    "autor": "Renato Russo",
+    "frase": "Até bem pouco tempo atrás poderíamos mudar o mundo. Quem roubou nossa coragem? Tudo é dor... E toda dor vem do desejo de não sentirmos dor..."
+  },
+  {
+    "id": 481,
+    "autor": "Cazuza",
+    "frase": "Olhe o mundo com a coragem do cego, entenda as palavras com a atenção do surdo, fale com a mão e com os olhos, como fazem os mudos."
+  },
+  {
+    "id": 482,
+    "autor": "Charles Darwin",
+    "frase": "O homem que tem coragem de desperdiçar uma hora do seu tempo não descobriu o valor da vida."
+  },
+  {
+    "id": 483,
+    "autor": "Cora Coralina",
+    "frase": "A verdadeira coragem é ir atrás de seu sonho mesmo quando todos dizem que ele é impossível."
+  },
+  {
+    "id": 484,
+    "autor": "Chico Xavier",
+    "frase": "Em minhas preces de todo dia, sempre peço coragem e paciência. Coragem para continuar superando as dificuldades do caminho naqueles que não me compreendem. E paciência para não me entregar ao desânimo diante das minhas fraquezas!"
+  },
+  {
+    "id": 485,
+    "autor": "Clarice Lispector",
+    "frase": "Faça com que eu tenha a coragem de me enfrentar. Faça com que eu saiba ficar com o nada e mesmo assim me sentir como se estivesse plena de tudo. Receba em teus braços o meu pecado de pensar."
+  },
+  {
+    "id": 486,
+    "autor": "Paulo Freire",
+    "frase": "Amar é um ato de coragem."
+  },
+  {
+    "id": 487,
+    "autor": "Roberto Shinyashiki",
+    "frase": "Assumir nossos erros exige muita coragem em um mundo que parece feito de pessoas que sempre ganham todas... Assumir nossa ignorância exige muita humildade nesse mundo de quem sabe tudo."
+  },
+  {
+    "id": 488,
+    "autor": "Friedrich Nietzsche",
+    "frase": "O gosto de minha morte na boca deu-me perspectiva e coragem. O importante é a coragem de ser eu mesmo."
+  },
+  {
+    "id": 489,
+    "autor": "Charles Bukowski",
+    "frase": "Eles pensaram que eu tinha coragem, mas eles perceberam tudo errado. Eu só estava com medo das coisas mais importantes."
+  },
+  {
+    "id": 490,
+    "autor": "Arnaldo Jabor",
+    "frase": "E ser livre não é beijar na boca e não ser de ninguém. É ter coragem, ser autêntico e se permitir viver um sentimento..."
+  },
+  {
+    "id": 491,
+    "autor": "Winston Churchill",
+    "frase": "A coragem é a primeira das qualidades humanas, porque é a qualidade que garante as demais."
+  },
+  {
+    "id": 492,
+    "autor": "Chico Buarque",
+    "frase": "Quero ficar no teu corpo feito tatuagem\nQue é pra te dar coragem\nPra seguir viagem\nQuando a noite vem\nE também pra me perpetuar em tua escrava\nQue você pega, esfrega, nega\nMas não lava"
+  },
+  {
+    "id": 493,
+    "autor": "Zíbia Gasparetto",
+    "frase": "Assumir a responsabilidade por nossos atos, com coragem e disposição, nos coloca a favor da vida e ela nos apoia."
+  },
+  {
+    "id": 494,
+    "autor": "Desconhecido",
+    "frase": "É preciso coragem para levantar-se e falar, mas também é preciso coragem para sentar-se e ouvir."
+  },
+  {
+    "id": 495,
+    "autor": "Caio Fernando Abreu",
+    "frase": "Coragem, às vezes, é desapego. É parar de se esticar em vão, para trazer a linha de volta. É aceitar doer inteiro até florir de novo."
+  },
+  {
+    "id": 496,
+    "autor": "Allan Kardec",
+    "frase": "O fardo é proporcional às forças, como a recompensa será proporcional à resignação e à coragem."
+  },
+  {
+    "id": 497,
+    "autor": "Dalai Lama",
+    "frase": "Devemos gerar coragem igual ao tamanho das dificuldades que enfrentamos."
+  },
+  {
+    "id": 498,
+    "autor": "Nelson Mandela",
+    "frase": "Aprendi que a coragem não é a ausência do medo, mas o triunfo sobre ele. O homem corajoso não é aquele que não sente medo, mas o que conquista esse medo."
+  },
+  {
+    "id": 499,
+    "autor": "William Shakespeare",
+    "frase": "A coragem cresce com a ocasião."
+  },
+  {
+    "id": 500,
+    "autor": "Luiz Gasparetto",
+    "frase": "Quem tem autoestima tem muita coragem, se mete em tudo, não tem medo de errar."
+  },
+  {
+    "id": 501,
+    "autor": "Rubem Alves",
+    "frase": "Todo mundo gostaria de se mudar para um lugar mágico. Mas são poucos os que têm coragem de tentar."
+  },
+  {
+    "id": 502,
+    "autor": "Charles Bukowski",
+    "frase": "Saber que não tinha coragem de fazer o que era necessário, me fez sentir horrível."
+  },
+  {
+    "id": 503,
+    "autor": "Virginia Woolf",
+    "frase": "Esta alma, ou vida dentro de nós, sem opção concorda com a vida exterior. Se alguém tiver a coragem de perguntá-la o que pensa, ela está sempre dizendo exatamente o oposto do que as outras pessoas dizem."
+  },
+  {
+    "id": 504,
+    "autor": "Chico Xavier",
+    "frase": "A verdadeira coragem não é a de enfrentar o leão, a cobra, mas, sim, a de enfrentar o nosso próprio impulso."
+  },
+  {
+    "id": 505,
+    "autor": "Abraham Lincoln",
+    "frase": "Tem direito de criticar o que tem coragem de ajudar."
+  },
+  {
+    "id": 506,
+    "autor": "Oscar Wilde",
+    "frase": "Sim, você me estimará, sempre. Represento para você todos os pecados que nunca teve coragem de cometer.\n\nO Retrato de Dorian Gray"
+  },
+  {
+    "id": 507,
+    "autor": "Paulo Coelho",
+    "frase": "Todos nós sabemos o que é o medo. Mas a paixão nos faz ter coragem."
+  },
+  {
+    "id": 508,
+    "autor": "Tati Bernardi",
+    "frase": "É como Doritos Nacho. Não tenho coragem de levar pra casa, mas se tiver numa festa eu como"
+  },
+  {
+    "id": 509,
+    "autor": "Anne Frank",
+    "frase": "Quem for feliz, torne também feliz os outros. Quem tem coragem e fé nunca perecerá na miséria."
+  },
+  {
+    "id": 510,
+    "autor": "Victor Hugo",
+    "frase": "Tenha coragem para as grandes adversidades da vida e paciência para as pequenas e, quando tiver cumprido laboriosamente sua tarefa diária, vá dormir em paz. Deus está acordado."
+  },
+  {
+    "id": 511,
+    "autor": "Tati Bernardi",
+    "frase": "(...) Esperando porque é o que resta mesmo, não é falta de coragem, não é de se fazer, é de se sentir e só."
+  },
+  {
+    "id": 512,
+    "autor": "Clarice Lispector",
+    "frase": "Coragem e covardia são um jogo que se joga a cada instante."
+  },
+  {
+    "id": 513,
+    "autor": "Rui Barbosa",
+    "frase": "A mais triste das vidas e a mais triste das mortes são a vida e a morte do homem que não tem coragem de morrer pelo bem, quando por ele não possa viver."
+  },
+  {
+    "id": 514,
+    "autor": "Robert Louis Stevenson",
+    "frase": "Guarde seus medos para si mesmo; com os outros, compartilhe a coragem."
+  },
+  {
+    "id": 515,
+    "autor": "Augusto Cury",
+    "frase": "Ser feliz é não ter medo dos próprios sentimentos. É saber falar de si mesmo. É ter coragem para ouvir um “não”. É ter segurança para receber uma crítica, mesmo que injusta."
+  },
+  {
+    "id": 516,
+    "autor": "Caio Fernando Abreu",
+    "frase": "A gente tem tanto medo de penetrar naquilo que não sabe se terá coragem de viver."
+  },
+  {
+    "id": 517,
+    "autor": "Sócrates",
+    "frase": "Alguns têm coragem nos prazeres; outros, nas dores; alguns, no desejo; outros, nos medos; e alguns são covardes sob as mesmas condições."
+  },
+  {
+    "id": 518,
+    "autor": "Bíblia Sagrada",
+    "frase": "Portanto, não percam a coragem, pois ela traz uma grande recompensa."
+  },
+  {
+    "id": 519,
+    "autor": "Paulo Coelho",
+    "frase": "Essa é a qualidade do guerreiro: entender que vontade e coragem não são a mesma coisa.\" O Aleph"
+  },
+  {
+    "id": 520,
+    "autor": "Marilyn Monroe",
+    "frase": "Quero envelhecer sem rugas ... Eu quero ter a coragem de ser leal à face que tenho feito. Às vezes eu penso que seria mais fácil evitar a velhice, morrer jovem, mas depois que você nunca completa a sua vida, pois não? Você nunca sabe totalmente."
+  },
+  {
+    "id": 521,
+    "autor": "Caio Fernando Abreu",
+    "frase": "Não negue, apareça. Seja forte. Porque é preciso coragem para se arriscar num futuro incerto. Não posso esperar. Tenho tudo pronto dentro de mim e uma alma que só sabe viver presentes. Sem esperas, sem amarras, sem receios, sem cobertas, sem sentido, sem passados."
+  },
+  {
+    "id": 522,
+    "autor": "Paulo Coelho",
+    "frase": "Somos navegantes num mar que não conhecemos; que Ele conserve sempre nossa coragem em aceitar esse mistério."
+  },
+  {
+    "id": 523,
+    "autor": "Anaïs Nin",
+    "frase": "A vida se espande ou se encolhe de acordo com a nossa coragem."
+  },
+  {
+    "id": 524,
+    "autor": "jeanrosana",
+    "frase": "Adore como Davi. Ore como Daniel. Ame ao evangelho como João. Tenha a fé de Abraão. Tenha a coragem de Ester. A persistência de Ana. Seja sábio como Salomão. Seja valente como Gideão. Resista como José resistiu. Ame ao próximo como Jesus ama você."
+  },
+  {
+    "id": 525,
+    "autor": "Mario Quintana",
+    "frase": "A verdadeira coragem consiste, apenas, em não nos importarmos com a opinião dos outros. Mas como custa!"
+  },
+  {
+    "id": 526,
+    "autor": "Chorão",
+    "frase": "Só os loucos têm coragem pra enfrentar a vida, nessa montanha-russa louca."
+  },
+  {
+    "id": 527,
+    "autor": "Albert Einstein",
+    "frase": "Os ideais que iluminaram meu caminho e que de tempos em tempos me dão nova coragem para enfrentar a vida com alegria são a bondade, a beleza e a verdade…"
+  },
+  {
+    "id": 528,
+    "autor": "Pequena Sereia",
+    "frase": "Eu ainda acho melhor dizer que se arrependeu do que dizer que não teve coragem de tentar."
+  },
+  {
+    "id": 529,
+    "autor": "Desconhecido",
+    "frase": "Mentira é coisa de gente covarde. Quem tem coragem fala a verdade doa a quem doer."
+  },
+  {
+    "id": 530,
+    "autor": "John F. Kennedy",
+    "frase": "A coragem da vida é uma magnifica mistura de triunfo e tragédia. O homem faz o que deve fazer apesar das consequências pessoais - apesar dos obstáculos, dos perigos e das pressões - esse é o fundamento de toda a moralidade."
+  },
+  {
+    "id": 531,
+    "autor": "Thomas Hardy",
+    "frase": "A paciência é um misto de coragem moral e timidez física."
+  },
+  {
+    "id": 532,
+    "autor": "Clarice Lispector",
+    "frase": "Ser feliz é uma responsabilidade muito grande. Pouca gente tem coragem."
+  },
+  {
+    "id": 533,
+    "autor": "Henry Ford",
+    "frase": "O insucesso é apenas uma oportunidade para recomeçar com mais inteligência."
+  },
+  {
+    "id": 534,
+    "autor": "Desconhecido",
+    "frase": "O futuro pertence àqueles que acreditam na beleza de seus sonhos."
+  },
+  {
+    "id": 535,
+    "autor": "Albert Einstein",
+    "frase": "Não tentes ser bem-sucedido, tenta antes ser um homem de valor."
+  },
+  {
+    "id": 536,
+    "autor": "Friedrich Nietzsche",
+    "frase": "A vida vai ficando cada vez mais dura perto do topo."
+  },
+  {
+    "id": 537,
+    "autor": "Friedrich Nietzsche",
+    "frase": "É preciso ter o caos dentro de si para gerar uma estrela dançante."
+  },
+  {
+    "id": 538,
+    "autor": "Oscar Wilde",
+    "frase": "O descontentamento é o primeiro passo na evolução de um homem ou de uma nação."
+  },
+  {
+    "id": 539,
+    "autor": "Sêneca",
+    "frase": "Se vives de acordo com as leis da natureza, nunca serás pobre; se vives de acordo com as opiniões alheias, nunca serás rico."
+  },
+  {
+    "id": 540,
+    "autor": "Coleman Cox",
+    "frase": "Eu acredito demais na sorte. E tenho constatado que, quanto mais duro eu trabalho, mais sorte eu tenho."
+  },
+  {
+    "id": 541,
+    "autor": "Napoleão Bonaparte",
+    "frase": "Cada hora de tempo perdida na mocidade é uma possibilidade a menos nos sucessos do futuro."
+  },
+  {
+    "id": 542,
+    "autor": "Johann Goethe",
+    "frase": "Quanto mais um homem se aproxima de suas metas, tanto mais crescem as dificuldades."
+  },
+  {
+    "id": 543,
+    "autor": "Napoleon Hill",
+    "frase": "Não devemos ter medo das novas ideias! Elas podem significar a diferença entre o triunfo e o fracasso."
+  },
+  {
+    "id": 544,
+    "autor": "Khalil Gibran",
+    "frase": "O importante para uma pessoa não são os seus sucessos mas sim quanto os deseja."
+  },
+  {
+    "id": 545,
+    "autor": "Al Ries",
+    "frase": "Marketing é uma guerra mental. São as idéias que estão na cabeça das pessoas que determinam se um produto terá sucesso ou não."
+  },
+  {
+    "id": 546,
+    "autor": "Napoleão Bonaparte",
+    "frase": "O maior orador do mundo é o bom êxito."
+  },
+  {
+    "id": 547,
+    "autor": "Gustave Flaubert",
+    "frase": "FRASE MARCANTE “Os momentos mais esplêndidos da vida não são os chamados dias de êxito, mas sim aqueles dias em que, saindo de desânimo e do desespero, sentimo-nos erguer-se dentro de nós um desafio: a vida e a promessa de futuras realizações”."
+  },
+  {
+    "id": 548,
+    "autor": "Augusto Branco",
+    "frase": "Tive tanto êxito em mostrar à minha sobrinha\nque não existem verdades absolutas,\nque agora ela já não acredita em nada que eu lhe diga."
+  },
+  {
+    "id": 549,
+    "autor": "Izzo Rocha",
+    "frase": "Sempre lute com garra e determinação pelos seus ideais.\nO verdadeiro campeão é aquele que acredita na vitória!"
+  },
+  {
+    "id": 550,
+    "autor": "jeanrosana",
+    "frase": "Sempre tenho firmeza em minhas atitudes e persistência em meus ideais, mas sou paciente. Não quero que tudo me chegue de imediato. Há tempo pra todo propósito! E tudo que é meu virá em minhas mãos no momento oportuno...\nConfio em Deus, pois aprendi a esperar."
+  },
+  {
+    "id": 551,
+    "autor": "Noah Calhoun",
+    "frase": "O melhor amor é aquele que acorda a alma e nos faz querer mais, que coloca fogo em nossos corações e traz paz às nossas vidas, foi isso que você fez comigo e era isso que eu queria ter feito com você para sempre..."
+  },
+  {
+    "id": 552,
+    "autor": "Clarice Lispector",
+    "frase": "Inútil querer me classificar, eu simplesmente escapulo não deixando, gênero não me pega mais."
+  },
+  {
+    "id": 553,
+    "autor": "Fernando Pessoa",
+    "frase": "Eu não sei senão amar-te,\nNasci para te querer.\nÓ quem me dera beijar-te,\nE beijar-te até morrer."
+  },
+  {
+    "id": 554,
+    "autor": "Raul Seixas",
+    "frase": "Meu egoísmo é tão egoísta que o auge do meu egoísmo é querer ajudar."
+  },
+  {
+    "id": 555,
+    "autor": "Padre Fábio de Melo",
+    "frase": "Amar alguém é viver o exercício de não querer fazer do outro o que a gente gostaria que ele fosse. A experiência de amar e ser amado é acima de tudo a experiência do respeito."
+  },
+  {
+    "id": 556,
+    "autor": "Anne Frank",
+    "frase": "Adormeço com a ideia tola de querer ser diferente do que sou, ou de que não sou como queria ser. E de que faço tudo ao contrário."
+  },
+  {
+    "id": 557,
+    "autor": "Paulo Leminski",
+    "frase": "INCENSO FOSSE MÚSICA\n\nisso de querer ser\nexatamente aquilo\nque a gente é\nainda vai\nnos levar além"
+  },
+  {
+    "id": 558,
+    "autor": "Chico Buarque",
+    "frase": "O que será ser só\nQuando outro dia amanhecer?\nSerá recomeçar?\nSerá ser livre sem querer?"
+  },
+  {
+    "id": 559,
+    "autor": "Martha Medeiros",
+    "frase": "Saudade é nunca mais querer saber de quem se ama, e ainda assim, doer."
+  },
+  {
+    "id": 560,
+    "autor": "Kurt Cobain",
+    "frase": "Querer ser outra pessoa é uma completa perda de tempo da pessoa que você é."
+  },
+  {
+    "id": 561,
+    "autor": "Leon Tolstói",
+    "frase": "O segredo da felicidade não é fazer sempre o que se quer, mas querer sempre o que se faz."
+  },
+  {
+    "id": 562,
+    "autor": "Fernando Pessoa",
+    "frase": "Não sou nada.\nNunca serei nada.\nNão posso querer ser nada.\nÀ parte isso, tenho em mim todos os sonhos do mundo."
+  },
+  {
+    "id": 563,
+    "autor": "Clarice Lispector",
+    "frase": "Exagerada toda a vida: minhas paixões são ardentes; minhas dores de cotovelo, de querer morrer; louca do tipo desvairada; briguenta de tô de mal pra sempre; durmo treze horas seguidas; meus amigos são semi-irmãos; meus amores são sempre eternos e meus dramas, mexicanos."
+  },
+  {
+    "id": 564,
+    "autor": "Fernando Anitelli",
+    "frase": "Descobrir o verdadeiro sentido das coisas é querer saber demais!"
+  },
+  {
+    "id": 565,
+    "autor": "Renato Russo",
+    "frase": "Aonde está você agora\nAlém de aqui dentro de mim?\n\nAgimos certo sem querer\nFoi só o tempo que errou\nVai ser difícil sem você\nPorque você está comigo o tempo todo."
+  },
+  {
+    "id": 566,
+    "autor": "Tati Bernardi",
+    "frase": "Eu sou antipática mesmo, o mundo tá cheio de gente brega e limitada e é um direito meu não querer olhar na cara delas, não tô fazendo mal a ninguém, só tô fazendo bem a mim."
+  },
+  {
+    "id": 567,
+    "autor": "Caio Fernando Abreu",
+    "frase": "Inconscientemente, parecia querer buscar em autores, filmes e músicas, algum tipo de consolo. Como se alguém precisasse chegar bem perto do sofá, onde estava, colocar um das mãos em seu ombro e dizer que aquilo era normal. Que acontecia também com outras pessoas. E que iria passar."
+  },
+  {
+    "id": 568,
+    "autor": "Friedrich Nietzsche",
+    "frase": "\"Fé\" significa não querer saber o que é a verdade."
+  },
+  {
+    "id": 569,
+    "autor": "Desconhecido",
+    "frase": "A coisa mais linda que estou sentindo é estar a fim de você, é te abraçar e não querer te perder, é me apaixonar e não querer sofrer, é te beijar e sentir o gosto de viver."
+  },
+  {
+    "id": 570,
+    "autor": "Raul Seixas",
+    "frase": "Querer o meu não é roubar o seu!"
+  },
+  {
+    "id": 571,
+    "autor": "Tati Bernardi",
+    "frase": "A vida me emociona o tempo todo mas se eu ficasse chorando, quem vai pagar minhas contas e me querer cheia de olheiras? Então eu corro."
+  },
+  {
+    "id": 572,
+    "autor": "Rubem Alves",
+    "frase": "Talvez não cheguei aonde planejei ir. Mas cheguei, sem querer, aonde meu coração queria chegar, sem que eu o soubesse."
+  },
+  {
+    "id": 573,
+    "autor": "Tati Bernardi",
+    "frase": "Vou querer namorar? Não. Vou querer casar? Não. Vou querer pra pai dos filhos? Não. Então deixa pra lá que já tô velha pra essa palhaçada."
+  },
+  {
+    "id": 574,
+    "autor": "Amyr Klink",
+    "frase": "É preciso, antes de mais nada, querer."
+  },
+  {
+    "id": 575,
+    "autor": "Fernando Pessoa",
+    "frase": "Eu sou o intervalo entre o meu querer e o que a vontade dos outros fez de mim."
+  },
+  {
+    "id": 576,
+    "autor": "Arnaldo Jabor",
+    "frase": "Se ele ou ela não te quer mais, não force a barra. O outro tem o direito de não te querer. Não brigue, não ligue, não dê pití. Se a pessoa tá com dúvidas, problema dela, cabe a você esperar… ou não."
+  },
+  {
+    "id": 577,
+    "autor": "Rui Barbosa",
+    "frase": "Se querer é poder, querer é vencer."
+  },
+  {
+    "id": 578,
+    "autor": "Cazuza",
+    "frase": "Que quem ama nesta vida, às vezes ama sem querer, e que a dor no fundo esconde uma pontinha de prazer."
+  },
+  {
+    "id": 579,
+    "autor": "Caio Fernando Abreu",
+    "frase": "Não existe nada de mais esterilizante do que a perfeição de não se querer nada além do que está à nossa volta."
+  },
+  {
+    "id": 580,
+    "autor": "Tati Bernardi",
+    "frase": "“Ela sabia que precisava dele. (…) Mas tinha medo da compulsão. De querer ele sempre e sempre e pra sempre.”"
+  },
+  {
+    "id": 581,
+    "autor": "Érica Caroline",
+    "frase": "Mesmo sem querer a vida te ensina, que você se importar com as pessoas não é motivo suficiente para que elas também se importem com você."
+  },
+  {
+    "id": 582,
+    "autor": "Fernando Pessoa",
+    "frase": "Nasci sujeito como os outros a erros e a defeitos,\nMas nunca ao erro de querer compreender só com a inteligência,\nNunca ao defeito de exigir do Mundo\nQue fosse qualquer cousa que não fosse o Mundo."
+  },
+  {
+    "id": 583,
+    "autor": "João Cabral de Melo Neto",
+    "frase": "Mesmo sem querer fala em verso\nQuem fala a partir da emoção"
+  },
+  {
+    "id": 584,
+    "autor": "Oscar Wilde",
+    "frase": "As mulheres estragam qualquer romance, com essa mania de querer que eles durem para sempre."
+  },
+  {
+    "id": 585,
+    "autor": "Tati Bernardi",
+    "frase": "A pessoa não gostar de você ou a pessoa gostar de você mas não querer gostar de você ou a pessoa gostar de você mas não saber gostar de você... é tudo a mesma coisa. Então não filosofa, não tenta entender, não aprofunda. Só cai fora e pronto."
+  },
+  {
+    "id": 586,
+    "autor": "Ana Carolina",
+    "frase": "Mas toda vez que eu procuro uma saída\nAcabo entrando sem querer na tua vida."
+  },
+  {
+    "id": 587,
+    "autor": "Clarice Lispector",
+    "frase": "E tudo era muito para um coração de repente enfraquecido que só suportava o menos, só podia querer o pouco aos poucos."
+  },
+  {
+    "id": 588,
+    "autor": "Andy Warhol",
+    "frase": "Assim que você para de querer alguma coisa, você consegue aquilo."
+  },
+  {
+    "id": 589,
+    "autor": "Tati Bernardi",
+    "frase": "Eu não faço a menor idéia de como esperar você me querer. Porque se eu esperar, talvez eu não te queira mais."
+  },
+  {
+    "id": 590,
+    "autor": "Erasmo de Roterdã",
+    "frase": "A felicidade consiste essencialmente em querer-se ser o que é."
+  },
+  {
+    "id": 591,
+    "autor": "Desconhecido",
+    "frase": "Eu te amo tanto que cada amanhecer é um novo encanto, lírio puro e santo, que planto por querer."
+  },
+  {
+    "id": 592,
+    "autor": "Guimarães Rosa",
+    "frase": "-Adianta querer saber muita coisa? O senhor sabia, lá para cima - me disseram. Mas, de repente chegou neste sertão, viu tudo diverso diferente, o que nunca tinha visto. Sabença aprendida não adiantou para nada... Serviu algum?"
+  },
+  {
+    "id": 593,
+    "autor": "Ana Carolina",
+    "frase": "Às vezes não tenho vontade de escrever e é por não querer escrever nada que acabo escrevendo alguma coisa."
+  },
+  {
+    "id": 594,
+    "autor": "Desconhecido",
+    "frase": "Estar apaixonado é querer dividir o dia-a-dia, mesmo que sejam coisas comuns, mas se feitas com alguém amado se tornam especiais."
+  },
+  {
+    "id": 595,
+    "autor": "Desconhecido",
+    "frase": "A gente nunca perde por ser puro, por ser ingênuo, por querer dar amor. Quem perde é o outro que não soube receber."
+  },
+  {
+    "id": 596,
+    "autor": "Alexandre Dumas",
+    "frase": "Quando você compara as tristezas da vida real com os prazeres da imaginária, você não vai querer viver de novo, somente sonhar para sempre."
+  },
+  {
+    "id": 597,
+    "autor": "Victor Hugo",
+    "frase": "A perda das forças não esgota a vontade. Crer é apenas a segunda potência; a primeira é querer, as montanhas proverbiais que a fé transporta nada valem ao lado do que a vontade produz."
+  },
+  {
+    "id": 598,
+    "autor": "Clarice Lispector",
+    "frase": "\"Nossa amizade era tão insolúvel como a soma de dois números: inútil querer desenvolver para mais de um momento a certeza de que dois são cinco.\""
+  },
+  {
+    "id": 599,
+    "autor": "Clarice Lispector",
+    "frase": "Porque eu insisto em querer o mais difícil ? O que é mais difícil me atrai."
+  },
+  {
+    "id": 600,
+    "autor": "Felipe de Souza Silva",
+    "frase": "Se você sonha em ter algo, corra atrás, lute, conquiste, vença! E se você quer mesmo algo nunca desista!"
+  },
+  {
+    "id": 601,
+    "autor": "Cynthia Meneses",
+    "frase": "Faça tudo o que puder. Lute! Seja humilde. Conquiste o mundo."
+  },
+  {
+    "id": 602,
+    "autor": "Bob Marley",
+    "frase": "Difícil não é lutar por aquilo que se quer, e sim desistir daquilo que se mais ama.\nEu desisti. Mas não pense que foi por não ter coragem de lutar, e sim por não ter mais condições de sofrer."
+  },
+  {
+    "id": 603,
+    "autor": "Bob Marley",
+    "frase": "A vida é para quem topa qualquer parada. Não para quem para em qualquer topada."
+  },
+  {
+    "id": 604,
+    "autor": "Martin Luther King",
+    "frase": "É melhor tentar e falhar que preocupar-se e ver a vida passar.\nÉ melhor tentar, ainda que em vão, que sentar-se fazendo nada até o final.\nEu prefiro na chuva caminhar, que em dias frios em casa me esconder.\nPrefiro ser feliz, embora louco, que em conformidade viver."
+  },
+  {
+    "id": 605,
+    "autor": "Augusto Cury",
+    "frase": "Construí amigos, enfrentei derrotas, venci obstáculos, bati na porta da vida e disse-lhe: Não tenho medo de vivê-la."
+  },
+  {
+    "id": 606,
+    "autor": "Guimarães Rosa",
+    "frase": "O correr da vida embrulha tudo.\nA vida é assim: esquenta e esfria,\naperta e daí afrouxa,\nsossega e depois desinquieta.\nO que ela quer da gente é coragem"
+  },
+  {
+    "id": 607,
+    "autor": "Lucille Ball",
+    "frase": "Evite desencorajar-se: mantenha ocupações e faça do otimismo a maneira de viver. Isso restaura a fé em si."
+  },
+  {
+    "id": 608,
+    "autor": "Paulo Coelho",
+    "frase": "Os dois testes mais duros no caminho espiritual são a paciência para esperar o momento certo e a coragem de não nos decepcionar com o que encontramos."
+  },
+  {
+    "id": 609,
+    "autor": "Steve Jobs",
+    "frase": "Não deixe o barulho da opinião dos outros abafar sua voz interior. E mais importante, tenha a coragem de seguir seu coração e sua intuição. Eles de alguma forma já sabem o que você realmente quer se tornar. Tudo o mais é secundário."
+  },
+  {
+    "id": 610,
+    "autor": "Tati Bernardi",
+    "frase": "Eu descobri que tentar não ser ingênua é a nossa maior ingenuidade, eu descobri que ser inteira não me dá medo porque ser inteira já é ser muito corajosa."
+  },
+  {
+    "id": 611,
+    "autor": "Caio Fernando Abreu",
+    "frase": "Nada em mim foi covarde, nem mesmo as desistências: desistir, ainda que não pareça, foi meu grande gesto de coragem."
+  },
+  {
+    "id": 612,
+    "autor": "Fernando Anitelli",
+    "frase": "Metade de mim agora é assim, de um lado a poesia, o verbo, a saudade; do outro a luta, a força e a coragem pra chegar no fim. E o fim é belo, incerto... depende de como você vê!"
+  },
+  {
+    "id": 613,
+    "autor": "Mahatma Gandhi",
+    "frase": "Um covarde é incapaz de demonstrar amor. Isso é privilégio dos corajosos."
+  },
+  {
+    "id": 614,
+    "autor": "Oswaldo Montenegro",
+    "frase": "Que a força do medo que tenho não me impeça de ver o que anseio.\nQue a morte de tudo que acredito não me tape os ouvidos e a boca."
+  },
+  {
+    "id": 615,
+    "autor": "Dalai Lama",
+    "frase": "Para cultivar a sabedoria, é preciso força interior. Sem crescimento interno, é difícil conquistar a autoconfiança e a coragem necessárias. Sem elas, nossa vida se complica. O impossível torna-se possível com a força de vontade."
+  },
+  {
+    "id": 616,
+    "autor": "Augusto Branco",
+    "frase": "Viver é enfrentar desafios. Quem nunca enfrentou desafios, apenas passou pela vida, não viveu."
+  },
+  {
+    "id": 617,
+    "autor": "Augusto Branco",
+    "frase": "Que as outras pessoas e o medo nunca te vençam. Seja apenas tu a derrotar a ti mesmo, pela graça de teres superado todos os teus limites!"
+  },
+  {
+    "id": 618,
+    "autor": "Augusto Branco",
+    "frase": "O Condor\n\nO Condor é uma ave que desde seu nascimento está destinado a alcançar as maiores altitudes, mas jamais conseguirá isso se enquanto ainda jovem e frágil não tiver a coragem para lançar-se ao espaço e alçar o primeiro vôo."
+  },
+  {
+    "id": 619,
+    "autor": "Tumblr",
+    "frase": "Sim, eu vou chegar lá. Nada vai segurar minha determinação, nada vai eliminar meus objetivos, nada e ninguém vai tirar de mim essa vontade de tornar real tudo o que eu desejo nessa vida. Vou fazer cada esforço valer muito a pena!"
+  },
+  {
+    "id": 620,
+    "autor": "A coragem de não agradar",
+    "frase": "A coragem de ser feliz também inclui a coragem de ser detestado e de agir sem se preocupar em satisfazer as expectativas dos outros. Quando você adquire essa coragem, seus relacionamentos ganham uma nova leveza."
+  },
+  {
+    "id": 621,
+    "autor": "A coragem de não agradar",
+    "frase": "Para começar a corrigir nossos erros e mudar de verdade, é preciso parar de pensar que tudo é competição, uma questão de vencer ou perder."
+  },
+  {
+    "id": 622,
+    "autor": "A coragem de não agradar",
+    "frase": "Admitir erros, pedir desculpas, se afastar de lutas pelo poder – nada disso é derrota. Não se busca a superioridade competindo com outras pessoas."
+  },
+  {
+    "id": 623,
+    "autor": "A coragem de não agradar",
+    "frase": "Ser detestado prova que você está exercendo sua liberdade e vivendo em liberdade, é sinal de que está vivendo de acordo com os próprios princípios."
+  },
+  {
+    "id": 624,
+    "autor": "Roger Stankewski",
+    "frase": "Seja resiliente, acredite na sua força, no seu potencial, creia que é capaz e você será!"
+  },
+  {
+    "id": 625,
+    "autor": "Claudiney Ribeiro",
+    "frase": "Por mais que você batalhe e vença com esforço, se você não conseguiu com honestidade você não conseguiu nada."
+  },
+  {
+    "id": 626,
+    "autor": "Simone Weil",
+    "frase": "A pureza é a capacidade de contemplar a mácula."
+  },
+  {
+    "id": 627,
+    "autor": "Marquês de Maricá",
+    "frase": "Os homens de pouca inteligência não sabem encarecer a própria capacidade sem rebaixar a dos outros."
+  },
+  {
+    "id": 628,
+    "autor": "Francis Bacon",
+    "frase": "Instrução e capacidade humana, são sinónimos."
+  },
+  {
+    "id": 629,
+    "autor": "L.A.T.Syndicate",
+    "frase": "Nostalgia: a capacidade de recordar os preços de ontem, esquecendo os salários de hoje."
+  },
+  {
+    "id": 630,
+    "autor": "Paul Holbach",
+    "frase": "A ambição é louvável quando acompanhada pelo desejo e pela capacidade de fazer felizes os outros."
+  },
+  {
+    "id": 631,
+    "autor": "Hugo Hofmannsthal",
+    "frase": "O bom gosto é a capacidade de reagir continuamente contra o exagero."
+  },
+  {
+    "id": 632,
+    "autor": "Desconhecido",
+    "frase": "É preciso ter confiança na capacidade que cada pessoa tem de ensinar a si mesma."
+  },
+  {
+    "id": 633,
+    "autor": "Ernest Renan",
+    "frase": "O homem vale na medida da sua capacidade de admirar."
+  },
+  {
+    "id": 634,
+    "autor": "Cláudio de Moura Castro",
+    "frase": "A criatividade de uma nação está ligada à capacidade de pensar e teorizar, o que requer uma boa educação e, daí, partir para o inventar e, depois, ir até as últimas consequências no fazer."
+  },
+  {
+    "id": 635,
+    "autor": "William Hazlitt",
+    "frase": "Como a nossa confiança, assim é a nossa capacidade."
+  },
+  {
+    "id": 636,
+    "autor": "Mikhail Saltykov-Stcherdrine",
+    "frase": "A vergonha é a preciosíssima capacidade do homem de relacionar os seus comportamentos com as exigências daquela suprema consciência, que nos foi deixada de herança pela história da humanidade."
+  },
+  {
+    "id": 637,
+    "autor": "Marquês de Maricá",
+    "frase": "É fácil avaliar o juízo ou a capacidade de qualquer homem quando se sabe o que ele mais ambiciona."
+  },
+  {
+    "id": 638,
+    "autor": "Denis Diderot",
+    "frase": "Estou mais seguro da minha capacidade de julgar do que dos meus olhos."
+  },
+  {
+    "id": 639,
+    "autor": "Augusto Cury",
+    "frase": "Apesar dos nossos defeitos, precisamos enxergar que somos pérolas únicas no teatro da vida e entender que não existem pessoas de sucesso ou pessoas fracassadas. O que existe são pessoas que lutam pelos seus sonhos ou desistem deles."
+  },
+  {
+    "id": 640,
+    "autor": "José Saramago",
+    "frase": "O que as vitórias têm de mau é que não são definitivas. O que as derrotas têm de bom é que também não são definitivas."
+  },
+  {
+    "id": 641,
+    "autor": "Ayrton Senna",
+    "frase": "Se você quer ser bem-sucedido, precisa ter dedicação total, buscar seu último limite e dar o melhor de si."
+  },
+  {
+    "id": 642,
+    "autor": "Michelle Ramos",
+    "frase": "Se a emoção superar a razão, nunca será possível alcançar o êxito da mudança."
+  },
+  {
+    "id": 643,
+    "autor": "Johann Goethe",
+    "frase": "Este desejo de elevar o mais possível a pirâmide da minha existência, cuja base me foi dada e me domina, ultrapassa qualquer outro e mal me permite um instante de esquecimento."
+  },
+  {
+    "id": 644,
+    "autor": "Hugo Hofmannsthal",
+    "frase": "Ficar calado tanto quanto possível e não deixar, por isso, de estar alegre."
+  },
+  {
+    "id": 645,
+    "autor": "Friedrich Novalis",
+    "frase": "Só é possível transformar-se na medida em que já se é."
+  },
+  {
+    "id": 646,
+    "autor": "Otto von Bismarck",
+    "frase": "A política é a doutrina do possível."
+  },
+  {
+    "id": 647,
+    "autor": "Jean de La Fontaine",
+    "frase": "Há que, na medida do possível, prestar favores a todos: quantas vezes não precisamos de quem é menos do que nós."
+  },
+  {
+    "id": 648,
+    "autor": "Margarida",
+    "frase": "A liberdade me ensinou e muito bem que nela se concentra todo o prazer possível."
+  },
+  {
+    "id": 649,
+    "autor": "Jean de la Bruyere",
+    "frase": "Desejamos fazer toda a felicidade, ou, não sendo isso possível, toda a infelicidade daqueles a quem amamos."
+  },
+  {
+    "id": 650,
+    "autor": "Roger Von Oech",
+    "frase": "Quando novas informações surgem e as circunstâncias mudam já não é possível resolver os problemas com as soluções de ontem."
+  },
+  {
+    "id": 651,
+    "autor": "Bernard Fontenelle",
+    "frase": "Só raramente conseguimos que nos amem, mas é sempre possível fazer com que nos estimem."
+  },
+  {
+    "id": 652,
+    "autor": "Émile-Auguste Chartier",
+    "frase": "Nenhum possível é belo; apenas o real é belo."
+  },
+  {
+    "id": 653,
+    "autor": "Píndaro",
+    "frase": "Não é possível com mente mortal / indagar os pensamentos dos deuses."
+  },
+  {
+    "id": 654,
+    "autor": "Luc de Clapiers Vauvenargues",
+    "frase": "Antes de atacar um abuso, deve ver-se se é possível arruinar-lhe os alicerces."
+  },
+  {
+    "id": 655,
+    "autor": "Teixeira Pascoaes",
+    "frase": "É possível que entre o crime e a inspiração haja um certo parentesco."
+  },
+  {
+    "id": 656,
+    "autor": "Paul Bourget",
+    "frase": "Uma nobre amizade é uma obra mestra a dois em que não é possível discernir o que pertence a um ou a outro dos colaboradores."
+  },
+  {
+    "id": 657,
+    "autor": "René Daumal",
+    "frase": "Um homem não pode viver sem lume, e não é possível fazer-se lume sem queimar alguma coisa."
+  },
+  {
+    "id": 658,
+    "autor": "Vergílio Ferreira",
+    "frase": "Não te coíbas de repetir o que já disseste, porque és pequeno e só assim talvez será possível que te ouçam."
+  },
+  {
+    "id": 659,
+    "autor": "Pierre Corneille",
+    "frase": "É possível doar muito sem criar obrigações: / a maneira de dar vale muito mais do que o donativo."
+  },
+  {
+    "id": 660,
+    "autor": "Sébastien-Roch Chamfort",
+    "frase": "Um amoroso é um homem que se empenha em ter mais amor do que lhe é possível ter, e essa é a razão por que todos os homens amorosos parecem ridículos."
+  },
+  {
+    "id": 661,
+    "autor": "Benedetto Croce",
+    "frase": "À questão: - O que é a arte? - seria possível responder brincando (mas não seria uma brincadeira tola): que a arte é o que todos sabem o que é."
+  },
+  {
+    "id": 662,
+    "autor": "Pierre Beaumarchais",
+    "frase": "Só é possível corrigir os homens fazendo-os ver-se tais como são."
+  },
+  {
+    "id": 663,
+    "autor": "Dave Barry",
+    "frase": "Outra possível fonte de orientação para adolescentes é a televisão, mas a mensagem da televisão tem sempre sido da necessidade de verdade, sabedoria e paz mundial empalidecida pela comparação da necessidade de pasta de dente que oferece dentes mais brancos a hálito mais puro."
+  },
+  {
+    "id": 664,
+    "autor": "Quentin Crisp",
+    "frase": "Os jovens sempre tiveram um problema: como é que é possível rebelarem-se e enquadrarem-se ao mesmo tempo? Agora parece que o resolveram: desafiando os pais e copiando-se uns aos outros."
+  },
+  {
+    "id": 665,
+    "autor": "Friedrich Schlegel",
+    "frase": "Só é possível tornar-se filósofo, não sê-lo. Assim que se acredita sê-lo, cessa-se de se tornar filósofo."
+  },
+  {
+    "id": 666,
+    "autor": "Ludwig Borne",
+    "frase": "É possível substituir uma ideia por outra, menos a da liberdade."
+  },
+  {
+    "id": 667,
+    "autor": "Augusto Cury",
+    "frase": "Os sonhos precisam de persistência e coragem para serem realizados. Nós os regamos com nossos erros, fragilidades e dificuldades. Quando lutamos por eles, nem sempre as pessoas que nos rodeiam nos apoiam e nos compreendem. Às vezes somos obrigados a tomar atitudes solitárias, tendo como companheiros apenas nossos próprios sonhos."
+  },
+  {
+    "id": 668,
+    "autor": "Norman Vincent Peale",
+    "frase": "Acredite em seus ideais e lute por eles, até que eles se tornem um dogma para você."
+  },
+  {
+    "id": 669,
+    "autor": "George Bernard Shaw",
+    "frase": "O sucesso encoberta uma multidão de tolices."
+  },
+  {
+    "id": 670,
+    "autor": "Arthur Ashe",
+    "frase": "O sucesso é uma jornada, não um destino. A ação é geralmente mais importante que o resultado. Nem todo mundo pode ser o número 1."
+  },
+  {
+    "id": 671,
+    "autor": "Jonathan Winters",
+    "frase": "Eu não podia esperar pelo sucesso, então eu fui em frente sem ele."
+  },
+  {
+    "id": 672,
+    "autor": "Barry Humphries",
+    "frase": "A amizade é testada mais nos anos fartos de sucesso do que nos anos magros de luta."
+  },
+  {
+    "id": 673,
+    "autor": "Sébastien-Roch Chamfort",
+    "frase": "Muitos livros devem o seu sucesso à afinidade entre a mediocridade das ideias do escritor e as do público."
+  },
+  {
+    "id": 674,
+    "autor": "Tito Lívio",
+    "frase": "Quanto maior é o sucesso menos se pode confiar nele."
+  },
+  {
+    "id": 675,
+    "autor": "Johann Goethe",
+    "frase": "Tudo no mundo pode durar sempre, excepto o sucesso contínuo."
+  },
+  {
+    "id": 676,
+    "autor": "Frank Tyge",
+    "frase": "O sucesso frequentemente está a apenas uma ideia de distância."
+  },
+  {
+    "id": 677,
+    "autor": "Ésquilo",
+    "frase": "O sucesso: / entre os mortais, este é um deus, ou melhor, mais do que um deus."
+  },
+  {
+    "id": 678,
+    "autor": "Yukio Mishima",
+    "frase": "As mulheres: bolas de sabão; o dinheiro: bolas de sabão; o sucesso: bolas de sabão. Os reflexos sobre as bolas de sabão são o mundo em que vivemos."
+  },
+  {
+    "id": 679,
+    "autor": "John Collins",
+    "frase": "Na vida o segredo do sucesso é conhecido apenas por aqueles que não são bem sucedidos."
+  },
+  {
+    "id": 680,
+    "autor": "Ishikawa",
+    "frase": "As falhas são o combustível do sucesso."
+  },
+  {
+    "id": 681,
+    "autor": "Victor Hugo",
+    "frase": "Tudo se rende ao sucesso, até a gramática."
+  },
+  {
+    "id": 682,
+    "autor": "Edward Bono",
+    "frase": "Sucesso: todos tem uma ideia do que significa, mas uma definição exata é impossível."
+  },
+  {
+    "id": 683,
+    "autor": "Cindy Adams",
+    "frase": "O sucesso tem feito o fracasso de muitos homens."
+  },
+  {
+    "id": 684,
+    "autor": "Salústio",
+    "frase": "Cada um é forjador do seu próprio sucesso."
+  },
+  {
+    "id": 685,
+    "autor": "Luis Felipe Ozorio",
+    "frase": "A diferença do sucesso ou não sucesso está dentro da gente. Está na forma como nós pensamos, na forma como nós agimos."
+  },
+  {
+    "id": 686,
+    "autor": "Eclesiastes",
+    "frase": "Agir com sabedoria assegura o sucesso."
+  },
+  {
+    "id": 687,
+    "autor": "Amado Nervo",
+    "frase": "Se você nunca teve um grande sucesso, não sabe ainda o que vale. O sucesso é a pedra de toque das grandes personalidades."
+  },
+  {
+    "id": 688,
+    "autor": "Catão",
+    "frase": "A maior parte das pessoas tornam-se presumidas e orgulhosas com o sucesso."
+  },
+  {
+    "id": 689,
+    "autor": "Wostinho Nascimento",
+    "frase": "O segredo do sucesso é positividade, paciência, persistência e fé em DEUS!"
+  },
+  {
+    "id": 690,
+    "autor": "Stendhal",
+    "frase": "A coragem consiste em escolher o mal menor, por mais que ele ainda possa ser."
+  },
+  {
+    "id": 691,
+    "autor": "Jean Jaurès",
+    "frase": "A coragem é ser ao mesmo tempo, e qualquer que seja o ofício, um prático e um filósofo."
+  },
+  {
+    "id": 692,
+    "autor": "Henrik Ibsen",
+    "frase": "Nunca compreendi a solidariedade. Aceitei-a como artigo de fé tradicional. Se tivéssemos coragem de a afastar completamente, livrar-nos-íamos do peso que incomoda a nossa personalidade."
+  },
+  {
+    "id": 693,
+    "autor": "E. M. Forster",
+    "frase": "Se eu tivesse de escolher entre trair a minha pátria e trair um amigo, esperaria ter a coragem necessária para trair a minha pátria."
+  },
+  {
+    "id": 694,
+    "autor": "Paolo Mantegazza",
+    "frase": "Quanta gente é boa, porque não tem a coragem de ser má!"
+  },
+  {
+    "id": 695,
+    "autor": "Theophile Gautier",
+    "frase": "Poucas pessoas têm a coragem de ser covardes diante de testemunhas."
+  },
+  {
+    "id": 696,
+    "autor": "Eurípedes",
+    "frase": "A grande coragem, para mim é a prudência."
+  },
+  {
+    "id": 697,
+    "autor": "Stendhal",
+    "frase": "Só temos coragem para com os que amamos amando-os menos."
+  },
+  {
+    "id": 698,
+    "autor": "Sébastien-Roch Chamfort",
+    "frase": "Admira-se o talento, a coragem, a bondade, as grandes dedicações e as provas difíceis, mas só temos consideração pelo dinheiro."
+  },
+  {
+    "id": 699,
+    "autor": "Stendhal",
+    "frase": "O escritor precisa de quase tanta coragem como o guerreiro; um não deve preocupar-se mais com os jornalistas do que o outro com o hospital."
+  },
+  {
+    "id": 700,
+    "autor": "Condessa Diane",
+    "frase": "A coragem vai-se buscar tanto à desesperação como à esperança; não se tem nada a perder ou tem-se tudo a ganhar."
+  },
+  {
+    "id": 701,
+    "autor": "Emanuel Wertheimer",
+    "frase": "Somente o gênio tem a coragem de não tentar ser agradável a todos."
+  },
+  {
+    "id": 702,
+    "autor": "Georg Brandes",
+    "frase": "É preciso coragem para ter talento."
+  },
+  {
+    "id": 703,
+    "autor": "Arthur Adamov",
+    "frase": "A única coragem é falarmos na primeira pessoa."
+  },
+  {
+    "id": 704,
+    "autor": "Clara Luce",
+    "frase": "A coragem é a escada por onde sobem as outras virtudes."
+  },
+  {
+    "id": 705,
+    "autor": "Jim Petersen",
+    "frase": "A coragem começa quando você passa a entender que você a tem. A coragem cresce forte em vitalidade cada vez que é usada."
+  },
+  {
+    "id": 706,
+    "autor": "Émile-Auguste Chartier",
+    "frase": "Todas as virtudes são coragem; eis porque a palavra covarde é a mais grave das injúrias."
+  },
+  {
+    "id": 707,
+    "autor": "Marcel Jouhandeau",
+    "frase": "Não há coragem triste."
+  },
+  {
+    "id": 708,
+    "autor": "Ennio Flaiano",
+    "frase": "Quase todos os jovens têm a coragem das opiniões alheias."
+  },
+  {
+    "id": 709,
+    "autor": "Johan Kellgren",
+    "frase": "Por vezes a falta de génio não é mais do que falta de coragem."
+  },
+  {
+    "id": 710,
+    "autor": "Georges Duhamel",
+    "frase": "Há sempre coragem em dizer o que todo o mundo pensa."
+  },
+  {
+    "id": 711,
+    "autor": "Giacomo Leopardi",
+    "frase": "Natureza nobre é aquela / que tem coragem / de olhar nos olhos / o destino comum, e que com franca língua, / sem subtrair nada da verdade, / confessa o mal que nos foi dado como destino / e a condição baixa e frágil do homem."
+  },
+  {
+    "id": 712,
+    "autor": "Pedro Barca",
+    "frase": "A coragem é filha da prudência, não da temeridade."
+  },
+  {
+    "id": 713,
+    "autor": "André Malraux",
+    "frase": "A coragem é uma coisa que se organiza."
+  },
+  {
+    "id": 714,
+    "autor": "José de Alencar",
+    "frase": "O sucesso nasce do querer, da determinação e persistência em se chegar a um objetivo."
+  },
+  {
+    "id": 715,
+    "autor": "Heitor Levinski",
+    "frase": "Acredite no seu sonho, lute por ele, e quando tiver a oportunidade aproveite como se fosse um momento único em sua vida, e, acredite, ele pode não ser único, mas vai ser inesquecível."
+  },
+  {
+    "id": 716,
+    "autor": "Tarcísio Custódio",
+    "frase": "Se os seus sonhos são grandes, lute por eles, pois desistir não é bom, acredite em você mesmo, mas sempre com a certeza de que Deus é maior que todas as coisas, e com Ele todos os sonhos perdidos se tornam sonhos renovados e realizados!"
+  },
+  {
+    "id": 717,
+    "autor": "Vitor Rafael",
+    "frase": "Vitória\n\nSe estiver sem forças, lute,\nSe estiver sem fé, acredite!\nSe todos estiverem rindo de você, supere-se\nSe seus inimigos estão vencendo, surpreenda\nSe estiver com medo, enfrente\nSó vencemos o que enfrentamos!"
+  },
+  {
+    "id": 718,
+    "autor": "Aline Aparecida Rocha",
+    "frase": "Lute mesmo sem forças. Acredite mesmo sem esperanças."
+  },
+  {
+    "id": 719,
+    "autor": "Maycon Robert",
+    "frase": "Então não desanime, lute, acredite, tenha esperança, e quando superar mais uma dificuldade, desfrute da vitória (...)."
+  },
+  {
+    "id": 720,
+    "autor": "Tommy Lasorda",
+    "frase": "A diferença entre o impossível e o possível está na determinação de uma pessoa."
+  },
+  {
+    "id": 721,
+    "autor": "NILSON HURAN",
+    "frase": "Equilíbrio, objetivo, organização e determinação são a chave do sucesso para tudo."
+  },
+  {
+    "id": 722,
+    "autor": "Kobe Bryant",
+    "frase": "Quando você conhece a sensação de fracasso, a determinação persegue o sucesso."
+  },
+  {
+    "id": 723,
+    "autor": "Julio Aukay",
+    "frase": "Para vencer na perfeição\nLute com coragem\nE determinação\nAcredite em si mesmo;\n\nPara se preencha\nO seu próprio\nCoração;"
+  },
+  {
+    "id": 724,
+    "autor": "Dheyck Traub Amaro",
+    "frase": "Coragem, atitude, fé e determinação. Sem isso, seus sonhos vocês jamais os terão."
+  },
+  {
+    "id": 725,
+    "autor": "Ângelo Vieira da Silva, Pastor Presbiteriano",
+    "frase": "Encare os dias de guerra com coragem e determinação. Assim, verás os dias de glória com humildade e gratidão."
+  },
+  {
+    "id": 726,
+    "autor": "Desconhecido",
+    "frase": "Não fuja de seus problemas nem se desespere. Encare-os de frente com coragem e determinação, pois, se não resolvê-los no dia de hoje, certamente terá que fazê-lo no dia de amanhã, porque eles continuarão existindo enquanto não forem resolvidos, prolongando o seu sofrimento."
+  },
+  {
+    "id": 727,
+    "autor": "Jared Hassan",
+    "frase": "Perseverança, determinação, fé, coragem, bençãos que Deus nos honra todos os dias para que juntos Dele sejamos sempre vitoriosos sobre qualquer adversidade..."
+  },
+  {
+    "id": 728,
+    "autor": "Caio Fernando Abreu",
+    "frase": "Veja – se não fora pra ser, não vai ser. Acredite em mim. Coisa boba essa sua tentativa de ir além."
+  },
+  {
+    "id": 729,
+    "autor": "Paulo Coelho",
+    "frase": "Não acredite que está mal: deixe que a Mãe possua seu corpo e sua alma, entregue-se através da dança ou do silêncio, ou das coisas comuns da vida."
+  },
+  {
+    "id": 730,
+    "autor": "Milly Lacombe",
+    "frase": "Que você acredite que não me deve nada simplesmente porque os amores mais puros não entendem dívida, nem mágoa, nem arrependimento. Então, que não se arrependa. Da gente. Do que fomos."
+  },
+  {
+    "id": 731,
+    "autor": "Calvin Coolidge",
+    "frase": "Nada no mundo se compara à persistência. Nem o talento; não há nada mais comum do que homens malsucedidos e com talento. Nem a genialidade; a existência de gênios não recompensados é quase um provérbio. Nem a educação; o mundo está cheio de negligenciados educados. A persistência e determinação são, por si sós, onipotentes."
+  },
+  {
+    "id": 732,
+    "autor": "Calvin Coolidge",
+    "frase": "Nada no mundo consegue tomar o lugar da persistência. O talento não consegue; nada é mais comum que homens fracassados com talento. A genialidade não consegue; gênios não recompensados é quase um provérbio. A educação não consegue; o mundo é cheio de errantes educados. A persistência e determinação sozinhas são onipotentes."
+  },
+  {
+    "id": 733,
+    "autor": "Desconhecido",
+    "frase": "Não existem limites para aqueles que possuem a capacidade de sonhar e a determinação de transformar seu sonho em realidade!"
+  },
+  {
+    "id": 734,
+    "autor": "Rubem Alves",
+    "frase": "Quero viver enquanto estiver acesa, em mim, a capacidade de me comover diante da beleza. Essa capacidade de sentir alegria é a essência da vida."
+  },
+  {
+    "id": 735,
+    "autor": "Tati Bernardi",
+    "frase": "Você seria só mais um dos chicletes que masco para distrair o dia se não viesse com a capacidade incrível de recuperar o sabor o tempo todo."
+  },
+  {
+    "id": 736,
+    "autor": "Ludwig Wittgenstein",
+    "frase": "O homem possui a capacidade de construir linguagens com as quais se pode expandir todo sentido, sem fazer idéia de como e do que cada palavra significa - como também falamos sem saber como se produzem os sons particulares."
+  },
+  {
+    "id": 737,
+    "autor": "Eric Hoffer",
+    "frase": "Em uma época de mudanças drásticas, são os que têm capacidade de aprender que herdam o futuro. Quanto aos que já aprenderam, estes descobrem-se equipados para viver em um mundo que não existe mais."
+  },
+  {
+    "id": 738,
+    "autor": "Augusto Cury",
+    "frase": "Se eu perder minha capacidade de criticar serei uma serva da teoria e não uma serva da humanidade."
+  },
+  {
+    "id": 739,
+    "autor": "Artur da Távola",
+    "frase": "Prepare-se para sua capacidade de amar, para sua melhor beleza, para fazer cada vez melhor o que você sabe, seja quindim, amor, coleção de selos, estudos transcendentais, harpa, pipoca, pensamento de Kant, numismática, sorriso, sinuca ou cirurgia ocular."
+  },
+  {
+    "id": 740,
+    "autor": "William Shakespeare",
+    "frase": "Que obra prima é o homem!\nComo é nobre em sua razão!\nQue capacidade infinita!\nComo é preciso e bem-feito em forma e movimento!\nUm anjo na ação!\nUm deus no entendimento, paradigma dos animais, maravilha do mundo."
+  },
+  {
+    "id": 741,
+    "autor": "Oscar Wilde",
+    "frase": "Parece-me, às vezes, que Deus ao criar o homem superestimou Sua capacidade."
+  },
+  {
+    "id": 742,
+    "autor": "Caio Fernando Abreu",
+    "frase": "Tenho me sentido muito mal vendo minha capacidade de amar sendo destroçada, proibida, impedida."
+  },
+  {
+    "id": 743,
+    "autor": "Molière",
+    "frase": "E de todas é uma loucura sem par, este mundo querer-se endireitar."
+  },
+  {
+    "id": 744,
+    "autor": "Edmund Way Teale",
+    "frase": "Moralmente, é tão condenável não querer saber se uma coisa é verdade ou não, desde que ela nos dê prazer, quanto não querer saber como conseguimos o dinheiro, desde que ele esteja na nossa mão."
+  },
+  {
+    "id": 745,
+    "autor": "Miguel Unamuno",
+    "frase": "Crer é, em primeira instância, querer crer."
+  },
+  {
+    "id": 746,
+    "autor": "Émile-Auguste Chartier",
+    "frase": "Não querer associar-se senão com aqueles que aprovamos em tudo é uma quimera, é mesmo uma espécie de fanatismo."
+  },
+  {
+    "id": 747,
+    "autor": "Eugéne Ionesco",
+    "frase": "Querer ser do seu tempo é estar, já, ultrapassado."
+  },
+  {
+    "id": 748,
+    "autor": "Vincenzo Cuoco",
+    "frase": "Querer reformar tudo é o mesmo que querer destruir tudo."
+  },
+  {
+    "id": 749,
+    "autor": "Multatuli",
+    "frase": "Nós não ficamos a querer menos a quem conhece os nossos defeitos do que a nós próprios por sofremos deles."
+  },
+  {
+    "id": 750,
+    "autor": "AISLAN DLANO",
+    "frase": "Lute e conquiste, supere seus medos. Acredite em seus sonhos."
+  },
+  {
+    "id": 751,
+    "autor": "Mestre Arievlis",
+    "frase": "Acredite. Lute. Conquiste. E acima de tudo, seja feliz. Insista, persista e nunca desista. Cada um é o que é e oferece aquilo que tem para oferecer."
+  },
+  {
+    "id": 752,
+    "autor": "Anderson Cordeiro",
+    "frase": "Não desista,Lute!\nNão desanime,Batalhe!\nNão retraia,Avante!\nNão somos donos do mundo mas somos filhos do criador dele.\n\" se Deus é por nós,quem será contra nós? \""
+  },
+  {
+    "id": 753,
+    "autor": "Ted Willian Jacinto",
+    "frase": "Não use as pessoas como degrau para o seu sucesso! Lute, conquiste,e vença por suas próprias mãos."
+  },
+  {
+    "id": 754,
+    "autor": "Rhonda Byrne - O Segredo",
+    "frase": "Decida o que quer. Acredite que pode tê-lo. Acredite que o merece e acredite que é possível!"
+  },
+  {
+    "id": 755,
+    "autor": "Barbara Matoso",
+    "frase": "So um recado: Deus é tudo o que você tem, acredite. Quando a dor não é mais possível de suportar, é Ele que faz o possível, te trazendo o conforto impossível e assim, mais uma vez, você consegue respirar. E repito, Deus é tudo. Acredite em mim."
+  },
+  {
+    "id": 756,
+    "autor": "Winston Churchill",
+    "frase": "Se me fosse possível, escreveria a palavra seguro no umbral de cada porta, na fronte de cada homem, tão convencido estou de que o seguro pode, mediante um desembolso módico, livrar as famílias de catástrofes irreparáveis."
+  },
+  {
+    "id": 757,
+    "autor": "Augusto Branco",
+    "frase": "Ao vivenciar a felicidade de uma vida a dois, não será surpresa se tu perguntares como foi possível viver sem a pessoa amada todo este tempo!"
+  },
+  {
+    "id": 758,
+    "autor": "Marguerite Yourcenar",
+    "frase": "Peço-te humildemente, o mais humildemente possível, perdão, não por te deixar, mas por ter ficado por tanto tempo."
+  },
+  {
+    "id": 759,
+    "autor": "Augusto Cury",
+    "frase": "Jamais se esqueçam de que não é possível servir a dois senhores: ou vendemos sonhos ou nos preocupamos com nossa imagem social; ou somos fiéis à nossa consciência ou gravitamos na órbita do que os outros pensam e falam de nós."
+  },
+  {
+    "id": 760,
+    "autor": "Paulo Coelho",
+    "frase": "Porque, na vida real, o amor precisa ser possível. Mesmo que não haja uma retribuição imediata, o amor só consegue sobreviver quando existe a esperança."
+  },
+  {
+    "id": 761,
+    "autor": "Machado de Assis",
+    "frase": "Tudo é possível debaixo do sol – e a mesma coisa sucederá acima dele – Deus sabe."
+  },
+  {
+    "id": 762,
+    "autor": "Clarice Lispector",
+    "frase": "Farei o possível para não amar demais as pessoas, sobretudo por causa das pessoas..."
+  },
+  {
+    "id": 763,
+    "autor": "Desconhecido",
+    "frase": "Não posso desfazer a história e tampouco apagar os erros... A única coisa possível é continuar apontando o lápis para escrever o restante que ainda falta."
+  },
+  {
+    "id": 764,
+    "autor": "Fernando Pessoa",
+    "frase": "Porque eu desejo impossivelmente o possível, porque quero tudo, ou um pouco mais, se puder ser, ou até se não puder ser..."
+  },
+  {
+    "id": 765,
+    "autor": "Clarice Lispector",
+    "frase": "Esboço para um possível retrato"
+  },
+  {
+    "id": 766,
+    "autor": "Albert Einstein",
+    "frase": "Faça as coisas o mais simples possível, mas não mais simples."
+  },
+  {
+    "id": 767,
+    "autor": "Tumblr",
+    "frase": "Você é a única pela qual eu faria do possível ao impossível pra te conquistar."
+  },
+  {
+    "id": 768,
+    "autor": "Augusto Cury",
+    "frase": "É possível fugir dos monstros de fora, mas não dos que temos dentro da mente."
+  },
+  {
+    "id": 769,
+    "autor": "Albert Einstein",
+    "frase": "Tudo deve ser apresentado da maneira mais simples possível, porém não mais simples do que isso."
+  },
+  {
+    "id": 770,
+    "autor": "Tumblr",
+    "frase": "Guarde os seus sentimentos o máximo possível e saiba o momento certo de usá-los."
+  },
+  {
+    "id": 771,
+    "autor": "Caio Fernando Abreu",
+    "frase": "Dignidade é quando a solidão de ter escolhido ser, tão exatamente quanto possível, aquilo que se é, dói muito menos do que ter escolhido a falsa não-solidão de ser o que não se é, apenas para não sofrer a rejeição tristíssima dos outros."
+  },
+  {
+    "id": 772,
+    "autor": "Caio Fernando Abreu",
+    "frase": "Preciso de você para dizer eu te amo outra e outra vez. Como se fosse possível, como se fosse verdade, como se fosse ontem e amanhã."
+  },
+  {
+    "id": 773,
+    "autor": "Fernando Pessoa",
+    "frase": "Quando temos todos os sonhos do mundo é porque há certeza que sonhar é possível ao mesmo tempo de ter saúde."
+  },
+  {
+    "id": 774,
+    "autor": "Horácio",
+    "frase": "carpe diem quam minimum credula postero.\nColhe o dia presente e sê o menos confiante possível no futuro."
+  },
+  {
+    "id": 775,
+    "autor": "Flávio Souza",
+    "frase": "Chame o sucesso para fazer parte de sua vida. Acredite no seu potencial criador, seja inovador, treine sua mente para vencer, estipule metas e, principalmente, lute por seus ideais."
+  },
+  {
+    "id": 776,
+    "autor": "Bruce Lee",
+    "frase": "Lembre-se, o sucesso é uma jornada, não um destino. Tenha fé em sua capacidade."
+  },
+  {
+    "id": 777,
+    "autor": "William Feather",
+    "frase": "O sucesso parece ser, em grande parte, uma questão de persistir quando os outros desistiram."
+  },
+  {
+    "id": 778,
+    "autor": "Desconhecido",
+    "frase": "O sucesso começa com um sonho, do sonho para a meta, da meta para a disciplina, da disciplina para a persistência e da persistência para a conquista."
+  },
+  {
+    "id": 779,
+    "autor": "Surama Jurdi",
+    "frase": "Sucesso é questão de ATITUDE.\nQuando você decidir fazer alguma coisa, faça o seu melhor e faça até o fim."
+  },
+  {
+    "id": 780,
+    "autor": "Alexandra Guiso",
+    "frase": "Faça sua história, acredite nela, tenha fé e coragem para fazer de seus sonhos a realidade, busque o próximo, pois os sonhos e as histórias precisam de uma eternidade de seres para deixarmos real."
+  },
+  {
+    "id": 781,
+    "autor": "Marcelo Labonia",
+    "frase": "Caminhe com coragem e com dignidade,saiba utilizar os atalhos,supere e simplesmente acredite..perceba que algo bom, atrai algo de bom...o sorriso no olhar...nosso sorriso sem parar...simplesmente querer...querer e crer que tudo vai se eternizar...a algeria se realizará...e os encantos se firmar!"
+  },
+  {
+    "id": 782,
+    "autor": "Augusto Branco",
+    "frase": "O sucesso acompanha quem assume a responsabilidade por si próprio, quem faz a própria vida - quem não espera, mas faz acontecer."
+  },
+  {
+    "id": 783,
+    "autor": "Samuel Smiles",
+    "frase": "Nunca se dê por vencido. Desenvolvemos a sabedoria com os fracassos muito mais do que com os sucessos."
+  },
+  {
+    "id": 784,
+    "autor": "Eurípedes",
+    "frase": "Projetos conjuntos têm mais chance de sucesso quando se beneficiam de ambos os lados."
+  },
+  {
+    "id": 785,
+    "autor": "Desconhecido",
+    "frase": "O futuro mais brilhante é baseado num passado intensamente vivido. Você só terá sucesso na vida quando perdoar os erros e as decepções do passado. A vida é curta, mas as emoções que podemos deixar duram uma eternidade."
+  },
+  {
+    "id": 786,
+    "autor": "Augusto Branco",
+    "frase": "Não existe verdadeira vitória sem esforço e sacrifício.\nMas há, sim, quem consiga sucesso fácil.\nMas este não são vencedores: são trapaceiros."
+  },
+  {
+    "id": 787,
+    "autor": "Albert Einstein",
+    "frase": "So no Dicinario e que o trabalho vem depois do sucesso..."
+  },
+  {
+    "id": 788,
+    "autor": "Desconhecido",
+    "frase": "O futuro mais brilhante\né baseado num passado intensamente vivido.\nVocê só terá sucesso na vida quando perdoar os erros\ne as decepções do passado.\nA vida é curta, mas as emoções que podemos deixar\nduram uma eternidade.\nA vida não é de se brincar\nporque um belo dia se morre."
+  },
+  {
+    "id": 789,
+    "autor": "jeanrosana",
+    "frase": "O único \"sucesso'' que vale a pena é aquele que nos dá o direito de no final do dia deitar a cabeça no travesseiro e você dormir feliz, sabendo que você foi o ser humano que você poderia ter sido."
+  },
+  {
+    "id": 790,
+    "autor": "Augusto Branco",
+    "frase": "Muitas vezes o que te leva do sucesso ao fracasso\nnão está nos caminhos escolhidos,\nmas na imperícia com que dás os teus passos.\n= A tudo cabe um pouco de preparo."
+  },
+  {
+    "id": 791,
+    "autor": "Augusto Branco",
+    "frase": "Muitos poderão obter sucesso na vida, mas a verdadeira felicidade só será conhecida por aqueles que possuem Graça, Determinação, Paixão e Espírito!"
+  },
+  {
+    "id": 792,
+    "autor": "Tati Bernardi",
+    "frase": "Realmente, sua vida será melhor sem mim. Você jamais conseguiria acompanhar meu sucesso, meu crescimento e minhas realizações. Se contente com seu mundinho pequeno. Porque amanhã serei mulher demais para você."
+  },
+  {
+    "id": 793,
+    "autor": "Clarissa Corrêa",
+    "frase": "Tem ''amigo'' que não suporta te ver feliz. Tem conhecido que não aguenta ver o teu sucesso."
+  },
+  {
+    "id": 794,
+    "autor": "Augusto Branco",
+    "frase": "O sucesso não é como um lugar ao qual você chega,\nnem como uma estrada pela qual você passa.\nO sucesso assemelha-se mais a uma caminhada,\na uma construção, ou mesmo ao plantio:\né preciso seguir um passo após o outro, dia após dia, tijolo por tijolo.\nNão existe vitória sem labuta."
+  },
+  {
+    "id": 795,
+    "autor": "Lair Ribeiro",
+    "frase": "Acreditar na sua capacidade de mudar é um passo essencial para aumentar a sua autoestima e realizar seus ideais."
+  },
+  {
+    "id": 796,
+    "autor": "Charles Chaplin",
+    "frase": "A pior ambição do ser humano, é desejar colher os frutos, que jamais teve a coragem e ou capacidade de plantar."
+  },
+  {
+    "id": 797,
+    "autor": "Santo Agostinho",
+    "frase": "Ser cristão não é conquistar Cristo, mas deixar-se conquistar por Ele. Deixa que Ele conquiste em ti, que Ele conquiste para ti, que Ele te conquiste."
+  },
+  {
+    "id": 798,
+    "autor": "Latumia.",
+    "frase": "“Realize o obvio, pense no improvável e conquiste o impossível”.Latumia (W.J.F.)"
+  },
+  {
+    "id": 799,
+    "autor": "Demétrio Sena - Magé-RJ.",
+    "frase": "Conquiste-me; não adquira;\nquero ser teu bem; não um dos bens.\nO teu sonho de amor, não de consumo..."
+  },
+  {
+    "id": 800,
+    "autor": "Cris Westphal",
+    "frase": "Quer conquistar algo? Conquiste calos nas mãos e esfole os joelhos."
+  },
+  {
+    "id": 801,
+    "autor": "Game of Thrones",
+    "frase": "Se quiser uma vadia, compre uma. Se quiser uma rainha, conquiste-a."
+  },
+  {
+    "id": 802,
+    "autor": "Vanessa Pimentel",
+    "frase": "Não julgue sem saber. Não fale, sem conhecer. Não conquiste, se não merecer. Perca os medos, supere as perdas, mas seja você."
+  },
+  {
+    "id": 803,
+    "autor": "Desconhecido",
+    "frase": "Coragem é o que é preciso para se levantar e falar, a coragem é também o que é preciso para sentar e ouvir."
+  },
+  {
+    "id": 804,
+    "autor": "Fabrício Carpinejar",
+    "frase": "Amar é a coragem de desconhecer."
+  },
+  {
+    "id": 805,
+    "autor": "Friedrich Nietzsche",
+    "frase": "Quero ter duendes a meu redor, porque sou corajoso. A coragem que afugenta os fantasmas cria seus próprios duendes: a coragem quer rir."
+  },
+  {
+    "id": 806,
+    "autor": "Clarice Lispector",
+    "frase": "Tenho coragem? Por enquanto estou tendo: porque venho do sofrido longe, venho do inferno de amor mas agora estou livre de ti."
+  },
+  {
+    "id": 807,
+    "autor": "Friedrich Nietzsche",
+    "frase": "O mais corajoso dentre nós dispõe apenas raramente da coragem de afirmar aquilo que sabe verdadeiramente..."
+  },
+  {
+    "id": 808,
+    "autor": "Jules Renard",
+    "frase": "'Se pensássemos em todas as sortes que tivemos sem as merecer, não teríamos coragem de nos lamentar.'"
+  },
+  {
+    "id": 809,
+    "autor": "Los Hermanos",
+    "frase": "Você me falou pr'eu não me preocupar\nTer fé e ver coragem no amor..."
+  },
+  {
+    "id": 810,
+    "autor": "Charlie Brown Jr",
+    "frase": "Força, atitude, coragem, respeito, amor e memórias cravadas em meu peito!"
+  },
+  {
+    "id": 811,
+    "autor": "Clarice Lispector",
+    "frase": "Sua coragem é a de, não se conhecendo, no entanto prosseguir. É fatal não se conhecer, e não se conhecer exige coragem[...] O caminho lento aumenta as coragens secretas."
+  },
+  {
+    "id": 812,
+    "autor": "Clarice Lispector",
+    "frase": "Vou perder o resto do medo do mau gosto, vou começar meu exercício de coragem, viver não é coragem, saber que se vive é a coragem."
+  },
+  {
+    "id": 813,
+    "autor": "Clarice Lispector",
+    "frase": "Se tiver coragem, eu me deixarei continuar perdida. Mas tenho medo do que é novo e tenho medo de viver o que não entendo. Quero sempre ter a garantia de pelo menos estar pensando que entendo, não sei me entregar à desorientação."
+  },
+  {
+    "id": 814,
+    "autor": "Augusto Cury",
+    "frase": "Os piores inimigos de uma teoria são aqueles que se aderem radicalmente a ela, que não tem coragem para filtrá-la ou reciclá-la."
+  },
+  {
+    "id": 815,
+    "autor": "Arnaldo Jabor",
+    "frase": "\"E ser livre não é beijar na boca e não ser de ninguém. É ter coragem, ser autêntico e se permitir viver um sentimento...\""
+  },
+  {
+    "id": 816,
+    "autor": "Paulo Coelho",
+    "frase": ".\"Nem sempre é coragem que te faz tão agressivo, às vezes é medo ...\""
+  },
+  {
+    "id": 817,
+    "autor": "Martha Medeiros",
+    "frase": "Mas o que parecia medo era a coragem me dando as boas-vindas, me acompanhando naquele recuo solitário, quando aprendi que toda escolha requer ousadia..."
+  },
+  {
+    "id": 818,
+    "autor": "Augusto Cury",
+    "frase": "Segundo A. Cury, sábio é aquele que tem coragem de identificar as suas loucuras, procurando superá-las. Não esconde a sua irracionalidade, trata-a!"
+  },
+  {
+    "id": 819,
+    "autor": "Augusto Branco",
+    "frase": "A vida é grata com os que têm coragem para mudar,\nE se você tiver coragem,\ne fizer as coisas com amor e um pouquinho de ousadia,\nvocê verá que é possível transformar em realidade\naté o mais doce dos sonhos..."
+  },
+  {
+    "id": 820,
+    "autor": "Caio Fernando Abreu",
+    "frase": "Vivendo e sentindo coisas que a maioria das pessoas só imagina e não tem coragem de viver."
+  },
+  {
+    "id": 821,
+    "autor": "Tumblr",
+    "frase": "Acontece que eu me arrependi, e quando tomei coragem para ferir meu orgulho, e correr atrás, era tarde demais."
+  },
+  {
+    "id": 822,
+    "autor": "Tumblr",
+    "frase": "Coragem vem do grego, que quer dizer ‘agir com o coração’."
+  },
+  {
+    "id": 823,
+    "autor": "Clarice Lispector",
+    "frase": "Minha coragem foi a de um sonâmbulo, que simplesmente vai..."
+  },
+  {
+    "id": 824,
+    "autor": "Clarice Lispector",
+    "frase": "Entregar-se a pensar é uma grande emoção, e só se tem coragem de pensar na frente de outrem quando a confiança é grande a ponto de não haver constrangimento em usar, se necessário, a palavra outrem."
+  },
+  {
+    "id": 825,
+    "autor": "Desconhecido",
+    "frase": "Apontar meus defeitos é fácil. Quero ver você ter a coragem para admitir e aplaudir as minhas qualidades!"
+  },
+  {
+    "id": 826,
+    "autor": "Carlito Maia",
+    "frase": "A vida não é nada.\nCom coragem pode ser tudo."
+  },
+  {
+    "id": 827,
+    "autor": "Caio Fernando Abreu",
+    "frase": "Molhou os lábios na vodca tomando coragem de olhar para ele."
+  },
+  {
+    "id": 828,
+    "autor": "Giacomo Leopardi",
+    "frase": "Quem tem a coragem de rir é senhor do mundo."
+  },
+  {
+    "id": 829,
+    "autor": "Tati Bernardi",
+    "frase": "Amar grande é gastar reservas e ainda assim ter coragem pra dar o que não se tem."
+  },
+  {
+    "id": 830,
+    "autor": "Paulo Coelho",
+    "frase": "(...) Tenham coragem, sejam capazes de amar, mesmo que o amor pareça uma coisa traiçoeira e terrível. Alegrem-se no amor. Alegrem-se na vitória. Sigam o que o seus corações mandarem."
+  },
+  {
+    "id": 831,
+    "autor": "Clarice Lispector",
+    "frase": "É preciso coragem para me aventurar numa tentativa de concretização do que sinto. É como se eu tivesse uma moeda e não soubesse em que país ela vale."
+  },
+  {
+    "id": 832,
+    "autor": "Thomas Mann",
+    "frase": "Talvez se resumam nisso a própria juventude, a espontaneidade, a coragem e a profundeza da vida pessoal, a vontade e a faculdade de experimentar e viver com plena vitalidade a parte natural do ser."
+  },
+  {
+    "id": 833,
+    "autor": "Valmir P. Pires",
+    "frase": "Acredite, você tem forças para chegar onde quiser, basta querer"
+  },
+  {
+    "id": 834,
+    "autor": "Billy Graham",
+    "frase": "Estude a Bíblia para ser sábio; creia na mesma para ser salvo; siga os seus preceitos para ser santo."
+  },
+  {
+    "id": 835,
+    "autor": "C. H. Spurgeon",
+    "frase": "Não creia em metade do que você ouve; não repita metade do que você crer; quando ouvir uma notícia negativa divida-a por dois, depois por quatro, e não diga nada acerca do restante dela."
+  },
+  {
+    "id": 836,
+    "autor": "Rainer Maria Rilke",
+    "frase": "Não creia que aquele que agora o consola vive\ndespreocupado entre as palavras simples e brandas\nque às vezes lhe fazem bem. A vida dele tem muitas\ndificuldades e tristezas e é talvez pior que a sua.\nFosse de outra maneira, ele nunca teria sido capaz\nde achar aquelas palavras."
+  },
+  {
+    "id": 837,
+    "autor": "Abraham Lincoln",
+    "frase": "Eu tenho sucesso hoje porque tive um amigo que acreditou em mim e eu não tive coragem de decepcioná-lo."
+  },
+  {
+    "id": 838,
+    "autor": "Desconhecido",
+    "frase": "Sucesso não é o final, falhar não é fatal: é a coragem para continuar que conta."
+  },
+  {
+    "id": 839,
+    "autor": "Carlos Eduardo Back",
+    "frase": "Se não deu certo hoje, amanhã eu acordo mais cedo, preparo meu mate e tento de novo!"
+  },
+  {
+    "id": 840,
+    "autor": "Ednaldo Correia Mariano Júnior",
+    "frase": "Se quer tudo o que tanto sonha em alcançar, pare de dormir e acorde pra lutar."
+  },
+  {
+    "id": 841,
+    "autor": "sucesso, decisão",
+    "frase": "“Onde quer que você veja um negócio de sucesso, pode acreditar que ali houve um dia uma decisão corajosa.”"
+  },
+  {
+    "id": 842,
+    "autor": "Marcos Françóia",
+    "frase": "Procrastinar é uma triste forma de permitir que outros conquiste os sonhos que são seus."
+  },
+  {
+    "id": 843,
+    "autor": "1 Minuto na Palma da Mão",
+    "frase": "Não há sucesso sem ação. Não tem ação sem desejo. O desejo que é movido pela persistência e pelo aprendizado dos erros."
+  },
+  {
+    "id": 844,
+    "autor": "Jeff Bezos",
+    "frase": "Se você não for obstinado, você vai desistir de experiências muito cedo. E se você não for flexível, você vai bater com a cabeça na parede e não vai ver uma solução diferente para um problema que está tentando resolver."
+  },
+  {
+    "id": 845,
+    "autor": "Provérbio Chinês",
+    "frase": "Aquele que faz e promove o bem cultiva o seu próprio êxito."
+  },
+  {
+    "id": 846,
+    "autor": "Provérbio Judeu",
+    "frase": "A ousadia leva ao êxito."
+  },
+  {
+    "id": 847,
+    "autor": "Um sonho possível",
+    "frase": "Não preciso que aprovem minhas escolhas, só quero que as respeitem."
+  },
+  {
+    "id": 848,
+    "autor": "Pierre Laclos",
+    "frase": "Creia-me, visconde, raramente se adquirem as qualidades que podemos dispensar."
+  },
+  {
+    "id": 849,
+    "autor": "O Pequeno Príncipe",
+    "frase": "Me conquiste que eu serei teu."
+  },
+  {
+    "id": 850,
+    "autor": "Clarissa Corrêa",
+    "frase": "Estou com o coração tranquilo e em paz. Isso deve querer dizer alguma coisa."
+  },
+  {
+    "id": 851,
+    "autor": "Caetano Veloso",
+    "frase": "O quereres e o estares sempre afim\nDo que é em mim tão desigual\nFaz-me querer-te bem, querer-te mal\nBem a ti, mal ao quereres assim\nInfinitamente pessoal.\n\nE eu querendo querer-te sem ter fim\nE querendo aprender o total\nDo querer que há e do que não há em mim."
+  },
+  {
+    "id": 852,
+    "autor": "Roberto Shinyashiki",
+    "frase": "A tendência das pessoas é querer mostrar que sempre estão certas."
+  },
+  {
+    "id": 853,
+    "autor": "Tati Bernardi",
+    "frase": "Meu Deus, não me deixe ficar assim sem acreditar em nada. Ou não me deixe de forma alguma querer fingir que acredito. —"
+  },
+  {
+    "id": 854,
+    "autor": "Pequena Sereia",
+    "frase": "Confiar em pessoas erradas, dar amor a pessoas erradas e querer as pessoas erradas, ultimamente é só o que eu tenho feito."
+  },
+  {
+    "id": 855,
+    "autor": "Tati Bernardi",
+    "frase": "Homens insistem em amar a mulher pela sua falta. Eu insisto em querer ser amada pelo meu excesso."
+  },
+  {
+    "id": 856,
+    "autor": "Fernando Pessoa",
+    "frase": "Mais vale ser criança que querer compreender o mundo"
+  },
+  {
+    "id": 857,
+    "autor": "Tati Bernardi",
+    "frase": "Porque, pra ter você por perto um pouco,eu tive que não querer mais ter você por perto pra sempre. E eu soquei meu coração até ele diminuir. Só pra você nunca se assustar com o tamanho."
+  },
+  {
+    "id": 858,
+    "autor": "Tumblr",
+    "frase": "Não basta sonhar. Você tem que realizar. Não basta falar. Você tem que agir. Não basta querer. Você tem que merecer."
+  },
+  {
+    "id": 859,
+    "autor": "Desconhecido",
+    "frase": "Um dos piores erros da humanidade é querer, mas não falar. Tentar, mas não lutar. Por isso que, enquanto os maus agem, os bons se calam."
+  },
+  {
+    "id": 860,
+    "autor": "Clarice Lispector",
+    "frase": "\"O perigo de meditar é o de,sem querer,começar a pensar e pensar já não é meditar,pensar guia para um objetivo.\""
+  },
+  {
+    "id": 861,
+    "autor": "Arthur Schopenhauer",
+    "frase": "A base de todo o querer é necessidade, carência, logo, sofrimento, ao qual o homem está destinado originariamente pelo seu ser. Quando lhe falta o objeto do querer, retirado pela rápida e fácil satisfação, assaltam lhe vazio e tédio aterradores."
+  },
+  {
+    "id": 862,
+    "autor": "Fernando Pessoa",
+    "frase": "Tudo é orgulho e inconsciência. Tudo é querer mexer-se, fazer cousas, deixar rastro."
+  },
+  {
+    "id": 863,
+    "autor": "Martha Medeiros",
+    "frase": "Pare de reclamar, pare de buscar o impossível, pare de exigir perfeição de si mesmo, pare de querer encontrar lógica pra tudo, pare de contabilizar prós e contras, pare de julgar os outros, pare de tentar manter sua vida sob rígido controle. Simplesmente, divirta-se."
+  },
+  {
+    "id": 864,
+    "autor": "Fernando Pessoa",
+    "frase": "Agir,eis a inteligência verdadeira.\nSerei o quiser.\nMas tenho que querer o que for..."
+  },
+  {
+    "id": 865,
+    "autor": "Pequena Sereia",
+    "frase": "“Aprendi que todas as vezes que pensava em me afastar, eu me aproximava mais.. Mesmo sem querer e sem saber.”"
+  },
+  {
+    "id": 866,
+    "autor": "Legião Urbana",
+    "frase": "Agimos certo sem querer\nFoi só o tempo que errou\nVai ser difícil sem você\nPorque você está comigo o tempo todo."
+  },
+  {
+    "id": 867,
+    "autor": "Desconhecido",
+    "frase": "Nada adianta querer apressar as coisas, tudo vem ao seu tempo. O destino vai se encarregar de colocar você no lugar certo, na hora certa."
+  },
+  {
+    "id": 868,
+    "autor": "Tumblr",
+    "frase": "Odeio pensar demais. Querer demais. Me importar demais. Sentir demais. E não ter nada \"demais\" de volta pra mim."
+  },
+  {
+    "id": 869,
+    "autor": "Pequena Sereia",
+    "frase": "Numa dessas você esbarrou com o amor da sua vida sem querer, na fila da padaria, atravessando a rua ou até mesmo no intervalo da escola."
+  },
+  {
+    "id": 870,
+    "autor": "Clarice Lispector",
+    "frase": "Estou atrás do que fica atrás do pensamento. Inútil querer me classificar: eu simplesmente escapulo."
+  },
+  {
+    "id": 871,
+    "autor": "Caio Fernando Abreu",
+    "frase": "Que tenho andado tão confuso que ninguém pode ousar querer saber me entender."
+  },
+  {
+    "id": 872,
+    "autor": "Fernando Pessoa",
+    "frase": "Não sou nada.\nNunca serei nada.\nNão posso querer ser nada.\nÁ parte isso, tenho em mim todos os sonhos do mundo.\n\nJanelas do meu quarto, ...\n...Dais para o mistério de uma rua cruzada constantemente por gente, para uma rua inacessível a todos os pensamentos, Real..."
+  },
+  {
+    "id": 873,
+    "autor": "Arthur Schopenhauer",
+    "frase": "Não existe empreendimento mais custoso do que querer precipitar o curso calculado do tempo. Evitemos portanto dever-lhe juros."
+  },
+  {
+    "id": 874,
+    "autor": "Persistência",
+    "frase": "As lágrimas caem por muitos motivos, felicidade, alívio, saudade e dor, porém sempre tem um motivo e esse será seu combustível para seguir olhando para frente!"
+  },
+  {
+    "id": 875,
+    "autor": "Marie Curie",
+    "frase": "A vida não é fácil para nenhum de nós. Temos que ter persistência e, acima de tudo, confiança em nós mesmos."
+  },
+  {
+    "id": 876,
+    "autor": "Henry Ford",
+    "frase": "Os dias prósperos não vêm por acaso; nascem de muita fadiga e persistência."
+  },
+  {
+    "id": 877,
+    "autor": "Elon Musk",
+    "frase": "A persistência é muito importante. Você não deve desistir, a menos que seja forçado a desistir."
+  },
+  {
+    "id": 878,
+    "autor": "Ivan Teorilang",
+    "frase": "Não é a força do gotejar da água que fura a pedra, mas sim a persistência incansável desta ação."
+  },
+  {
+    "id": 879,
+    "autor": "Michele Bertoletti",
+    "frase": "Nossos sonhos realizam-se à medida que avançamos num veículo feito de persistência, com motor movido a coragem e com a força de vontade rodando no lugar dos pneus."
+  },
+  {
+    "id": 880,
+    "autor": "Luiselza Pinto",
+    "frase": "Amor é convite; não coação. É persistência; não insistência. É elogio; não humilhação. É escolha, não encolha. É lucidez; não ilusão."
+  },
+  {
+    "id": 881,
+    "autor": "Martha.Sil",
+    "frase": "\"Seja mais você, ame-se e valorize-se!! Lute, sonhe, conquiste e realize, mas se for preciso desista.\""
+  },
+  {
+    "id": 882,
+    "autor": "iran mnr",
+    "frase": "Faça o que tem que fazer derrube as críticas deixe que falem trabalhe,lute,conquiste"
+  },
+  {
+    "id": 883,
+    "autor": "Rafael Bernabé",
+    "frase": "Tenha disposição e determinação, e sua meta irá se concretizar com êxito."
+  },
+  {
+    "id": 884,
+    "autor": "Sofocleto",
+    "frase": "O êxito perde o sabor quando todos o reconhecem."
+  },
+  {
+    "id": 885,
+    "autor": "André Suarés",
+    "frase": "A baixeza é o meio mais certo de alcançar o êxito."
+  },
+  {
+    "id": 886,
+    "autor": "John Collins",
+    "frase": "Um grande sonho, em combinação com determinação, confiança, persistência e fé consistente pode fazer com que a vida se transforme na mais maravilhosa aventura a ser vivida."
+  },
+  {
+    "id": 887,
+    "autor": "Natalia Felix",
+    "frase": "Lute até o fim por aquilo que for recíproco. Caso contrário mesmo com o coração apertado, deixe o vento levar... Isso não é desistência, isso é sabedoria."
+  },
+  {
+    "id": 888,
+    "autor": "Michele Dumont",
+    "frase": "Não dê ouvidos a pessoas negativas. As neuroses de pessoas assim asfixiam a alma.\nLute pelos seus sonhos. E desistir? Nem pensar!\nAcredite primeiro que Deus é por você e depois acredite no seu potencial."
+  },
+  {
+    "id": 889,
+    "autor": "Rocky Balboa",
+    "frase": "Só mais um round!"
+  },
+  {
+    "id": 890,
+    "autor": "Campeão Forças Humilhar Coragem Desistir",
+    "frase": "A caminhada de um campeão é marcada por humilhações, em sua trajetória você irá se deparar com situações deprimente, o segredo é não desistir de caminhar, buscar forças na fonte para lutar, coragem para não desistir, fazendo assim a base até que alcance estrutura para o sucesso."
+  },
+  {
+    "id": 891,
+    "autor": "A coragem de não agradar",
+    "frase": "No momento em que alguém se convence de que está certo em um relacionamento, já entrou numa luta pelo poder."
+  },
+  {
+    "id": 892,
+    "autor": "A coragem de não agradar",
+    "frase": "Por que as pessoas buscam reconhecimento das outras pessoas? Em muitos casos, isso se deve à influência da disciplina de recompensa e punição."
+  },
+  {
+    "id": 893,
+    "autor": "A coragem de não agradar",
+    "frase": "Não importa o que tenha ocorrido em sua vida até este ponto. Isso não deve ter qualquer importância em como você vai viver a partir de agora. Você, vivendo no aqui e agora, é quem determina sua própria vida."
+  },
+  {
+    "id": 894,
+    "autor": "A coragem de não agradar",
+    "frase": "Um sentimento saudável de inferioridade não é resultante da comparação com os outros; e sim da comparação do eu com o eu ideal."
+  },
+  {
+    "id": 895,
+    "autor": "A coragem de não agradar",
+    "frase": "Tudo o que você pode fazer em relação à sua própria vida é escolher o melhor caminho em que você acredita."
+  },
+  {
+    "id": 896,
+    "autor": "A coragem de não agradar",
+    "frase": "Não podemos alterar fatos objetivos. Mas as interpretações subjetivas podem ser alteradas a quantidade de vezes que quisermos. E somos habitantes de um mundo subjetivo."
+  },
+  {
+    "id": 897,
+    "autor": "Nikola Tesla",
+    "frase": "Em todo o espaço há energia... é (só) uma questão de tempo até que os homens tenham êxito em associar seus mecanismos ao aproveitamento desta energia."
+  },
+  {
+    "id": 898,
+    "autor": "Sergio Furquim",
+    "frase": "⁠Lute pelo que você deseja.\nNão desanime no meio do caminho.\nTenha persistência.\nVocê tem um potencial escondido dentro de sua alma.\nAcredite em você que as oportunidades irão aparecer.\nVocê vai conseguir vencer todos os obstáculos e será um vencedor."
+  },
+  {
+    "id": 899,
+    "autor": "Roger BeatJesus",
+    "frase": "Até os sonhos mais impossíveis precisam dar o primeiro passo."
+  },
+  {
+    "id": 900,
+    "autor": "Ebert Willian Amâncio",
+    "frase": "Podem dizer que eu não tenho tática e não sei jogar, mas vontade e determinação nunca vão me faltar!"
+  },
+  {
+    "id": 901,
+    "autor": "Rukia - Bleach",
+    "frase": "Numa luta, fraco não é aquele que não sabe lutar, mas aquele que não tem determinação."
+  },
+  {
+    "id": 902,
+    "autor": "Izzo Rocha",
+    "frase": "Um dos grandes segredos da vida é a determinação. Se você age com dedicação total e planejamento aos seus projetos, o sucesso é uma consequência."
+  },
+  {
+    "id": 903,
+    "autor": "Arnaldo R. Barbalho Jr.",
+    "frase": "A vida é um ato de rebeldia e determinação."
+  },
+  {
+    "id": 904,
+    "autor": "Provérbio Chinês",
+    "frase": "entre o desejo ,e o alcance , apenas dois moradores , o esforço e a determinação."
+  },
+  {
+    "id": 905,
+    "autor": "Flávio dos Santos",
+    "frase": "As únicas diferenças entre o forte e o fraco estão em sua sabedoria e em sua determinação."
+  },
+  {
+    "id": 906,
+    "autor": "Gregory Weeks",
+    "frase": "A determinação não é medida pelo que você faz quando tem vontade, mas pelo que faz quando não tem vontade."
+  },
+  {
+    "id": 907,
+    "autor": "Jerikson Manuel",
+    "frase": "\" Se nada deu certo hoje , batalhe para da certo amanhã . \""
+  },
+  {
+    "id": 908,
+    "autor": "Hudson MEnezes",
+    "frase": "\"Ao invés de lamentar o que você perdeu, batalhe por aquilo que você pode conquistar.\""
+  },
+  {
+    "id": 909,
+    "autor": "Gislene Pascutti",
+    "frase": "Nunca despreze sua vida, lute com garra e determinação.\nNunca esqueça suas origens.\nSomente assim deixara para suas próximas gerações belos exemplos a serem seguidos."
+  },
+  {
+    "id": 910,
+    "autor": "Os Paralamas do Sucesso",
+    "frase": "Meus sonhos vão te buscar\nVolta prá mim\nVem pro meu mundo\nEu sempre vou te esperar!"
+  },
+  {
+    "id": 911,
+    "autor": "Paralamas do Sucesso",
+    "frase": "Se tudo tem que terminar assim\nQue pelo menos seja até o fim\nPra gente não ter nunca mais que terminar"
+  },
+  {
+    "id": 912,
+    "autor": "Os Paralamas do Sucesso",
+    "frase": "E mesmo que pareça tolo e sem sentido... eu ainda brigo por sonhos... eu ainda brigo."
+  },
+  {
+    "id": 913,
+    "autor": "Paralamas do Sucesso",
+    "frase": "Palavras duras em voz de veludo, e tudo muda, adeus velho mundo... Há um segundo tudo estava em paz."
+  },
+  {
+    "id": 914,
+    "autor": "JÚNIOR BOM SUCESSO",
+    "frase": "Não deixe ninguém e nada abalar sua fé, pois se orar, crer sem duvidar e perdoar, tereis galardão e benção em sua vida."
+  },
+  {
+    "id": 915,
+    "autor": "Paralamas do Sucesso",
+    "frase": "Eu não pedi que ela ficasse, ela sabe que na volta ainda vou estar aqui."
+  },
+  {
+    "id": 916,
+    "autor": "Paralamas do Sucesso",
+    "frase": "A vida sem freio me leva, me arrasta, me cega\nNo momento em que eu queria ver..."
+  },
+  {
+    "id": 917,
+    "autor": "Paralamas do Sucesso",
+    "frase": "Olhos fechados, pra te encontrar. Não estou ao seu lado, mas posso sonhar."
+  },
+  {
+    "id": 918,
+    "autor": "Paralamas do Sucesso",
+    "frase": "Não estou ao seu lado, mas posso sonhar."
+  },
+  {
+    "id": 919,
+    "autor": "Os Paralamas do Sucesso",
+    "frase": "E meu erro foi crer que estar ao seu lado bastaria..."
+  },
+  {
+    "id": 920,
+    "autor": "Paralamas do Sucesso",
+    "frase": "Uma noite longa... pra uma vida curta!"
+  },
+  {
+    "id": 921,
+    "autor": "Os paralamas dos sucesso",
+    "frase": "Cada canção de amor abre a ferida que não vê fim. Cada fração da dor agora é chuva que cai em mim, mas tudo vai passar como tudo passa."
+  },
+  {
+    "id": 922,
+    "autor": "Paralamas do Sucesso",
+    "frase": "E eu pagando pelos erros, que eu nem sei se cometi."
+  },
+  {
+    "id": 923,
+    "autor": "JÚNIOR BOM SUCESSO",
+    "frase": "Não desanime saiba que lá do alto tem, alguém que te ama e zela por tí, Jesus é único em nossas vidas!."
+  },
+  {
+    "id": 924,
+    "autor": "Ayn Rand",
+    "frase": "Aprenda a valorizar a si mesmo, o que significa: lute pela sua felicidade."
+  },
+  {
+    "id": 925,
+    "autor": "Desconhecido",
+    "frase": "A vida tem quatro sentidos:\nAmar, sofrer, lutar e vencer.\nPor isso ame muito, sofra pouco, lute bastante e vença sempre."
+  },
+  {
+    "id": 926,
+    "autor": "Thaís Campos",
+    "frase": "Quando você quiser algo, lute por ele, porque em algum dia você vai consegui-lo e vai ter a certeza de que tudo q fez valeu à pena..."
+  },
+  {
+    "id": 927,
+    "autor": "Clarissa Guerra Medeiros",
+    "frase": "Lute sempre pelo que você deseja. Não se deixe abater por pessoas que nada somam a tua vida. Pessoas vazias não merecem tanta atenção assim."
+  },
+  {
+    "id": 928,
+    "autor": "Lady Gaga",
+    "frase": "Lute e empurre fortemente para o que você acredita, você ficará surpreso, você é muito mais forte do que pensa."
+  },
+  {
+    "id": 929,
+    "autor": "A Cinco Passos de Você",
+    "frase": "Se a vida te afastar, lute por cada centímetro."
+  },
+  {
+    "id": 930,
+    "autor": "Cello Menezes",
+    "frase": "Se um dia a razão te pedir para desistir e o coração te mandar lutar, lute pois não é a razão que bate pra você viver e sim o coração."
+  },
+  {
+    "id": 931,
+    "autor": "Desconhecido",
+    "frase": "Ame...\nmesmo que sofra,\nmesmo que chore,\nmesmo que lute,\npara que no final diga:\nsofri, chorei, lutei."
+  },
+  {
+    "id": 932,
+    "autor": "Larissa Guerreiro.",
+    "frase": "“Sonhe, apesar das ilusões. Caminhe, apesar dos obstáculos. Lute, apesar das barreiras e, acima de tudo, acredite em você mesmo.”"
+  },
+  {
+    "id": 933,
+    "autor": "Ananda de Almeida Fonseca",
+    "frase": "Não seja melhor que ninguém, seja apenas diferente e lute pelos seus objetivos."
+  },
+  {
+    "id": 934,
+    "autor": "Justin Bieber",
+    "frase": "Você tem um sonho?\nNão deixe os outros te derrubarem, lute por aquilo que você acredita."
+  },
+  {
+    "id": 935,
+    "autor": "Ricardo Baskaville Berenguer",
+    "frase": "Por mais que tente, por mais que lute,\nnão consigo esconder os meus sentimentos.\nA dor que me percorre a alma é uma luta desigual\ncom a palavra que um dia alguém inventou e\nchamou de AMOR."
+  },
+  {
+    "id": 936,
+    "autor": "Desconhecido",
+    "frase": "Você é do tamanho dos seus sonhos! Lute, persista, insista, corra atrás, passe algumas noites sem dormir direito, mas nunca desista de seus sonhos, acredite que é capaz, se olhe no espelho e diga pra você: você tem potencial! Ninguém além de você mesmo pode torná-lo real."
+  },
+  {
+    "id": 937,
+    "autor": "Destinus",
+    "frase": "Não lute tanto para ser perfeito demais, pois nesta luta você pode se autodestruir ."
+  },
+  {
+    "id": 938,
+    "autor": "Lourran Gustavo",
+    "frase": "Sonhe, lute, corra atrás, realize. Mas nunca desista, pois nada é impossível quando temos força, foco e fé."
+  },
+  {
+    "id": 939,
+    "autor": "Bellah Menina",
+    "frase": "Lute por aquilo que você acredita, não espere! A única pessoa que pode fazer a vida valer a pena é você mesma! Aprenda a se desafiar…"
+  },
+  {
+    "id": 940,
+    "autor": "Vagner Xavier",
+    "frase": "Supere os desafios, bata recordes.\nO céu é o limite dos guerreiros.\nLute contra todas as suas limitações."
+  },
+  {
+    "id": 941,
+    "autor": "Cotidiano Filosófico",
+    "frase": "Lute incessantemente pelos seus sonhos, supere-se, arrisque, mas quando alcançar seu objetivo, lembre-se do preço de continuar no pódio."
+  },
+  {
+    "id": 942,
+    "autor": "Luciano Junior",
+    "frase": "Lute mesmo que ainda parecendo derrotado"
+  },
+  {
+    "id": 943,
+    "autor": "Eckhart Tolle",
+    "frase": "O que quer que você lute, você fortalece, e o que você resiste, persiste."
+  },
+  {
+    "id": 944,
+    "autor": "Ariadne Motta",
+    "frase": "Lute. Tente. Arrisque. Corra. Mude. Sensualize. Insista. Melhore. Evolua. Cresça. Chore. Pense. Mas, nunca pare."
+  },
+  {
+    "id": 945,
+    "autor": "Jhony Rodrigues",
+    "frase": "Perca hoje e viva, lute amanhã e vença!"
+  },
+  {
+    "id": 946,
+    "autor": "Gina",
+    "frase": "Se o inimigo for mais forte que você, fuja! Se ele te alcançar, lute! Se ele vencer, não se sinta culpada! Levante-se e esconda-o, onde jamais possa ser encontrado!"
+  },
+  {
+    "id": 947,
+    "autor": "Cláudio M. Assunção",
+    "frase": "Aconteça o que acontecer, seja sempre você.\nLute pelos seus ideais.\nCorra atrás do seus desejos e realize-os.\nVerás que o troféu da sua vitória é o resultado da sua conquista."
+  },
+  {
+    "id": 948,
+    "autor": "Nancy Medina",
+    "frase": "Ninguem no mundo te conhecerá tão bem quanto você mesmo, por isso seja seu melhor amigo, não lute contra você, lute a seu favor."
+  },
+  {
+    "id": 949,
+    "autor": "Carina Rissi",
+    "frase": "Contos de fadas podem se tornar realidade. Basta que a princesa não lute contra a própria felicidade."
+  },
+  {
+    "id": 950,
+    "autor": "São Padre Pio de Pietrelcina",
+    "frase": "\"Lute ferozmente contra as tentações da carne.\""
+  },
+  {
+    "id": 951,
+    "autor": "Fernando Guifer",
+    "frase": "Não lute apenas para ter grandes clientes. Trabalhe para conquistar bons e fieis amigos"
+  },
+  {
+    "id": 952,
+    "autor": "Jhones Cah",
+    "frase": "⁠Nunca se envergonhe de quem você é, o estado que você se encontra hoje não significa que será o fim da linha, tudo é uma fase aprenda a supera-la."
+  },
+  {
+    "id": 953,
+    "autor": "Perfect Liberty",
+    "frase": "Considere hoje como se fosse o primeiro dia: O sucesso anterior não garante que o êxito se repita. Cada dia é um novo desafio."
+  },
+  {
+    "id": 954,
+    "autor": "Joseh Silva",
+    "frase": "\"Não vim a este mundo pra julgar sentimentos, mas sim para vivê-los: ame enquanto sentir, lute quando der e perdoe se puder.\nAinda que pareça insuportável, eterno ou único o sentimento é algo renovável... Acredite amores existem e recomeçar sempre é possível.\""
+  },
+  {
+    "id": 955,
+    "autor": "Coragem",
+    "frase": "Quando a pessoa toma consiência de si mesma, de suas própias questões, limete e capacidade, esta pessoa se torna autônoma, sendo capaz de dirigir á sua vida de maneira mais saudável é plena."
+  },
+  {
+    "id": 956,
+    "autor": "P.C Brunório",
+    "frase": "Se você tem um sonho, lute por ele, mesmo que todos te chamem de louco, sonhador e tentem te impedir de realizá-lo. Afinal, o sonho é teu, e o único que deve acreditar nele é você."
+  },
+  {
+    "id": 957,
+    "autor": "Caio Fernando Abreu",
+    "frase": "É possível que, no fundo, sempre restem algumas coisas para serem ditas. É possível também que o afastamento total só aconteça quando não mais restam essas coisas e a gente continua a buscar, a investigar — e principalmente a fingir. Fingir que encontra.\n(Limite Branco)"
+  },
+  {
+    "id": 958,
+    "autor": "Mario Sergio Cortella",
+    "frase": "Nós, brasileiros, temos um vício, que é muito perigoso, de nos contentar muitas vezes com o possível, em vez de procurarmos o melhor."
+  },
+  {
+    "id": 959,
+    "autor": "Ayrton Senna",
+    "frase": "Quando acho que cheguei ao ponto máximo, descubro que é possível superá-lo."
+  },
+  {
+    "id": 960,
+    "autor": "César Mors",
+    "frase": "Conquiste Clientes e eles conquistarão mais Clientes para você."
+  },
+  {
+    "id": 961,
+    "autor": "Desconhecido",
+    "frase": "Em dias de chuva ou em dias de sol, em dias de tempestade ou em dias de calmaria, faça da persistência sua maior aliada, pois ela é o caminho do êxito."
+  },
+  {
+    "id": 962,
+    "autor": "Bill Eardley",
+    "frase": "Ambição é o caminho para o sucesso. Persistência é o veículo no qual se chega lá."
+  },
+  {
+    "id": 963,
+    "autor": "Douglas Michell",
+    "frase": "Se você tiver saúde, sabedoria e persistência, o sucesso será consequência."
+  },
+  {
+    "id": 964,
+    "autor": "Alice Moreira - Confessionário de um amor possível",
+    "frase": "Qual a lógica de investir em um homem que só roubou o melhor de mim? Atrapalhou minha juventude, acorrentou meus desejos, sonhos e sentimentos?"
+  },
+  {
+    "id": 965,
+    "autor": "Alice Moreira - Confessionário de um amor possível",
+    "frase": "Evolua sua consciência. Expanda a sua mente e entenda que nesse mundão ai fora, tem espaço pra todo mundo, tem amor pra todo mundo e ninguém está competindo com você."
+  },
+  {
+    "id": 966,
+    "autor": "Alexandre Alcântara",
+    "frase": "Acredite em si próprio e chegará um dia em que seu esforço será motivação aos desacreditados."
+  },
+  {
+    "id": 967,
+    "autor": "Duda Penafiel",
+    "frase": "Não foi sorte. Foi capacidade, determinação e inteligência!"
+  },
+  {
+    "id": 968,
+    "autor": "Pâmela Rugoni Belin",
+    "frase": "Acredite em você mesmo, pois é só você que pode se autojulgar. Ouse, arrisque e nunca se arrependa. Não desista jamais e saiba valorizar quem te ama, esses sim merecem seu respeito. Quanto ao resto, bom, ninguém nunca precisou de restos para ser feliz."
+  },
+  {
+    "id": 969,
+    "autor": "Eliane Azevedo",
+    "frase": "Não acredite em tudo que ouvires! Há mentiras que sempre serão ditas, e verdades que jamais serão pronunciadas..."
+  },
+  {
+    "id": 970,
+    "autor": "Felipe Teles",
+    "frase": "Dentro de nós sempre tem algo criativo, basta pensar, planejar e produzir."
+  },
+  {
+    "id": 971,
+    "autor": "Walmir Monteiro",
+    "frase": "Não acredite em versões enquanto não conhecer os fatos.\nDesacredite ilusões, prefira da realidade o retrato.\nPorque ao acreditar em suposições...\nsuponho que você é que vai pagar o pato."
+  },
+  {
+    "id": 972,
+    "autor": "Luiza Valeriano",
+    "frase": "Não se iluda com palavras. Apaixone-se por atitudes!"
+  },
+  {
+    "id": 973,
+    "autor": "Martha.Sil",
+    "frase": "Nos momentos mais difíceis, onde a dor te cega e você só deseja sentir um pouco de alívio, não desanime!\nAcredite e confie!\nUm novo dia vai amanhecer, trazendo novos objetivos para te dar forças para lutar, realizar e vencer!"
+  },
+  {
+    "id": 974,
+    "autor": "Marcelo Martins de Freitas",
+    "frase": "Algumas pessoas acreditam em destino, outras acreditam em coincidência, e os vencedores acreditam em si mesmo!\n\nReflita..."
+  },
+  {
+    "id": 975,
+    "autor": "Donei Cabálalah",
+    "frase": "É nas horas difíceis que pensa estar perdido que encontra o caminho certo, uma situação complicada é a porta de uma nova oportunidade."
+  },
+  {
+    "id": 976,
+    "autor": "Poeta Lucas Ferreira",
+    "frase": "Quando você não tiver força para atravessar o mar dos seus fracassos, acredite em si mesmo e ande sobre as águas com os teus talentos."
+  },
+  {
+    "id": 977,
+    "autor": "Meu erro - Paralamas do sucesso",
+    "frase": "\" nao há nada de novo ainda somos iguais \""
+  },
+  {
+    "id": 978,
+    "autor": "Os Paralamas do Sucesso",
+    "frase": "Cuide bem do seu amor, seja quem for."
+  },
+  {
+    "id": 979,
+    "autor": "Gil Nunes",
+    "frase": "Jamais desista, seja perseverante, empreender é preciso, lute, acredite, o fruto do seu trabalho resultará em vitória pelo alcance dos seus objetivos."
+  },
+  {
+    "id": 980,
+    "autor": "Márcio de Deus",
+    "frase": "Acredite naquilo que faz seu coração bater mais forte, lute pelos seus sonhos!"
+  },
+  {
+    "id": 981,
+    "autor": "Damaris Ester Dalmas",
+    "frase": "Acredite em você! Invista em você! Lute por você!\nE você vai chegar aonde sempre sonhou!!! E talvez até onde nunca sonhou em chegar!!!"
+  },
+  {
+    "id": 982,
+    "autor": "Prof Lourdes Duarte",
+    "frase": "Lute pelos seus sonhos, acredite que tem um Deus maravilhoso cuidando de todos. Retire os espinhos do caminho com fé. Finalmente, saindo deles descobrirás o quão maravilhoso é Deus. Não desista jamais!"
+  },
+  {
+    "id": 983,
+    "autor": "Prof Lourdes Duarte",
+    "frase": "Vá em busca dos seus sonhos, lute pelo pelos seus ideais. Você não precisa que ninguém acredite em você, confie em si mesmo, siga em frente de cabeça erguida e seja um vencedor."
+  },
+  {
+    "id": 984,
+    "autor": "Carolina Bensino",
+    "frase": "Quase tudo é possível quando se tem determinação e força de vontade. Não desista tão rápido."
+  },
+  {
+    "id": 985,
+    "autor": "Prof. Marcos Fernando da Silva",
+    "frase": "5 chaves para o sucesso em uma palavra!\n1 - Organização\n2 - Priorização\n3 - Determinação\n4 - Motivação\n5 - Inspiração\nTodas elas com a mesma sufixação, pois a ação não é se não a direção!"
+  },
+  {
+    "id": 986,
+    "autor": "Amado Nervo",
+    "frase": "Se nunca tiveste um grande êxito, não sabes o que vales; o êxito é a pedra de toque do caráter"
+  },
+  {
+    "id": 987,
+    "autor": "Desconhecido",
+    "frase": "Se um dia você se apaixonar e a razao pedir pra você desistir e o coraçao para você lutar, lute...\npois não é a razão que bate para você existir."
+  },
+  {
+    "id": 988,
+    "autor": "Caio Fernando Abreu",
+    "frase": "Nem que eu lute contra mim todos os dias. As coisas vão mudar."
+  },
+  {
+    "id": 989,
+    "autor": "Desconhecido",
+    "frase": "Lute diante das coisas mais difíceis da sua vida...para que um dia possa olhar para trás e dizer:\n-Foi difícil..Mas eu consegui!!!"
+  },
+  {
+    "id": 990,
+    "autor": "Desconhecido",
+    "frase": "Não importa o que as pessoas pensam, se você acredita que vale a pena, lute por isso."
+  },
+  {
+    "id": 991,
+    "autor": "Caio Fernando Abreu",
+    "frase": "Nem que me corte, nem que eu sofra,\nnem que eu lute contra mim todos os dias.\nAs coisas vão mudar!"
+  },
+  {
+    "id": 992,
+    "autor": "Bruno Belutti",
+    "frase": "Sucesso na vida não depende apenas do Dom... Tem coisas mais importantes como Determinação e força de Vontade."
+  },
+  {
+    "id": 993,
+    "autor": "Odielson Leão",
+    "frase": "Dar importância a si e seu potencial, acreditando que és capaz de obter êxito, isso sim é algo imprescindível para um vencedor."
+  },
+  {
+    "id": 994,
+    "autor": "BrisaH",
+    "frase": "A coragem e a determinação constituem a força motivadora do desenvolvimento."
+  },
+  {
+    "id": 995,
+    "autor": "Maria Angélica Carnevali Miquelin",
+    "frase": "Amadurecemos a medida que enfrentamos nossos problemas com a mesma coragem e determinação que batalhamos por nossos sonhos."
+  },
+  {
+    "id": 996,
+    "autor": "Yla Fernandes",
+    "frase": "Pra fazermos a nossa parte necessitamos de fé, coragem e determinação, jamais desanime e nem pense em desistir, a luta é grande... a vitória será maior ainda."
+  },
+  {
+    "id": 997,
+    "autor": "Silviane Moon",
+    "frase": "\"A determinação e a coragem são os dois fatores principais para o ser humano conseguir metas inimagináveis, inalcançáveis e inatingíveis!\""
+  },
+  {
+    "id": 998,
+    "autor": "Julio Aukay",
+    "frase": "Anime-se com coragem... E determinação para viver com intensidade, arrisque com audácias e venças com as tuas certezas;\nSejas autentico, ousado e até mesmo atrevido para mostrar o quanto és capaz no qual te julgaram insuficiente..."
+  },
+  {
+    "id": 999,
+    "autor": "Prof Lourdes Duarte",
+    "frase": "Minha força vem de Deus que me da determinação e coragem para superar os obstáculos e as tempestades que surgem na vida."
+  },
+  {
+    "id": 1000,
+    "autor": "Si Candiera",
+    "frase": "⁠A realização de um sonho é baseada no tamanho do nosso esforço, sacrifícios, determinação, coragem, fé e, principalmente, renúncias!"
+  }
+]
