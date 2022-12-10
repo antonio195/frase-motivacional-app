@@ -4,6 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:fitsSystemWindows="true"
     android:background="@color/black"
     tools:context=".MainActivity">
 
@@ -12,52 +13,51 @@
         android:layout_width="0dp"
         android:layout_height="wrap_content"
         android:layout_marginHorizontal="16dp"
-        android:layout_marginTop="220dp"
         android:fontFamily="@font/source_sans_pro"
-        tools:text="Frase"
         android:textAlignment="center"
         android:textColor="@color/white"
         android:textSize="20sp"
         android:textStyle="italic"
+        app:layout_constraintBottom_toTopOf="@id/autor_title"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent" />
+        app:layout_constraintTop_toTopOf="parent"
+        tools:text="Frase" />
 
     <TextView
         android:id="@+id/autor_title"
         android:layout_width="0dp"
         android:layout_height="wrap_content"
         android:layout_marginHorizontal="16dp"
-        android:layout_marginTop="50dp"
         android:fontFamily="@font/source_sans_pro"
-        tools:text="Autor"
         android:textAlignment="center"
         android:textColor="@color/white"
         android:textSize="20sp"
         android:textStyle="italic"
+        app:layout_constraintBottom_toTopOf="@id/btn_nova_frase"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@id/frase_title" />
+        app:layout_constraintTop_toBottomOf="@id/frase_title"
+        tools:text="Autor" />
 
     <ImageButton
         android:id="@+id/compartilhar_frase"
         android:layout_width="30dp"
-        android:contentDescription="@string/btn_share"
         android:layout_height="30dp"
-        android:scaleType="fitXY"
-        android:layout_marginBottom="50dp"
         android:background="@color/statusBar"
+        android:contentDescription="@string/btn_share"
+        android:scaleType="fitXY"
         android:src="@drawable/ic_baseline_share_24"
         app:layout_constraintBottom_toTopOf="@id/btn_nova_frase"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintStart_toStartOf="parent" />
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/autor_title" />
 
     <Button
         android:id="@+id/btn_nova_frase"
         style="@style/Widget.MaterialComponents.Button.TextButton"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_marginBottom="100dp"
         android:fontFamily="@font/source_sans_pro"
         android:hint="@string/btn_new_phrase"
         android:paddingHorizontal="30dp"
@@ -67,6 +67,7 @@
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/compartilhar_frase"
         app:rippleColor="@color/white" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>

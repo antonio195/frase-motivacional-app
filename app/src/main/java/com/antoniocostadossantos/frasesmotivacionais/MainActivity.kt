@@ -65,7 +65,7 @@ class MainActivity : AppCompatActivity() {
 
     fun pegarCorAleatoria(): Int {
         val random = Random(System.currentTimeMillis())
-        val color = Color.argb(100, random.nextInt(256), random.nextInt(256), random.nextInt(256))
+        val color = Color.argb(255, random.nextInt(100), random.nextInt(100), random.nextInt(100))
         binding.root.setBackgroundColor(color)
         return color
     }
