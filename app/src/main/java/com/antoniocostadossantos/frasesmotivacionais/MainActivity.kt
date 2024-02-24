@@ -3,6 +3,7 @@ package com.antoniocostadossantos.frasesmotivacionais
 import android.content.Context
 import android.content.Intent
 import android.graphics.Color
+import android.net.Uri
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
 import com.antoniocostadossantos.frasesmotivacionais.databinding.ActivityMainBinding
@@ -30,6 +31,10 @@ class MainActivity : AppCompatActivity() {
 
         binding.compartilharFrase.setOnClickListener {
             compartilharFrase()
+        }
+
+        binding.politicsInfo.setOnClickListener {
+            abrirPolitica()
         }
     }
 
@@ -63,10 +68,18 @@ class MainActivity : AppCompatActivity() {
         binding.fraseTitle.text = fraseList[indice].frase
     }
 
-    fun pegarCorAleatoria(): Int {
+    private fun pegarCorAleatoria(): Int {
         val random = Random(System.currentTimeMillis())
         val color = Color.argb(255, random.nextInt(100), random.nextInt(100), random.nextInt(100))
         binding.root.setBackgroundColor(color)
         return color
+    }
+
+    private fun abrirPolitica() {
+        val browserIntent = Intent(
+            Intent.ACTION_VIEW,
+            Uri.parse("https://frasediariaapp.blogspot.com/2022/12/politica-de-privacidade.html")
+        )
+        startActivity(browserIntent)
     }
 }

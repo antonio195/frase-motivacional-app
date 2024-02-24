@@ -5,14 +5,14 @@ plugins {
 
 android {
     namespace 'com.antoniocostadossantos.frasesmotivacionais'
-    compileSdk 32
+    compileSdk 34
 
     defaultConfig {
         applicationId "com.antoniocostadossantos.frasesmotivacionais"
         minSdk 23
-        targetSdk 32
-        versionCode 7
-        versionName "4.2"
+        targetSdk 33
+        versionCode 9
+        versionName "4.4"
 
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
     }
