@@ -10,7 +10,7 @@ android {
     defaultConfig {
         applicationId "com.antoniocostadossantos.frasesmotivacionais"
         minSdk 23
-        targetSdk 33
+        targetSdk 34
         versionCode 9
         versionName "4.4"
 
