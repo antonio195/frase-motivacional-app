@@ -11,8 +11,8 @@ android {
         applicationId "com.antoniocostadossantos.frasesmotivacionais"
         minSdk 23
         targetSdk 34
-        versionCode 9
-        versionName "4.4"
+        versionCode 10
+        versionName "4.5"
 
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
     }
